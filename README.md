@@ -1,6 +1,12 @@
 # NLP Project
 
-Folder breakdowns: 
-ETL - contains code for transfering data to the AWS services
-Valorant Metadata - contains different scripts for breaking down the data files for the external memory 
-for prompting - for chunking in the knowledge base  
+## Folder Breakdown
+
+### **ETL**
+Contains code for transferring data to AWS services as well as instantiating/working with bedrock.
+
+### **Valorant Metadata**
+Includes scripts for processing and breaking down data files used for the external memory system.
+
+### **For Prompting**
+Holds scripts for chunking data to populate the knowledge base effectively.
