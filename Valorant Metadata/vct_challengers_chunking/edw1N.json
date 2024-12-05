@@ -1,0 +1,78 @@
+{
+    "handle": "edw1N",
+    "date": "2023-01-11T07:17:50",
+    "status": "active",
+    "first_name": "Kuo",
+    "last_name": "Hung Jen",
+    "home_team_name": "AxX",
+    "home_team_acronym": "AXX",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 377,
+        "attack_kda": 1.52,
+        "defense_kda": 1.41,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 192.03,
+        "avg_revives_per_round": 0.06,
+        "avg_damage_dealt_per_round": 101.59,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 210,
+                "attack_kda": 1.49,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 208.0,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 106.59,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.31,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 155.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.11,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 88,
+                "attack_kda": 1.75,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 186.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.97,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Skye": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.33,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 155.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.76,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

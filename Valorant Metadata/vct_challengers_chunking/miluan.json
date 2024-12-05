@@ -1,0 +1,52 @@
+{
+    "handle": "miluan",
+    "date": "2024-01-22T14:22:20",
+    "status": "active",
+    "first_name": "Yo-Ting",
+    "last_name": "Liu",
+    "home_team_name": "S2 Esports",
+    "home_team_acronym": "S2",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 363,
+        "attack_kda": 1.25,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 206.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.02,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 193,
+                "attack_kda": 1.28,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 211.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.11,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 170,
+                "attack_kda": 1.19,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 199.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.79,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

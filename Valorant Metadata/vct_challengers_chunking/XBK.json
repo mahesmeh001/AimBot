@@ -1,0 +1,90 @@
+{
+    "handle": "XBK",
+    "date": "2023-03-27T08:49:32",
+    "status": "active",
+    "first_name": "Quang Tr\u01b0\u01a1\u0300ng",
+    "last_name": "Nguy\u00ea\u0303n",
+    "home_team_name": "The Mad Men",
+    "home_team_acronym": "TMM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 210,
+        "attack_kda": 1.14,
+        "defense_kda": 1.92,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 216.94,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.36,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.02
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 129,
+                "attack_kda": 1.12,
+                "defense_kda": 2.27,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 223.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.97,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "KAY/O": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.5,
+                "defense_kda": 2.11,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 231.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 155.85,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Sova": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.43,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 221.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.5,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.33,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 214.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.61,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Killjoy": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.7,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 151.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.15,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

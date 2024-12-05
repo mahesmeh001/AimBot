@@ -1,0 +1,54 @@
+{
+    "handle": "Paedy",
+    "date": "2024-07-15T07:06:45",
+    "status": "active",
+    "first_name": "Parkapon",
+    "last_name": "Boonkam",
+    "home_team_name": "Dangerous Rose",
+    "home_team_acronym": "DGR",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 41,
+        "attack_kda": 1.92,
+        "defense_kda": 0.62,
+        "avg_kills_per_round": 0.49,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 150.59,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 78.9,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.27
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.56,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 161.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.17,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 18,
+                "attack_kda": 3.0,
+                "defense_kda": 0.25,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 136.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.73,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.33
+            }
+        }
+    }
+}

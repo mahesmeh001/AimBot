@@ -1,0 +1,54 @@
+{
+    "handle": "BadmaN",
+    "date": "2024-01-24T12:40:39",
+    "status": "active",
+    "first_name": "Saharyar Nasi ",
+    "last_name": "Shaikh",
+    "home_team_name": "MLT ESPORTS",
+    "home_team_acronym": "MLT",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 85,
+        "attack_kda": 0.79,
+        "defense_kda": 0.94,
+        "avg_kills_per_round": 0.49,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 150.58,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.12,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.65,
+                "defense_kda": 0.76,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 128.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.66,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.94,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 169.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.63,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

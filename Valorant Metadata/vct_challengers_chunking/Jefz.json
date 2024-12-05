@@ -1,0 +1,52 @@
+{
+    "handle": "Jefz",
+    "date": "2024-05-12T15:40:41",
+    "status": "active",
+    "first_name": "Jeffrey",
+    "last_name": "Johan",
+    "home_team_name": "Cynical",
+    "home_team_acronym": "CNL",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 398,
+        "attack_kda": 1.31,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 223.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.42,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 254,
+                "attack_kda": 1.35,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 231.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.04,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Jett": {
+                "total_rounds_played": 144,
+                "attack_kda": 1.24,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 210.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.79,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

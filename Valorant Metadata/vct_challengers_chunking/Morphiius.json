@@ -1,0 +1,92 @@
+{
+    "handle": "Morphiius",
+    "date": "2023-03-27T07:36:21",
+    "status": "active",
+    "first_name": "Frandina",
+    "last_name": "Ezio",
+    "home_team_name": "HMBLE",
+    "home_team_acronym": "HMB",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 414,
+        "attack_kda": 0.95,
+        "defense_kda": 1.3,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 178.68,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.63,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 132,
+                "attack_kda": 0.91,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 187.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.54,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 46,
+                "attack_kda": 0.8,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 256.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.5,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 128,
+                "attack_kda": 0.92,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 142.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.61,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Breach": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.3,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 177.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.96,
+                "avg_first_bloods_per_round": 0.01,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.76,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 176.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.04,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

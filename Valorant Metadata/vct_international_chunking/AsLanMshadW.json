@@ -1,0 +1,80 @@
+{
+    "handle": "AsLanMshadW",
+    "date": "2024-01-04T14:36:22",
+    "status": "active",
+    "first_name": "OSMAN",
+    "last_name": "BALTA",
+    "home_team_name": "BBL Esports",
+    "home_team_acronym": "BBL",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 530,
+        "attack_kda": 1.24,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 203.19,
+        "avg_revives_per_round": 0.03,
+        "avg_damage_dealt_per_round": 106.3,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 148,
+                "attack_kda": 1.04,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 200.84,
+                "avg_revives_per_round": 0.11,
+                "avg_damage_dealt_per_round": 102.75,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Killjoy": {
+                "total_rounds_played": 328,
+                "attack_kda": 1.3,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 209.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.07,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.79,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 193.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.3,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.5,
+                "defense_kda": 0.58,
+                "avg_kills_per_round": 0.25,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 113.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.93,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.44
+            }
+        }
+    }
+}

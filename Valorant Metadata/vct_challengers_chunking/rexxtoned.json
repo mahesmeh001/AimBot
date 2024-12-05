@@ -1,0 +1,80 @@
+{
+    "handle": "rexxtoned",
+    "date": "2024-05-13T12:28:38",
+    "status": "active",
+    "first_name": "Roman",
+    "last_name": "Zhuravlev",
+    "home_team_name": "RTZN",
+    "home_team_acronym": "RTZN",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 268,
+        "attack_kda": 1.2,
+        "defense_kda": 1.51,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 214.46,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.39,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 54,
+                "attack_kda": 1.37,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 247.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.04,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 136,
+                "attack_kda": 1.24,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 216.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.97,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 60,
+                "attack_kda": 1.27,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 204.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.52,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.0,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 136.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.94,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.44
+            }
+        }
+    }
+}

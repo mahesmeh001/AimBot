@@ -1,0 +1,90 @@
+{
+    "handle": "BandiCoot",
+    "date": "2024-05-20T03:18:03",
+    "status": "active",
+    "first_name": "Michael",
+    "last_name": "Mancipe",
+    "home_team_name": "Polarity",
+    "home_team_acronym": "POTY",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1259,
+        "attack_kda": 1.57,
+        "defense_kda": 1.71,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 190.31,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.35,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 149,
+                "attack_kda": 1.79,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 215.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.08,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 765,
+                "attack_kda": 1.42,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 179.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.8,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Astra": {
+                "total_rounds_played": 227,
+                "attack_kda": 1.95,
+                "defense_kda": 1.99,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 221.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.75,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 100,
+                "attack_kda": 1.39,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 155.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.42,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 18,
+                "attack_kda": 5.5,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.67,
+                "avg_combat_score_per_round": 235.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.38,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "handle": "ganter",
+    "date": "2023-02-14T09:56:10",
+    "status": "active",
+    "first_name": "Bastian",
+    "last_name": "Reinoso",
+    "home_team_name": "Optix",
+    "home_team_acronym": "OPX",
+    "home_league_name": "challengers_latam_s",
+    "region": "LAS",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 293,
+        "attack_kda": 0.97,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 201.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.43,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 182,
+                "attack_kda": 0.82,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 205.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.36,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Raze": {
+                "total_rounds_played": 48,
+                "attack_kda": 1.5,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 192.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.34,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.23
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.5,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 179.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.57,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.5,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 165.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.34,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Cypher": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.29,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 242.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.84,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

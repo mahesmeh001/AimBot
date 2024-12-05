@@ -1,0 +1,104 @@
+{
+    "handle": "Yanagi",
+    "date": "2023-03-27T12:38:01",
+    "status": "active",
+    "first_name": "Cobar",
+    "last_name": "Jeremy",
+    "home_team_name": "Action PH",
+    "home_team_acronym": "APH",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 701,
+        "attack_kda": 1.52,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.47,
+        "avg_combat_score_per_round": 183.94,
+        "avg_revives_per_round": 0.02,
+        "avg_damage_dealt_per_round": 95.28,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 275,
+                "attack_kda": 1.63,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 177.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.63,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Gekko": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.83,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 93.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 49.19,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 130,
+                "attack_kda": 1.3,
+                "defense_kda": 1.68,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 190.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.63,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 94,
+                "attack_kda": 1.56,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 219.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.34,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.21,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 230.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.61,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 130,
+                "attack_kda": 1.74,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 162.09,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 87.35,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

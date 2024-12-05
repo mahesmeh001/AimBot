@@ -1,0 +1,104 @@
+{
+    "handle": "UR",
+    "date": "2024-04-16T08:01:56",
+    "status": "active",
+    "first_name": "Nanae",
+    "last_name": "Kubo",
+    "home_team_name": "CREST GAMING Stellar",
+    "home_team_acronym": "CGST",
+    "home_league_name": "game_changers_jpn",
+    "region": "JP",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 551,
+        "attack_kda": 1.92,
+        "defense_kda": 1.57,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 216.27,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 111.09,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 121,
+                "attack_kda": 1.29,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 195.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.93,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Viper": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.76,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 208.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 37,
+                "attack_kda": 3.38,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 294.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.3,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 122,
+                "attack_kda": 2.89,
+                "defense_kda": 1.58,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 229.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.76,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Gekko": {
+                "total_rounds_played": 85,
+                "attack_kda": 2.35,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 217.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.97,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 47,
+                "attack_kda": 1.52,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 194.68,
+                "avg_revives_per_round": 0.11,
+                "avg_damage_dealt_per_round": 104.44,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

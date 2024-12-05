@@ -1,0 +1,78 @@
+{
+    "handle": "BcJ",
+    "date": "2024-03-13T11:51:06",
+    "status": "active",
+    "first_name": "Brendan",
+    "last_name": "Jensen",
+    "home_team_name": "M80",
+    "home_team_acronym": "M80",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 804,
+        "attack_kda": 1.51,
+        "defense_kda": 1.63,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 184.14,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.93,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 194,
+                "attack_kda": 1.39,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 167.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.47,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 269,
+                "attack_kda": 1.2,
+                "defense_kda": 2.15,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 195.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.9,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Gekko": {
+                "total_rounds_played": 322,
+                "attack_kda": 1.93,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 183.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.68,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.0,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 202.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.25,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

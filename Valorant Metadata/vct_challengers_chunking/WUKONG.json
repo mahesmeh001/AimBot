@@ -1,0 +1,66 @@
+{
+    "handle": "WUKONG",
+    "date": "2024-01-30T08:24:42",
+    "status": "active",
+    "first_name": "V\u0103n Thi\u1ec7n",
+    "last_name": "Nguy\u1ec5n",
+    "home_team_name": "Fancy United Esports",
+    "home_team_acronym": "FCY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 457,
+        "attack_kda": 1.84,
+        "defense_kda": 1.79,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 226.03,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.25,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 77,
+                "attack_kda": 2.48,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 226.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.29,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "KAY/O": {
+                "total_rounds_played": 177,
+                "attack_kda": 2.09,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 190.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.61,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 203,
+                "attack_kda": 1.46,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 256.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.36,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

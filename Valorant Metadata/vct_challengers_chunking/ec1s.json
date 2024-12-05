@@ -1,0 +1,102 @@
+{
+    "handle": "ec1s",
+    "date": "2024-06-13T10:22:53",
+    "status": "active",
+    "first_name": "Adam",
+    "last_name": "Eccles",
+    "home_team_name": "Velocity Gaming",
+    "home_team_acronym": "VLT",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 321,
+        "attack_kda": 1.76,
+        "defense_kda": 1.83,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.53,
+        "avg_combat_score_per_round": 183.76,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.65,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.0,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 153.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 56,
+                "attack_kda": 1.77,
+                "defense_kda": 2.32,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.77,
+                "avg_combat_score_per_round": 218.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.02,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.3,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 181.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.67,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Breach": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.83,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 158.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.88,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Fade": {
+                "total_rounds_played": 65,
+                "attack_kda": 2.85,
+                "defense_kda": 1.91,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 198.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.58,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Skye": {
+                "total_rounds_played": 47,
+                "attack_kda": 1.5,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 188.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.75,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

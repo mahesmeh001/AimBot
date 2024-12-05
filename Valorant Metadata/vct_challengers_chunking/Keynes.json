@@ -1,0 +1,106 @@
+{
+    "handle": "Keynes",
+    "date": "2023-03-27T10:28:54",
+    "status": "active",
+    "first_name": "chu-ping",
+    "last_name": "Tseng",
+    "home_team_name": "Ghost CommandoS",
+    "home_team_acronym": "GCS",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 230,
+        "attack_kda": 1.02,
+        "defense_kda": 1.28,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 196.77,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 102.84,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 85,
+                "attack_kda": 0.78,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 152.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.92,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Breach": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.22,
+                "defense_kda": 4.17,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 174.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.53,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 24,
+                "attack_kda": 2.8,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 288.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.88,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 28,
+                "attack_kda": 0.92,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 202.68,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 114.31,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Chamber": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.7,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 214.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.77,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.67,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 283.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.68,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

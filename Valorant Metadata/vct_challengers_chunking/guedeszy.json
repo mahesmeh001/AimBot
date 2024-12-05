@@ -1,0 +1,104 @@
+{
+    "handle": "guedeszy",
+    "date": "2024-01-11T12:56:07",
+    "status": "active",
+    "first_name": "Hugo",
+    "last_name": "Guedes",
+    "home_team_name": "FTW Le\u00e7a FC",
+    "home_team_acronym": "FXL",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 414,
+        "attack_kda": 1.2,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 174.62,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.54,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.29,
+                "defense_kda": 2.02,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 181.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.46,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.45,
+                "defense_kda": 2.75,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.63,
+                "avg_combat_score_per_round": 171.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.66,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Gekko": {
+                "total_rounds_played": 67,
+                "attack_kda": 1.15,
+                "defense_kda": 0.96,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 181.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.34,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 49,
+                "attack_kda": 0.7,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 147.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.32,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Cypher": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.78,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 119.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.0,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.62,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 276.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.77,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

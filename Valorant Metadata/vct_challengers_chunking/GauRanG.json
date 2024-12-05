@@ -1,0 +1,64 @@
+{
+    "handle": "GauRanG",
+    "date": "2024-04-01T08:48:29",
+    "status": "active",
+    "first_name": "Gaurang",
+    "last_name": "Yadav",
+    "home_team_name": "TRR",
+    "home_team_acronym": "TRR",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 326,
+        "attack_kda": 1.24,
+        "defense_kda": 1.06,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 173.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 90.04,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 229,
+                "attack_kda": 1.19,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 169.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.27,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Viper": {
+                "total_rounds_played": 79,
+                "attack_kda": 1.54,
+                "defense_kda": 1.07,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 187.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.83,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.6,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 153.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.71,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

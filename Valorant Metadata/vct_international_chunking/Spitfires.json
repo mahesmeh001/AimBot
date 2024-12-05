@@ -1,0 +1,52 @@
+{
+    "handle": "Spitfires",
+    "date": "2024-04-10T08:41:41",
+    "status": "active",
+    "first_name": "mingyang",
+    "last_name": "XIN",
+    "home_team_name": "ALL GAMERS",
+    "home_team_acronym": "AG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 253,
+        "attack_kda": 1.38,
+        "defense_kda": 1.03,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 240.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 122.47,
+        "avg_first_bloods_per_round": 0.26,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 124,
+                "attack_kda": 1.52,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 238.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.56,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Jett": {
+                "total_rounds_played": 129,
+                "attack_kda": 1.25,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 242.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.5,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

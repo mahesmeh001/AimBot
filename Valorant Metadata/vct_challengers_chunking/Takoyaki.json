@@ -1,0 +1,54 @@
+{
+    "handle": "Takoyaki",
+    "date": "2024-05-27T12:45:12",
+    "status": "active",
+    "first_name": "Phuc Hoang",
+    "last_name": "To",
+    "home_team_name": "Crocodile TEARS",
+    "home_team_acronym": "TEAR",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 34,
+        "attack_kda": 1.21,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 168.38,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.14,
+        "avg_first_bloods_per_round": 0.03,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.5,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 153.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.83,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.0,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 183.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.44,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "handle": "CTC",
+    "date": "2023-01-05T17:13:42",
+    "status": "active",
+    "first_name": "Caio",
+    "last_name": "Torres",
+    "home_team_name": "Los Grandes",
+    "home_team_acronym": "LOS",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1602,
+        "attack_kda": 1.25,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 187.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.22,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 176,
+                "attack_kda": 1.38,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 200.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.89,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 229,
+                "attack_kda": 1.26,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 201.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.0,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Brimstone": {
+                "total_rounds_played": 182,
+                "attack_kda": 2.15,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 204.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.38,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Astra": {
+                "total_rounds_played": 90,
+                "attack_kda": 1.27,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 179.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.31,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 312,
+                "attack_kda": 0.96,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 157.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.22,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Killjoy": {
+                "total_rounds_played": 613,
+                "attack_kda": 1.1,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 188.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.12,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "handle": "N1C0",
+    "date": "2023-04-03T11:32:06",
+    "status": "active",
+    "first_name": "Dominique ",
+    "last_name": "Tul-id",
+    "home_team_name": "MVP Esports",
+    "home_team_acronym": "MVPE",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 261,
+        "attack_kda": 1.66,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.52,
+        "avg_combat_score_per_round": 161.27,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.17,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.61,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 182.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.61,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Sova": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.75,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 119.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.86,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "KAY/O": {
+                "total_rounds_played": 39,
+                "attack_kda": 2.21,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.72,
+                "avg_combat_score_per_round": 168.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.1,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Breach": {
+                "total_rounds_played": 82,
+                "attack_kda": 1.75,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 138.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.22,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

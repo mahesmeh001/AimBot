@@ -1,0 +1,88 @@
+{
+    "handle": "2GE",
+    "date": "2024-05-28T10:30:33",
+    "status": "active",
+    "first_name": "James",
+    "last_name": "Goopio",
+    "home_team_name": "Team Secret",
+    "home_team_acronym": "TSC",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 668,
+        "attack_kda": 1.61,
+        "defense_kda": 1.38,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 174.01,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 90.99,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 106,
+                "attack_kda": 1.73,
+                "defense_kda": 1.07,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 154.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.23,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 150,
+                "attack_kda": 1.61,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 167.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.25,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Omen": {
+                "total_rounds_played": 347,
+                "attack_kda": 1.57,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 182.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.77,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Brimstone": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 190.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.17,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.33,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 167.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.18,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

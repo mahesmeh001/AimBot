@@ -1,0 +1,52 @@
+{
+    "handle": "Slaxx",
+    "date": "2024-05-30T12:50:18",
+    "status": "active",
+    "first_name": "Ant\u00f3nio",
+    "last_name": "Mota",
+    "home_team_name": "Fuzos Na Via",
+    "home_team_acronym": "FUZO",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 140,
+        "attack_kda": 1.65,
+        "defense_kda": 1.15,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 189.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.83,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 72,
+                "attack_kda": 1.71,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 195.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.13,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Gekko": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.59,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 182.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.11,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

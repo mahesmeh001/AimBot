@@ -1,0 +1,52 @@
+{
+    "handle": "Palla",
+    "date": "2024-06-19T07:09:35",
+    "status": "active",
+    "first_name": "Davis",
+    "last_name": "Rodrigues Alcides",
+    "home_team_name": "MIBR",
+    "home_team_acronym": "MIBR",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 183,
+        "attack_kda": 0.96,
+        "defense_kda": 1.13,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 218.41,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.01,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 77,
+                "attack_kda": 0.76,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 200.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.24,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 106,
+                "attack_kda": 1.14,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 231.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.02,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.2
+            }
+        }
+    }
+}

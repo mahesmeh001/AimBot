@@ -1,0 +1,104 @@
+{
+    "handle": "Laz1",
+    "date": "2024-01-22T11:20:58",
+    "status": "active",
+    "first_name": "Kittikawin",
+    "last_name": "Jirawatkakan",
+    "home_team_name": "Team NKT",
+    "home_team_acronym": "NKT",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 483,
+        "attack_kda": 1.46,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 207.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.8,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 150,
+                "attack_kda": 1.31,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 201.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.04,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Chamber": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.33,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 222.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.55,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Killjoy": {
+                "total_rounds_played": 114,
+                "attack_kda": 1.51,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 196.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.9,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 53,
+                "attack_kda": 1.63,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 216.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.45,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Reyna": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.57,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 225.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.85,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 110,
+                "attack_kda": 1.75,
+                "defense_kda": 1.91,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 214.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.39,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

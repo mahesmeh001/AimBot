@@ -1,0 +1,78 @@
+{
+    "handle": "Yamada1",
+    "date": "2024-01-25T09:06:44",
+    "status": "active",
+    "first_name": "Haruki",
+    "last_name": "Etou",
+    "home_team_name": "IGZIST",
+    "home_team_acronym": "IGZ",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 136,
+        "attack_kda": 1.08,
+        "defense_kda": 1.04,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 152.53,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 77.57,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.21,
+                "defense_kda": 0.96,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 161.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.09,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.16
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.92,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 167.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.94,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sova": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.25,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 132.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.07,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Breach": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.91,
+                "defense_kda": 0.17,
+                "avg_kills_per_round": 0.37,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 111.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 55.4,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.26
+            }
+        }
+    }
+}

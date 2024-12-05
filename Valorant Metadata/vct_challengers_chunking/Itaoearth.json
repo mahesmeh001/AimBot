@@ -1,0 +1,90 @@
+{
+    "handle": "Itaoearth",
+    "date": "2024-05-21T10:57:45",
+    "status": "active",
+    "first_name": "Aukkarawut ",
+    "last_name": "Janyapong",
+    "home_team_name": "XOXO-01",
+    "home_team_acronym": "XOXO",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 258,
+        "attack_kda": 1.25,
+        "defense_kda": 0.93,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 156.17,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.75,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.62,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 165.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.73,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "KAY/O": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.67,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.38,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 119.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.24,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Fade": {
+                "total_rounds_played": 56,
+                "attack_kda": 1.86,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 186.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.53,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Breach": {
+                "total_rounds_played": 17,
+                "attack_kda": 2.0,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 105.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 56.67,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 129,
+                "attack_kda": 1.26,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 151.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.53,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

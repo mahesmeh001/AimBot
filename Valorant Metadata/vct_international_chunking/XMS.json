@@ -1,0 +1,90 @@
+{
+    "handle": "XMS",
+    "date": "2024-01-24T15:12:43",
+    "status": "active",
+    "first_name": "Alexandre",
+    "last_name": "Forte",
+    "home_team_name": "Karmine Corp",
+    "home_team_acronym": "KC",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 481,
+        "attack_kda": 1.04,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 175.5,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.49,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.95,
+                "defense_kda": 2.62,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 153.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.39,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Harbor": {
+                "total_rounds_played": 54,
+                "attack_kda": 1.12,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 208.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.64,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Omen": {
+                "total_rounds_played": 51,
+                "attack_kda": 0.9,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 180.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.72,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 253,
+                "attack_kda": 1.04,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 181.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.73,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Cypher": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.14,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 142.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.45,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

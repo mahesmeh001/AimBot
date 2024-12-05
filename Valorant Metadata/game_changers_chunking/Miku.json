@@ -1,0 +1,102 @@
+{
+    "handle": "Miku",
+    "date": "2024-04-23T06:09:43",
+    "status": "active",
+    "first_name": "Jason",
+    "last_name": "Huerta",
+    "home_team_name": "Fusion",
+    "home_team_acronym": "FSN",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 647,
+        "attack_kda": 1.53,
+        "defense_kda": 1.81,
+        "avg_kills_per_round": 1.06,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 314.96,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 162.32,
+        "avg_first_bloods_per_round": 0.31,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 322,
+                "attack_kda": 1.39,
+                "defense_kda": 1.95,
+                "avg_kills_per_round": 1.08,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 328.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 171.33,
+                "avg_first_bloods_per_round": 0.33,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Neon": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.64,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 279.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.9,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Yoru": {
+                "total_rounds_played": 25,
+                "attack_kda": 1.89,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 1.2,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 332.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 169.35,
+                "avg_first_bloods_per_round": 0.32,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Phoenix": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.38,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 212.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.56,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.29
+            },
+            "Jett": {
+                "total_rounds_played": 158,
+                "attack_kda": 1.71,
+                "defense_kda": 1.94,
+                "avg_kills_per_round": 1.11,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 323.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 161.43,
+                "avg_first_bloods_per_round": 0.35,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 24,
+                "attack_kda": 2.86,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 292.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 152.49,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

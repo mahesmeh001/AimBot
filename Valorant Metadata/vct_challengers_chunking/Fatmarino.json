@@ -1,0 +1,64 @@
+{
+    "handle": "Fatmarino",
+    "date": "2023-03-30T06:36:25",
+    "status": "active",
+    "first_name": "Matheus",
+    "last_name": "Marino",
+    "home_team_name": "TropiCaos",
+    "home_team_acronym": "CAOS",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 244,
+        "attack_kda": 1.42,
+        "defense_kda": 1.04,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 175.57,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.14,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 92,
+                "attack_kda": 1.2,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 149.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.24,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Skye": {
+                "total_rounds_played": 66,
+                "attack_kda": 1.26,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 205.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.29,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Sova": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.86,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 180.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.51,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

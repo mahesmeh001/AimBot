@@ -1,0 +1,78 @@
+{
+    "handle": "kon4n",
+    "date": "2024-04-10T07:41:52",
+    "status": "active",
+    "first_name": "Vitor Hugo",
+    "last_name": "Conceic\u0327a\u0303o De Souza",
+    "home_team_name": "FURIA",
+    "home_team_acronym": "FUR",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 314,
+        "attack_kda": 1.09,
+        "defense_kda": 1.07,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 158.98,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 86.11,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 209,
+                "attack_kda": 0.98,
+                "defense_kda": 0.92,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 148.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.11,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 68,
+                "attack_kda": 0.92,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 178.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.04,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "KAY/O": {
+                "total_rounds_played": 15,
+                "attack_kda": 2.57,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 228.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.22,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Skye": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.71,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 146.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.81,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

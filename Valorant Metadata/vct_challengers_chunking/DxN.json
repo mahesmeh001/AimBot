@@ -1,0 +1,104 @@
+{
+    "handle": "DxN",
+    "date": "2023-03-28T12:28:22",
+    "status": "active",
+    "first_name": "Gorden",
+    "last_name": "Lek",
+    "home_team_name": "BIKINI BOTTOM PRATAHOUSE",
+    "home_team_acronym": "BBP",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 635,
+        "attack_kda": 1.08,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 193.91,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 104.27,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 200,
+                "attack_kda": 1.2,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 200.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.93,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Cypher": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.25,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 230.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.55,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Chamber": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.4,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 109.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.82,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Sage": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.44,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 180.83,
+                "avg_revives_per_round": 0.17,
+                "avg_damage_dealt_per_round": 93.74,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 302,
+                "attack_kda": 0.97,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 190.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.16,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.33,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.94,
+                "avg_combat_score_per_round": 167.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.87,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "handle": "dapr",
+    "date": "2024-03-28T07:24:27",
+    "status": "active",
+    "first_name": "Michael ",
+    "last_name": "Gulino",
+    "home_team_name": "Oxygen Esports",
+    "home_team_acronym": "OXG",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1873,
+        "attack_kda": 1.3,
+        "defense_kda": 1.38,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 190.22,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.47,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 678,
+                "attack_kda": 1.25,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 198.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.84,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Cypher": {
+                "total_rounds_played": 614,
+                "attack_kda": 1.46,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 197.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.31,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Deadlock": {
+                "total_rounds_played": 105,
+                "attack_kda": 1.41,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 191.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.87,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 391,
+                "attack_kda": 1.12,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 157.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.23,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 16,
+                "attack_kda": 2.86,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 1.38,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 345.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 149.91,
+                "avg_first_bloods_per_round": 0.31,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Phoenix": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.09,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 203.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.58,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 26,
+                "attack_kda": 0.83,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 198.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.2,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.12,
+                "defense_kda": 2.67,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 177.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.11,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

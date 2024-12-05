@@ -1,0 +1,90 @@
+{
+    "handle": "Makaveli",
+    "date": "2024-04-01T08:51:11",
+    "status": "active",
+    "first_name": "Nikhil",
+    "last_name": "Chettri ",
+    "home_team_name": "Orangutan",
+    "home_team_acronym": "OGS",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 158,
+        "attack_kda": 0.95,
+        "defense_kda": 0.84,
+        "avg_kills_per_round": 0.43,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 130.11,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 75.74,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.4,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 125.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 67.93,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.67,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 137.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.57,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Harbor": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.95,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 138.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.21,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Astra": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.6,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 130.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.8,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.8,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 108.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.45,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

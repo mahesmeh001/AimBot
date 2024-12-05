@@ -1,0 +1,54 @@
+{
+    "handle": "maddd",
+    "date": "2024-05-21T10:57:44",
+    "status": "active",
+    "first_name": "Kusak chaiaun",
+    "last_name": "chaiaun",
+    "home_team_name": "XOXO-01",
+    "home_team_acronym": "XOXO",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 178,
+        "attack_kda": 1.18,
+        "defense_kda": 1.07,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 211.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.35,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 162,
+                "attack_kda": 1.17,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 212.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.42,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 16,
+                "attack_kda": 1.22,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 195.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.6,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

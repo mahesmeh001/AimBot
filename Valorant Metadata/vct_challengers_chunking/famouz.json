@@ -1,0 +1,52 @@
+{
+    "handle": "famouz",
+    "date": "2024-01-24T13:04:50",
+    "status": "archived",
+    "first_name": "Fikri",
+    "last_name": "Zaki",
+    "home_team_name": "BOOM ESPORTS",
+    "home_team_acronym": "BME",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1162,
+        "attack_kda": 1.41,
+        "defense_kda": 1.8,
+        "avg_kills_per_round": 0.89,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 254.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 134.04,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 234,
+                "attack_kda": 1.51,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 265.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.32,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Jett": {
+                "total_rounds_played": 928,
+                "attack_kda": 1.39,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 252.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.95,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

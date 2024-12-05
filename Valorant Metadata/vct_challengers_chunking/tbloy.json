@@ -1,0 +1,90 @@
+{
+    "handle": "tbloy",
+    "date": "2024-05-21T10:30:56",
+    "status": "active",
+    "first_name": "Techodom",
+    "last_name": "Saetiao",
+    "home_team_name": "Barn nong chok",
+    "home_team_acronym": "BNC",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 578,
+        "attack_kda": 1.0,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 218.83,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 116.55,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 192,
+                "attack_kda": 0.99,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 230.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.0,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Raze": {
+                "total_rounds_played": 325,
+                "attack_kda": 1.08,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 227.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.65,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Yoru": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.56,
+                "defense_kda": 0.4,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 128.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.13,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Reyna": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.75,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.32,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 112.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.45,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.5,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 163.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.81,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

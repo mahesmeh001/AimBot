@@ -1,0 +1,66 @@
+{
+    "handle": "twilight",
+    "date": "2024-05-27T13:11:53",
+    "status": "active",
+    "first_name": "Minh Dung",
+    "last_name": "Hoang",
+    "home_team_name": "Fancy United Esports",
+    "home_team_acronym": "FCY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 194,
+        "attack_kda": 1.58,
+        "defense_kda": 1.93,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 209.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.69,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 56,
+                "attack_kda": 1.64,
+                "defense_kda": 1.94,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 182.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.97,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Killjoy": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.0,
+                "defense_kda": 2.64,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 234.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.38,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.76,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 215.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.5,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "handle": "Shiro",
+    "date": "2024-01-24T12:47:48",
+    "status": "active",
+    "first_name": "Hildegrad Arnaldo ",
+    "last_name": "Herikusuma",
+    "home_team_name": "BOOM ESPORTS",
+    "home_team_acronym": "BME",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 2198,
+        "attack_kda": 1.72,
+        "defense_kda": 1.98,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.44,
+        "avg_combat_score_per_round": 213.43,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 112.08,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 508,
+                "attack_kda": 1.68,
+                "defense_kda": 2.02,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 197.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.7,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 842,
+                "attack_kda": 1.66,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 218.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.0,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Gekko": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.5,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 239.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.49,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "KAY/O": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.88,
+                "defense_kda": 2.22,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.68,
+                "avg_combat_score_per_round": 237.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.61,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 218,
+                "attack_kda": 1.33,
+                "defense_kda": 2.16,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 187.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.88,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.69,
+                "defense_kda": 2.43,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.71,
+                "avg_combat_score_per_round": 192.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.33,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Viper": {
+                "total_rounds_played": 367,
+                "attack_kda": 2.25,
+                "defense_kda": 1.84,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 236.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.19,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.92,
+                "defense_kda": 2.41,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 204.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.69,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 61,
+                "attack_kda": 2.0,
+                "defense_kda": 2.57,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 216.18,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 111.63,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.2,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 1.1,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 286.76,
+                "avg_revives_per_round": 0.24,
+                "avg_damage_dealt_per_round": 139.94,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

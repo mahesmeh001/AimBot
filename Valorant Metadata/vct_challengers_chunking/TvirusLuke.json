@@ -1,0 +1,78 @@
+{
+    "handle": "TvirusLuke",
+    "date": "2024-02-05T11:01:23",
+    "status": "active",
+    "first_name": "JHEN CING",
+    "last_name": "CHEN",
+    "home_team_name": "LP33",
+    "home_team_acronym": "LP33",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 399,
+        "attack_kda": 1.12,
+        "defense_kda": 1.16,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 220.66,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.22,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 241,
+                "attack_kda": 1.11,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 224.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.75,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Neon": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.16,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 217.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.47,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Raze": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.6,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 238.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.43,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.92,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 161.21,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 78.12,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

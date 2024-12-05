@@ -1,0 +1,52 @@
+{
+    "handle": "iKill",
+    "date": "2024-02-12T13:05:12",
+    "status": "active",
+    "first_name": "Carlos",
+    "last_name": "Almeida",
+    "home_team_name": "HOF Esports",
+    "home_team_acronym": "HOF",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 153,
+        "attack_kda": 1.23,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.53,
+        "avg_assists_per_round": 0.43,
+        "avg_combat_score_per_round": 166.46,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.62,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.46,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 174.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.0,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.42,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.21,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 85.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 56.05,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

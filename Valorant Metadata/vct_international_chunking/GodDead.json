@@ -1,0 +1,94 @@
+{
+    "handle": "GodDead",
+    "date": "2024-01-31T10:52:56",
+    "status": "active",
+    "first_name": "Sungshin",
+    "last_name": "Kim",
+    "home_team_name": "Gen.G Esports",
+    "home_team_acronym": "GEN",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 598,
+        "attack_kda": 1.56,
+        "defense_kda": 1.59,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.52,
+        "avg_combat_score_per_round": 187.06,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 98.01,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 382,
+                "attack_kda": 1.6,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 197.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.37,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 123,
+                "attack_kda": 1.56,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 155.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.33,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.02
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.54,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 236.22,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 111.95,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.78,
+                "defense_kda": 0.62,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 136.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 61.14,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 25,
+                "attack_kda": 0.91,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 138.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.49,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.36
+            }
+        }
+    }
+}

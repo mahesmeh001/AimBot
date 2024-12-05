@@ -1,0 +1,78 @@
+{
+    "handle": "Ladi",
+    "date": "2023-03-27T10:28:54",
+    "status": "active",
+    "first_name": "SHAO-EN",
+    "last_name": "LIN",
+    "home_team_name": "Ghost CommandoS",
+    "home_team_acronym": "GCS",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 74,
+        "attack_kda": 0.64,
+        "defense_kda": 0.96,
+        "avg_kills_per_round": 0.46,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 133.49,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 71.34,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.03
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.0,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 129.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.68,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.36,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 127.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 67.53,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Skye": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.5,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 125.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.04,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "KAY/O": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.89,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 151.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.5,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

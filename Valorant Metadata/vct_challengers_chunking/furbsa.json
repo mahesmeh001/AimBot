@@ -1,0 +1,80 @@
+{
+    "handle": "furbsa",
+    "date": "2024-06-12T06:16:42",
+    "status": "active",
+    "first_name": "Hunter",
+    "last_name": "Mcmillan",
+    "home_team_name": "SaD Esports",
+    "home_team_acronym": "SAD",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 327,
+        "attack_kda": 1.39,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 223.99,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.06,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 202,
+                "attack_kda": 1.16,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 213.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.05,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.78,
+                "defense_kda": 7.0,
+                "avg_kills_per_round": 1.45,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 350.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.17,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "ISO": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.92,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 236.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.7,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.75,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 145.17,
+                "avg_revives_per_round": 0.06,
+                "avg_damage_dealt_per_round": 82.81,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

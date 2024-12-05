@@ -1,0 +1,104 @@
+{
+    "handle": "Ting2k5",
+    "date": "2024-01-30T08:35:34",
+    "status": "active",
+    "first_name": "Manh Thang",
+    "last_name": "Duong",
+    "home_team_name": "FPTxFlash",
+    "home_team_acronym": "FPT",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 605,
+        "attack_kda": 1.42,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 205.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.74,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 276,
+                "attack_kda": 1.25,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 216.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.07,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Yoru": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.15,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 172.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.24,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 131,
+                "attack_kda": 2.23,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 210.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.94,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Chamber": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.15,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 188.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.52,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 35,
+                "attack_kda": 3.2,
+                "defense_kda": 2.18,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 209.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.67,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Skye": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.22,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 172.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.89,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

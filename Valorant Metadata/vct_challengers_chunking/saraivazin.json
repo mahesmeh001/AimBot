@@ -1,0 +1,40 @@
+{
+    "handle": "saraivazin",
+    "date": "2023-03-28T08:30:09",
+    "status": "active",
+    "first_name": "Jo\u00e3o ",
+    "last_name": "Ferreira",
+    "home_team_name": "PTH ESPORTS CLUB",
+    "home_team_acronym": "PTH",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 23,
+        "attack_kda": 1.57,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.48,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 140.57,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 73.16,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.57,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 140.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.16,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

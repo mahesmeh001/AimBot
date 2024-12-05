@@ -1,0 +1,78 @@
+{
+    "handle": "nateflix",
+    "date": "2024-01-24T18:48:30",
+    "status": "active",
+    "first_name": "Nathan",
+    "last_name": "Nioda",
+    "home_team_name": "ZOL Esports",
+    "home_team_acronym": "ZOL",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 131,
+        "attack_kda": 1.33,
+        "defense_kda": 1.25,
+        "avg_kills_per_round": 0.5,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 150.11,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.51,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.71,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 184.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.3,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Astra": {
+                "total_rounds_played": 23,
+                "attack_kda": 3.0,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 159.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.55,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Brimstone": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.5,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.32,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 124.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.24,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.15,
+                "defense_kda": 1.79,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 143.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.52,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

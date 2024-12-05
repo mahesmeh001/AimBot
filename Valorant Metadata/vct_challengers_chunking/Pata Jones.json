@@ -1,0 +1,52 @@
+{
+    "handle": "Pata Jones",
+    "date": "2024-01-18T12:25:32",
+    "status": "active",
+    "first_name": "Tommaso",
+    "last_name": "Manca",
+    "home_team_name": "Outplayed",
+    "home_team_acronym": "OP",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 117,
+        "attack_kda": 1.44,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 210.75,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.26,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.48,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 191.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.98,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Cypher": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.36,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 249.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.82,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

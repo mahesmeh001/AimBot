@@ -1,0 +1,88 @@
+{
+    "handle": "SugarZ3ro",
+    "date": "2024-04-10T09:09:43",
+    "status": "active",
+    "first_name": "Shota",
+    "last_name": "Watanabe",
+    "home_team_name": "ZETA DIVISION",
+    "home_team_acronym": "ZETA",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1619,
+        "attack_kda": 1.6,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 190.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.22,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 294,
+                "attack_kda": 1.7,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 196.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.91,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 956,
+                "attack_kda": 1.68,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 190.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.75,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 159,
+                "attack_kda": 1.04,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 170.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.19,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Harbor": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.14,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.37,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 119.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.76,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Viper": {
+                "total_rounds_played": 140,
+                "attack_kda": 1.66,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 234.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.5,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

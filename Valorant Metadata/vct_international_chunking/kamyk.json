@@ -1,0 +1,52 @@
+{
+    "handle": "kamyk",
+    "date": "2024-01-08T20:37:28",
+    "status": "active",
+    "first_name": "Maksymilian",
+    "last_name": "Rychlewski",
+    "home_team_name": "FNATIC",
+    "home_team_acronym": "FNC",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 105,
+        "attack_kda": 1.28,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 199.61,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.52,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 48,
+                "attack_kda": 1.07,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 175.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.3,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.5,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 220.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.6,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

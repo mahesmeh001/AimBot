@@ -1,0 +1,104 @@
+{
+    "handle": "FREY",
+    "date": "2024-08-01T08:26:46",
+    "status": "active",
+    "first_name": "Ingram",
+    "last_name": "Tan",
+    "home_team_name": "Huat Zai",
+    "home_team_acronym": "HZ",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1092,
+        "attack_kda": 1.22,
+        "defense_kda": 1.58,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 215.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.01,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 508,
+                "attack_kda": 1.2,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 218.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.89,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Cypher": {
+                "total_rounds_played": 349,
+                "attack_kda": 1.35,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 222.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.69,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Chamber": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.87,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 196.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.64,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 159,
+                "attack_kda": 1.08,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 208.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.75,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 16,
+                "attack_kda": 2.33,
+                "defense_kda": 6.0,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 189.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.88,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "KAY/O": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.29,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.37,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 110.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.08,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "handle": "OXY",
+    "date": "2024-04-10T07:40:12",
+    "status": "active",
+    "first_name": "Francis",
+    "last_name": "Hoang",
+    "home_team_name": "Cloud9 Blue",
+    "home_team_acronym": "C9B",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 822,
+        "attack_kda": 1.18,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.91,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 260.02,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 131.34,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 308,
+                "attack_kda": 1.01,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 237.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.18,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Raze": {
+                "total_rounds_played": 383,
+                "attack_kda": 1.25,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.97,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 278.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.33,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Yoru": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.33,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 218.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.91,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Reyna": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.52,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 1.1,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 302.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 150.68,
+                "avg_first_bloods_per_round": 0.3,
+                "avg_first_deaths_per_round": 0.2
+            }
+        }
+    }
+}

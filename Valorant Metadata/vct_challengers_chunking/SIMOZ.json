@@ -1,0 +1,52 @@
+{
+    "handle": "SIMOZ",
+    "date": "2024-05-23T14:35:38",
+    "status": "active",
+    "first_name": "Simone",
+    "last_name": "Giovannini",
+    "home_team_name": "Dsyre",
+    "home_team_acronym": "DSY",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 120,
+        "attack_kda": 0.9,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.28,
+        "avg_assists_per_round": 0.46,
+        "avg_combat_score_per_round": 90.39,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 50.73,
+        "avg_first_bloods_per_round": 0.0,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 76,
+                "attack_kda": 1.06,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.37,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 103.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 54.11,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "KAY/O": {
+                "total_rounds_played": 44,
+                "attack_kda": 0.61,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.14,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 68.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 44.89,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

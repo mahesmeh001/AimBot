@@ -1,0 +1,52 @@
+{
+    "handle": "neT",
+    "date": "2024-04-05T05:32:23",
+    "status": "active",
+    "first_name": "Michael",
+    "last_name": "Bernet",
+    "home_team_name": "G2 Esports",
+    "home_team_acronym": "G2",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 300,
+        "attack_kda": 1.36,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 197.51,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.3,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 254,
+                "attack_kda": 1.54,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 214.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.76,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 46,
+                "attack_kda": 0.56,
+                "defense_kda": 0.53,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 103.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.58,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "handle": "276",
+    "date": "2024-01-24T18:40:05",
+    "status": "archived",
+    "first_name": "Aron Joshua",
+    "last_name": "Orlanda",
+    "home_team_name": "ZOL Esports",
+    "home_team_acronym": "ZOL",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 181,
+        "attack_kda": 1.22,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.52,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 151.38,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 81.61,
+        "avg_first_bloods_per_round": 0.02,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 24,
+                "attack_kda": 2.14,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 178.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.92,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "KAY/O": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.43,
+                "defense_kda": 2.25,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 210.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.62,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Fade": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.12,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 100.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 49.31,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.3,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 203.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.63,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.88,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 121.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.75,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Astra": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.0,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 159.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.21,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

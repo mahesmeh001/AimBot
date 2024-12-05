@@ -1,0 +1,78 @@
+{
+    "handle": "Shaun",
+    "date": "2024-05-27T12:57:09",
+    "status": "active",
+    "first_name": "Tuan Thanh",
+    "last_name": "Pham",
+    "home_team_name": "CYBERKING ESPORTS",
+    "home_team_acronym": "CKE",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 452,
+        "attack_kda": 1.18,
+        "defense_kda": 1.1,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 177.59,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 94.03,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 256,
+                "attack_kda": 1.14,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 174.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.71,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Cypher": {
+                "total_rounds_played": 131,
+                "attack_kda": 1.35,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 191.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.21,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Sage": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.81,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 146.14,
+                "avg_revives_per_round": 0.11,
+                "avg_damage_dealt_per_round": 74.53,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 29,
+                "attack_kda": 1.86,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 186.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.56,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

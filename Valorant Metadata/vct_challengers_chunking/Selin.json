@@ -1,0 +1,104 @@
+{
+    "handle": "Selin",
+    "date": "2024-05-22T13:08:38",
+    "status": "active",
+    "first_name": "Yi Feng",
+    "last_name": "Lin",
+    "home_team_name": "Da Feng Gou",
+    "home_team_acronym": "DFG",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 220,
+        "attack_kda": 1.19,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 205.98,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.65,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 60,
+                "attack_kda": 0.91,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 220.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.45,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.18,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.04,
+                "avg_combat_score_per_round": 205.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.18,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.31
+            },
+            "Raze": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.8,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 119.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.48,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.39
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.41,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 229.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.23,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Fade": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.75,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 205.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.04,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Gekko": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.1,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 168.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.23
+            }
+        }
+    }
+}

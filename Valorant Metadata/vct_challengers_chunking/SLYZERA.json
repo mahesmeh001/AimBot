@@ -1,0 +1,92 @@
+{
+    "handle": "SLYZERA",
+    "date": "2024-06-03T12:04:16",
+    "status": "active",
+    "first_name": "Carl",
+    "last_name": "Torio",
+    "home_team_name": "Avernus Esports",
+    "home_team_acronym": "AVN",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 205,
+        "attack_kda": 0.72,
+        "defense_kda": 0.84,
+        "avg_kills_per_round": 0.42,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 122.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 71.11,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.33,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 103.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 51.78,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Harbor": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.77,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.25,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 71.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 39.87,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Viper": {
+                "total_rounds_played": 82,
+                "attack_kda": 0.57,
+                "defense_kda": 1.03,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 130.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.97,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 42,
+                "attack_kda": 0.65,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 165.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.81,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.14,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 115.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 54.74,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

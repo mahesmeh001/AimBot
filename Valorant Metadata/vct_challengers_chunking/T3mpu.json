@@ -1,0 +1,52 @@
+{
+    "handle": "T3mpu",
+    "date": "2024-02-12T13:05:12",
+    "status": "active",
+    "first_name": "Hugo",
+    "last_name": "Santos",
+    "home_team_name": "HOF Esports",
+    "home_team_acronym": "HOF",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 153,
+        "attack_kda": 1.38,
+        "defense_kda": 1.19,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 194.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.99,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 74,
+                "attack_kda": 1.32,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 167.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.74,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "KAY/O": {
+                "total_rounds_played": 79,
+                "attack_kda": 1.44,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 220.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.28,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

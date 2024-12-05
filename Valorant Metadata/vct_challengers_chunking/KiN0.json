@@ -1,0 +1,52 @@
+{
+    "handle": "KiN0",
+    "date": "2024-05-22T12:23:53",
+    "status": "active",
+    "first_name": "Bo Xun",
+    "last_name": "KE",
+    "home_team_name": "One Team Esports",
+    "home_team_acronym": "ONE",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 67,
+        "attack_kda": 1.76,
+        "defense_kda": 0.61,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 154.1,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 77.68,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.6,
+                "defense_kda": 0.54,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 116.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.06,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.0,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 213.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.72,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

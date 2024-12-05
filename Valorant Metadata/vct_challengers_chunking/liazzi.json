@@ -1,0 +1,78 @@
+{
+    "handle": "liazzi",
+    "date": "2024-06-19T07:09:35",
+    "status": "active",
+    "first_name": "Felipe Gabriel",
+    "last_name": "Rimoldi Galiazzi",
+    "home_team_name": "MIBR",
+    "home_team_acronym": "MBR",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 796,
+        "attack_kda": 1.59,
+        "defense_kda": 1.57,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 246.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 128.86,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 46,
+                "attack_kda": 2.09,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 231.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.32,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Raze": {
+                "total_rounds_played": 552,
+                "attack_kda": 1.44,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 253.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.19,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 96,
+                "attack_kda": 1.93,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 219.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.62,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 102,
+                "attack_kda": 2.03,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 239.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.57,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

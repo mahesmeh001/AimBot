@@ -1,0 +1,78 @@
+{
+    "handle": "BABYBAY",
+    "date": "2023-01-31T08:12:18",
+    "status": "active",
+    "first_name": "Andrej",
+    "last_name": "Francisty",
+    "home_team_name": "FaZe Clan",
+    "home_team_acronym": "FAZE",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 769,
+        "attack_kda": 1.35,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 233.68,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 119.43,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 48,
+                "attack_kda": 1.71,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 243.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.73,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.27
+            },
+            "Jett": {
+                "total_rounds_played": 563,
+                "attack_kda": 1.4,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 238.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.63,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Neon": {
+                "total_rounds_played": 141,
+                "attack_kda": 1.07,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 219.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.77,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.2,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 151.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.44,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

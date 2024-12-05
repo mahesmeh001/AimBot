@@ -1,0 +1,52 @@
+{
+    "handle": "toggle",
+    "date": "2023-02-17T03:33:48",
+    "status": "active",
+    "first_name": "Darwish Hakim",
+    "last_name": "Nazari",
+    "home_team_name": "Team Path",
+    "home_team_acronym": "PATH",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 146,
+        "attack_kda": 0.92,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 219.42,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.58,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.23
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 129,
+                "attack_kda": 0.94,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 229.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.13,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.82,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 145.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.63,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "handle": "AfterLyfe",
+    "date": "2024-07-03T07:56:16",
+    "status": "active",
+    "first_name": "Ayesha Junaid",
+    "last_name": "Khan",
+    "home_team_name": "Gang Gang",
+    "home_team_acronym": "GANG",
+    "home_league_name": "game_changers_sa",
+    "region": "INTL",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 16,
+        "attack_kda": 0.58,
+        "defense_kda": 3.0,
+        "avg_kills_per_round": 0.5,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 166.19,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.9,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "ISO": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.58,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 166.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.9,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

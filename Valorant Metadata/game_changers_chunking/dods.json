@@ -1,0 +1,76 @@
+{
+    "handle": "dods",
+    "date": "2024-03-20T11:43:06",
+    "status": "active",
+    "first_name": "Caue ",
+    "last_name": "Fernandes",
+    "home_team_name": "KR\u00dc Esports",
+    "home_team_acronym": "KRU",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 431,
+        "attack_kda": 1.41,
+        "defense_kda": 2.2,
+        "avg_kills_per_round": 1.06,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 296.83,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 150.22,
+        "avg_first_bloods_per_round": 0.27,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 218,
+                "attack_kda": 1.28,
+                "defense_kda": 2.12,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 286.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.11,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Raze": {
+                "total_rounds_played": 177,
+                "attack_kda": 1.58,
+                "defense_kda": 2.3,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 296.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 150.55,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "ISO": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.64,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 168.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.2,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.28
+            },
+            "Neon": {
+                "total_rounds_played": 18,
+                "attack_kda": 3.5,
+                "defense_kda": 3.14,
+                "avg_kills_per_round": 2.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 548.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 246.6,
+                "avg_first_bloods_per_round": 0.67,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

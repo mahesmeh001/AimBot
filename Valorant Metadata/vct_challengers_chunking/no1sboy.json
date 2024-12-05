@@ -1,0 +1,92 @@
+{
+    "handle": "no1sboy",
+    "date": "2024-05-12T15:19:06",
+    "status": "active",
+    "first_name": "Sergio",
+    "last_name": "Rahardja",
+    "home_team_name": "The Hero Deta",
+    "home_team_acronym": "THE",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 464,
+        "attack_kda": 1.24,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 183.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 96.76,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 151,
+                "attack_kda": 1.44,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 175.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.9,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "KAY/O": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.15,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 171.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.75,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.94,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 148.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.52,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 145,
+                "attack_kda": 1.33,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 217.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.34,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Cypher": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.76,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 156.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.31,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "handle": "gobera",
+    "date": "2024-02-09T12:05:47",
+    "status": "active",
+    "first_name": "Vitor",
+    "last_name": "Gobo Cesar",
+    "home_team_name": "Legacy",
+    "home_team_acronym": "LGCY",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1011,
+        "attack_kda": 1.33,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 240.03,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.39,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 366,
+                "attack_kda": 1.33,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 250.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.82,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Raze": {
+                "total_rounds_played": 618,
+                "attack_kda": 1.36,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 237.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.22,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Yoru": {
+                "total_rounds_played": 27,
+                "attack_kda": 0.73,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 151.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.82,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

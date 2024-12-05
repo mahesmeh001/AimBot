@@ -1,0 +1,90 @@
+{
+    "handle": "Apoth",
+    "date": "2024-06-20T18:10:01",
+    "status": "active",
+    "first_name": "Vincent",
+    "last_name": "Le",
+    "home_team_name": "Evil Geniuses",
+    "home_team_acronym": "EG",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 588,
+        "attack_kda": 1.08,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 176.49,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.3,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 87,
+                "attack_kda": 2.14,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 197.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.21,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Astra": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.25,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.27,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 84.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 44.0,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Harbor": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.79,
+                "defense_kda": 0.3,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 119.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 59.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 401,
+                "attack_kda": 0.93,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 173.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.59,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Killjoy": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.38,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 253.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.24,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

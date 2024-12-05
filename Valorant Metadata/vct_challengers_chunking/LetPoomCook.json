@@ -1,0 +1,92 @@
+{
+    "handle": "LetPoomCook",
+    "date": "2024-01-22T11:20:58",
+    "status": "active",
+    "first_name": "Rujipoom ",
+    "last_name": "Changkrut",
+    "home_team_name": "Team NKT",
+    "home_team_acronym": "NKT",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 483,
+        "attack_kda": 1.52,
+        "defense_kda": 1.47,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 201.5,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.35,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 191,
+                "attack_kda": 1.52,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 216.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.91,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Brimstone": {
+                "total_rounds_played": 110,
+                "attack_kda": 2.0,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 199.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.0,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 109,
+                "attack_kda": 1.38,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 161.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.31,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.94,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 186.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.31,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.27
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 32,
+                "attack_kda": 1.36,
+                "defense_kda": 3.56,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 270.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 177.32,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

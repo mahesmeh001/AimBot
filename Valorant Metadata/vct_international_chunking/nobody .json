@@ -1,0 +1,88 @@
+{
+    "handle": "nobody ",
+    "date": "2024-04-10T08:43:52",
+    "status": "active",
+    "first_name": "Senxu",
+    "last_name": "Wang",
+    "home_team_name": "EDWARD Gaming",
+    "home_team_acronym": "EDG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1916,
+        "attack_kda": 1.38,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 188.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.21,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 814,
+                "attack_kda": 1.34,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 190.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.7,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Skye": {
+                "total_rounds_played": 672,
+                "attack_kda": 1.43,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 198.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.21,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Fade": {
+                "total_rounds_played": 216,
+                "attack_kda": 1.43,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 182.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.17,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Gekko": {
+                "total_rounds_played": 192,
+                "attack_kda": 1.19,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 158.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.17,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.2,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 166.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.01,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

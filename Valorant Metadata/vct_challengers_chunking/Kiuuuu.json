@@ -1,0 +1,90 @@
+{
+    "handle": "Kiuuuu",
+    "date": "2022-02-18T09:08:42",
+    "status": "active",
+    "first_name": "Tsz Kiu",
+    "last_name": "Yung",
+    "home_team_name": "Oblivion Force",
+    "home_team_acronym": "OF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1886,
+        "attack_kda": 1.72,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 222.08,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.33,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 1082,
+                "attack_kda": 1.81,
+                "defense_kda": 1.84,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 220.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.74,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 384,
+                "attack_kda": 1.5,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 239.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.07,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 311,
+                "attack_kda": 1.7,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 206.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.72,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.5,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 204.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.48,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.57,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 271.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 144.32,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

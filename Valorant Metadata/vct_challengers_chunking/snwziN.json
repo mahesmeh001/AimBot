@@ -1,0 +1,52 @@
+{
+    "handle": "snwziN",
+    "date": "2024-02-12T11:16:55",
+    "status": "active",
+    "first_name": "Miguel",
+    "last_name": "Miguel",
+    "home_team_name": "RETA Esports",
+    "home_team_acronym": "RETA",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1122,
+        "attack_kda": 1.25,
+        "defense_kda": 1.57,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 242.79,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.58,
+        "avg_first_bloods_per_round": 0.23,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 572,
+                "attack_kda": 1.15,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 244.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.64,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Raze": {
+                "total_rounds_played": 550,
+                "attack_kda": 1.36,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 241.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.56,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

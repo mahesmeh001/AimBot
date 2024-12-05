@@ -1,0 +1,76 @@
+{
+    "handle": "zhen",
+    "date": "2023-03-27T10:04:57",
+    "status": "active",
+    "first_name": "chia ying",
+    "last_name": "tseng",
+    "home_team_name": "S2 Esports",
+    "home_team_acronym": "S2",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 715,
+        "attack_kda": 1.21,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 246.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 126.41,
+        "avg_first_bloods_per_round": 0.23,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 344,
+                "attack_kda": 1.12,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 239.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.43,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 298,
+                "attack_kda": 1.27,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 254.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.33,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Neon": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.44,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 253.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.85,
+                "avg_first_bloods_per_round": 0.28,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Reyna": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.33,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 253.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.4,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

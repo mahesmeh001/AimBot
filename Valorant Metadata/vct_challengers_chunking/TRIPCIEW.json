@@ -1,0 +1,92 @@
+{
+    "handle": "TRIPCIEW",
+    "date": "2024-05-27T13:09:55",
+    "status": "active",
+    "first_name": "Minh C\u01b0\u1eddng",
+    "last_name": "V\u0169",
+    "home_team_name": "Take it Easy",
+    "home_team_acronym": "TIE",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 359,
+        "attack_kda": 1.19,
+        "defense_kda": 1.64,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 195.19,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.8,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 133,
+                "attack_kda": 1.28,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 186.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.42,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Viper": {
+                "total_rounds_played": 142,
+                "attack_kda": 1.33,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 225.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.31,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.53,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 139.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.48,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Killjoy": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.36,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 177.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.82,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Duelist": {
+            "Phoenix": {
+                "total_rounds_played": 2,
+                "attack_kda": 1.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 125.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 60.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

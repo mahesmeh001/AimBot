@@ -1,0 +1,104 @@
+{
+    "handle": "Jremy",
+    "date": "2024-04-10T09:08:54",
+    "status": "active",
+    "first_name": "Jeremy",
+    "last_name": "Cabrera",
+    "home_team_name": "Team Secret",
+    "home_team_acronym": "TSC",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1575,
+        "attack_kda": 1.18,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 223.71,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 118.67,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 808,
+                "attack_kda": 1.17,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 236.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.75,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Jett": {
+                "total_rounds_played": 424,
+                "attack_kda": 1.18,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 223.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.04,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Neon": {
+                "total_rounds_played": 89,
+                "attack_kda": 1.19,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 216.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.52,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.24
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 151,
+                "attack_kda": 1.42,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 214.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.09,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Sage": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.24,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 159.35,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 80.54,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.4,
+                "defense_kda": 0.4,
+                "avg_kills_per_round": 0.24,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 74.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 38.74,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

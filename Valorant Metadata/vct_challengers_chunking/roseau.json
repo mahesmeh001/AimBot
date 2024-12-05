@@ -1,0 +1,40 @@
+{
+    "handle": "roseau",
+    "date": "2024-05-12T15:12:36",
+    "status": "active",
+    "first_name": "Baskoro",
+    "last_name": "Dwi Putra",
+    "home_team_name": "ALTER EGO",
+    "home_team_acronym": "AE",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 20,
+        "attack_kda": 0.6,
+        "defense_kda": 0.5,
+        "avg_kills_per_round": 0.45,
+        "avg_assists_per_round": 0.05,
+        "avg_combat_score_per_round": 119.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 66.11,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.6,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 119.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 66.11,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "handle": "nanotekkkkk",
+    "date": "2024-05-21T11:41:47",
+    "status": "active",
+    "first_name": "Hryhorii ",
+    "last_name": "Antoniuk",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 103,
+        "attack_kda": 1.04,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 198.8,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.94,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 103,
+                "attack_kda": 1.04,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 198.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.94,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

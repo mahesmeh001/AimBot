@@ -1,0 +1,66 @@
+{
+    "handle": "Arthizt",
+    "date": "2023-01-16T15:13:18",
+    "status": "active",
+    "first_name": "Marukhathat",
+    "last_name": "Arthit",
+    "home_team_name": "Gelida Esports",
+    "home_team_acronym": "GD",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 287,
+        "attack_kda": 1.42,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.43,
+        "avg_combat_score_per_round": 186.95,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 99.12,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.35,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 200.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.22,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Omen": {
+                "total_rounds_played": 200,
+                "attack_kda": 1.45,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 184.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.76,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.33,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 167.58,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 78.19,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "handle": "GON ",
+    "date": "2023-01-19T12:32:36",
+    "status": "active",
+    "first_name": "Kento",
+    "last_name": "Hara",
+    "home_team_name": "Crest Gaming",
+    "home_team_acronym": "CGV",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 780,
+        "attack_kda": 1.53,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 184.04,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 96.53,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 251,
+                "attack_kda": 1.55,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 167.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.07,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 336,
+                "attack_kda": 1.4,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 176.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.73,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Viper": {
+                "total_rounds_played": 149,
+                "attack_kda": 1.49,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 209.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.52,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 44,
+                "attack_kda": 3.44,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 248.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.64,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

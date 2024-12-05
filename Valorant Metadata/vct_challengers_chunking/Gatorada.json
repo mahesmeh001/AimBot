@@ -1,0 +1,78 @@
+{
+    "handle": "Gatorada",
+    "date": "2024-01-25T09:51:33",
+    "status": "active",
+    "first_name": "Nishida",
+    "last_name": "Hideki",
+    "home_team_name": "Sengoku Gaming",
+    "home_team_acronym": "SG",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1362,
+        "attack_kda": 1.43,
+        "defense_kda": 1.65,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 178.97,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 94.09,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 259,
+                "attack_kda": 1.41,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 205.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.52,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 991,
+                "attack_kda": 1.45,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 171.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 94,
+                "attack_kda": 1.26,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 182.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.0,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 179.44,
+                "avg_revives_per_round": 0.06,
+                "avg_damage_dealt_per_round": 98.97,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

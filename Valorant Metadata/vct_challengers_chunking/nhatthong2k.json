@@ -1,0 +1,102 @@
+{
+    "handle": "nhatthong2k",
+    "date": "2024-05-27T13:02:36",
+    "status": "active",
+    "first_name": "Th\u1ed1ng",
+    "last_name": "Nguy\u1ec5n",
+    "home_team_name": "Team Big BAAM",
+    "home_team_acronym": "BAAM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1433,
+        "attack_kda": 1.2,
+        "defense_kda": 1.41,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 231.67,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 121.24,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 890,
+                "attack_kda": 1.13,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 225.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.17,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Raze": {
+                "total_rounds_played": 443,
+                "attack_kda": 1.24,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 238.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.3,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "ISO": {
+                "total_rounds_played": 37,
+                "attack_kda": 2.0,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 1.03,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 275.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.01,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Reyna": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.86,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 182.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.7,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Neon": {
+                "total_rounds_played": 23,
+                "attack_kda": 2.0,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 310.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 153.71,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 14,
+                "attack_kda": 1.5,
+                "defense_kda": 6.33,
+                "avg_kills_per_round": 1.14,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 287.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.83,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

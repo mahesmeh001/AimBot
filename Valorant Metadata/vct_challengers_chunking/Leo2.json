@@ -1,0 +1,106 @@
+{
+    "handle": "Leo2",
+    "date": "2023-03-27T10:23:47",
+    "status": "active",
+    "first_name": "Pin Wei",
+    "last_name": "Huang",
+    "home_team_name": "UTT Esports",
+    "home_team_acronym": "UTT",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 456,
+        "attack_kda": 1.52,
+        "defense_kda": 1.63,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 238.16,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.82,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.0,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 251.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.34,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.67,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 193.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.77,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 65,
+                "attack_kda": 2.35,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 229.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.23,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 317,
+                "attack_kda": 1.6,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 249.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.56,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.5,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 228.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.99,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "KAY/O": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.67,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.21,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 84.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 47.44,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

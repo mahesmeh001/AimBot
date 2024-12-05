@@ -1,0 +1,78 @@
+{
+    "handle": "POWERPIXELE",
+    "date": "2024-02-27T10:02:23",
+    "status": "active",
+    "first_name": "Sean",
+    "last_name": "Martin",
+    "home_team_name": "Evil Geniuses",
+    "home_team_acronym": "EG",
+    "home_league_name": "game_changers_na",
+    "region": "NA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 679,
+        "attack_kda": 1.54,
+        "defense_kda": 1.96,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.49,
+        "avg_combat_score_per_round": 205.53,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.79,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.4,
+                "defense_kda": 1.95,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 225.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.28,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 266,
+                "attack_kda": 1.67,
+                "defense_kda": 2.15,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 198.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.36,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "KAY/O": {
+                "total_rounds_played": 146,
+                "attack_kda": 1.59,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.65,
+                "avg_combat_score_per_round": 196.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.85,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 165,
+                "attack_kda": 1.39,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 212.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.95,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

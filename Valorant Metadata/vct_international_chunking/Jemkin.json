@@ -1,0 +1,92 @@
+{
+    "handle": "Jemkin",
+    "date": "2024-04-10T09:05:52",
+    "status": "active",
+    "first_name": "Maksim",
+    "last_name": "Batorov",
+    "home_team_name": "Rex Regum Qeon",
+    "home_team_acronym": "RRQ",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 719,
+        "attack_kda": 1.25,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 224.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.21,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 353,
+                "attack_kda": 1.22,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 230.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.49,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Raze": {
+                "total_rounds_played": 241,
+                "attack_kda": 1.14,
+                "defense_kda": 1.66,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 229.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.74,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Yoru": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.44,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 246.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.32,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 80,
+                "attack_kda": 2.1,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 193.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.99,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.8,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 150.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.97,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "grahams",
+    "date": "2024-03-30T12:54:25",
+    "status": "active",
+    "first_name": "Leanne",
+    "last_name": "Ti-in",
+    "home_team_name": "sisu",
+    "home_team_acronym": "SISU",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 170,
+        "attack_kda": 2.51,
+        "defense_kda": 1.73,
+        "avg_kills_per_round": 1.05,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 292.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 146.51,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 51,
+                "attack_kda": 3.1,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.61,
+                "avg_combat_score_per_round": 277.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.09,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 58,
+                "attack_kda": 2.4,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 1.17,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 328.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 161.74,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Yoru": {
+                "total_rounds_played": 39,
+                "attack_kda": 2.38,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 268.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.91,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Jett": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.6,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 276.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.56,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

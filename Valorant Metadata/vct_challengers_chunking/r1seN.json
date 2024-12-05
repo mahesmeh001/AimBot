@@ -1,0 +1,90 @@
+{
+    "handle": "r1seN",
+    "date": "2024-04-01T08:51:39",
+    "status": "active",
+    "first_name": "Mohammad Zaid",
+    "last_name": "Quraishi",
+    "home_team_name": "Carnival Gaming",
+    "home_team_acronym": "CG",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 221,
+        "attack_kda": 1.04,
+        "defense_kda": 1.1,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.13,
+        "avg_combat_score_per_round": 188.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.43,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.33,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 184.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.03,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.25,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 173.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.54,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 77,
+                "attack_kda": 1.1,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 223.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.17,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Yoru": {
+                "total_rounds_played": 13,
+                "attack_kda": 0.33,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.23,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 87.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 54.77,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Jett": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.7,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 169.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.06,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

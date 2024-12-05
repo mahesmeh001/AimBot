@@ -1,0 +1,90 @@
+{
+    "handle": "bstrdd",
+    "date": "2024-07-16T02:06:58",
+    "status": "active",
+    "first_name": "Paula",
+    "last_name": "Naguil",
+    "home_team_name": "Team Liquid Visa",
+    "home_team_acronym": "TL",
+    "home_league_name": "game_changers_series_brazil",
+    "region": "BR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 485,
+        "attack_kda": 1.47,
+        "defense_kda": 1.56,
+        "avg_kills_per_round": 0.88,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 251.47,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 130.25,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "ISO": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.92,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 256.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.06,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Jett": {
+                "total_rounds_played": 60,
+                "attack_kda": 0.81,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 187.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.23,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Raze": {
+                "total_rounds_played": 323,
+                "attack_kda": 1.68,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 270.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.91,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 44,
+                "attack_kda": 0.76,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 177.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.15,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Cypher": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.56,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 1.08,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 287.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.56,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

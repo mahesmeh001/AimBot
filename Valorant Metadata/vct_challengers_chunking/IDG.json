@@ -1,0 +1,78 @@
+{
+    "handle": "IDG",
+    "date": "2024-02-15T14:21:43",
+    "status": "active",
+    "first_name": "Dongki",
+    "last_name": "Lee",
+    "home_team_name": "Incheon On Sla2ers",
+    "home_team_acronym": "ONS",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 310,
+        "attack_kda": 1.03,
+        "defense_kda": 1.28,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 171.15,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.53,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 132,
+                "attack_kda": 1.12,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 197.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.78,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Skye": {
+                "total_rounds_played": 69,
+                "attack_kda": 0.95,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 149.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.91,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Fade": {
+                "total_rounds_played": 65,
+                "attack_kda": 0.93,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 167.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.17,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.0,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 132.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.96,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

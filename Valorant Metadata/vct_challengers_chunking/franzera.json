@@ -1,0 +1,52 @@
+{
+    "handle": "franzera",
+    "date": "2023-04-18T11:22:49",
+    "status": "active",
+    "first_name": "Francisco",
+    "last_name": "Monta\u00f1ana",
+    "home_team_name": "RETA Esports",
+    "home_team_acronym": "RETA",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 45,
+        "attack_kda": 1.5,
+        "defense_kda": 1.06,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.47,
+        "avg_combat_score_per_round": 208.22,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.21,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.64,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 254.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.77,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Breach": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.33,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 168.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.97,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

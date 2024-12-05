@@ -1,0 +1,106 @@
+{
+    "handle": "Kally",
+    "date": "2024-05-21T10:18:54",
+    "status": "active",
+    "first_name": "Dong Uk",
+    "last_name": "Kim",
+    "home_team_name": "SUPERFECT Esports",
+    "home_team_acronym": "SPF",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 233,
+        "attack_kda": 1.7,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 211.55,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.71,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 40,
+                "attack_kda": 1.71,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 226.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.15,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Cypher": {
+                "total_rounds_played": 105,
+                "attack_kda": 1.6,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 210.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.13,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 23,
+                "attack_kda": 3.5,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 1.09,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 282.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.37,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Sova": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.5,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 181.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.38,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.0,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 160.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.08,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 3,
+                "attack_kda": 0.0,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 275.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.06,
+                "avg_first_bloods_per_round": 0.33,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

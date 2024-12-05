@@ -1,0 +1,52 @@
+{
+    "handle": "Lexy",
+    "date": "2024-02-28T07:31:52",
+    "status": "active",
+    "first_name": "Xavier",
+    "last_name": "Lee",
+    "home_team_name": "BIKINI BOTTOM PRATAHOUSE",
+    "home_team_acronym": "BBP",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 44,
+        "attack_kda": 2.31,
+        "defense_kda": 1.62,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.61,
+        "avg_combat_score_per_round": 202.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.59,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.71,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 173.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.4,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Brimstone": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.0,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.67,
+                "avg_combat_score_per_round": 243.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.75,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

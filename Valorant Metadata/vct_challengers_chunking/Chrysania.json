@@ -1,0 +1,104 @@
+{
+    "handle": "Chrysania",
+    "date": "2023-01-27T10:18:15",
+    "status": "active",
+    "first_name": "Chin Yu ",
+    "last_name": "Zhe",
+    "home_team_name": "X10 Esports",
+    "home_team_acronym": "X10",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 593,
+        "attack_kda": 1.56,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 183.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.33,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 60,
+                "attack_kda": 0.96,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 196.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.74,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 258,
+                "attack_kda": 1.77,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 186.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.6,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Brimstone": {
+                "total_rounds_played": 129,
+                "attack_kda": 1.68,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 184.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.41,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.61,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 156.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.82,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 29,
+                "attack_kda": 1.5,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 244.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.09,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.14,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 126.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 57.7,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.28
+            }
+        }
+    }
+}

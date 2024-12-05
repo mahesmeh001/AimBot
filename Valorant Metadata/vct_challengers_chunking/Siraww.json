@@ -1,0 +1,76 @@
+{
+    "handle": "Siraww",
+    "date": "2024-01-22T10:21:26",
+    "status": "active",
+    "first_name": "Siraphop ",
+    "last_name": "Honghirun",
+    "home_team_name": "Xerxia",
+    "home_team_acronym": "XIA",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 955,
+        "attack_kda": 1.33,
+        "defense_kda": 1.63,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 195.42,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.92,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 314,
+                "attack_kda": 1.32,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 203.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.5,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Gekko": {
+                "total_rounds_played": 186,
+                "attack_kda": 1.29,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 192.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.27,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Skye": {
+                "total_rounds_played": 211,
+                "attack_kda": 1.32,
+                "defense_kda": 1.82,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 194.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.42,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 244,
+                "attack_kda": 1.39,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 187.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.06,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

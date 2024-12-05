@@ -1,0 +1,80 @@
+{
+    "handle": "riyabtw",
+    "date": "2024-01-22T13:49:53",
+    "status": "active",
+    "first_name": "Cho-Ming, FREDDIE",
+    "last_name": "Liu",
+    "home_team_name": "Oblivion Force",
+    "home_team_acronym": "OF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 549,
+        "attack_kda": 1.34,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 234.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.14,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 403,
+                "attack_kda": 1.45,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 244.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.34,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Jett": {
+                "total_rounds_played": 105,
+                "attack_kda": 0.8,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 204.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.97,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 17,
+                "attack_kda": 2.5,
+                "defense_kda": 5.0,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 1.12,
+                "avg_combat_score_per_round": 282.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.25,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.57,
+                "defense_kda": 0.4,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 154.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.44,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

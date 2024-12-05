@@ -1,0 +1,78 @@
+{
+    "handle": "slash",
+    "date": "2023-01-16T15:15:33",
+    "status": "active",
+    "first_name": "Worrakit",
+    "last_name": "Boonsanat",
+    "home_team_name": "Team JOBSO",
+    "home_team_acronym": "TJS",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 290,
+        "attack_kda": 0.84,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 205.54,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.35,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.11,
+                "defense_kda": 2.09,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 249.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.7,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Jett": {
+                "total_rounds_played": 160,
+                "attack_kda": 0.73,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 187.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.06,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.0,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 232.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.72,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Chamber": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.77,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 173.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.25,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

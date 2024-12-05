@@ -1,0 +1,92 @@
+{
+    "handle": "Hiro  ",
+    "date": "2024-06-19T07:27:53",
+    "status": "active",
+    "first_name": "Emirhan",
+    "last_name": "Kat",
+    "home_team_name": "FNATIC",
+    "home_team_acronym": "FNC",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 732,
+        "attack_kda": 1.53,
+        "defense_kda": 1.67,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 190.26,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.71,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 94,
+                "attack_kda": 1.22,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 145.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.63,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Fade": {
+                "total_rounds_played": 287,
+                "attack_kda": 1.6,
+                "defense_kda": 1.66,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 181.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.47,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Sova": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.38,
+                "defense_kda": 2.62,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.64,
+                "avg_combat_score_per_round": 255.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.57,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 279,
+                "attack_kda": 1.6,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 207.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.22,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 50,
+                "attack_kda": 1.33,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 205.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.77,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

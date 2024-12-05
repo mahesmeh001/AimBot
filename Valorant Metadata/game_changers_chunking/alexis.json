@@ -1,0 +1,104 @@
+{
+    "handle": "alexis",
+    "date": "2023-11-15T09:35:33",
+    "status": "active",
+    "first_name": "Alexis",
+    "last_name": "Guarrasi",
+    "home_team_name": "Version 1",
+    "home_team_acronym": "V1",
+    "home_league_name": "game_changers_na",
+    "region": "NA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 1064,
+        "attack_kda": 2.17,
+        "defense_kda": 1.8,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.54,
+        "avg_combat_score_per_round": 186.31,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 94.46,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 95,
+                "attack_kda": 2.22,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 186.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.22,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Skye": {
+                "total_rounds_played": 488,
+                "attack_kda": 2.11,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 174.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.64,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "KAY/O": {
+                "total_rounds_played": 222,
+                "attack_kda": 2.18,
+                "defense_kda": 2.25,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 215.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.57,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 164,
+                "attack_kda": 2.31,
+                "defense_kda": 2.54,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.68,
+                "avg_combat_score_per_round": 188.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.29,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 43,
+                "attack_kda": 2.0,
+                "defense_kda": 0.62,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 169.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.56,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 52,
+                "attack_kda": 2.3,
+                "defense_kda": 2.29,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 175.27,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 89.3,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

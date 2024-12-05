@@ -1,0 +1,40 @@
+{
+    "handle": "Soldier",
+    "date": "2024-05-21T11:41:47",
+    "status": "active",
+    "first_name": "M\u00e1rcio",
+    "last_name": "Correia",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 150,
+        "attack_kda": 0.75,
+        "defense_kda": 0.87,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 167.68,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.14,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.23
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 150,
+                "attack_kda": 0.75,
+                "defense_kda": 0.87,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 167.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.14,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.23
+            }
+        }
+    }
+}

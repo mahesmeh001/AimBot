@@ -1,0 +1,92 @@
+{
+    "handle": "gmA",
+    "date": "2024-05-21T11:26:21",
+    "status": "active",
+    "first_name": "Gon\u00e7alo",
+    "last_name": "Amorim",
+    "home_team_name": "Fuzos Na Via",
+    "home_team_acronym": "FUZO",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 282,
+        "attack_kda": 1.11,
+        "defense_kda": 0.84,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 159.81,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.2,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 177,
+                "attack_kda": 1.17,
+                "defense_kda": 0.87,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 180.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.79,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Cypher": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.62,
+                "defense_kda": 0.68,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 167.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.53,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.27,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 72.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 41.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Breach": {
+                "total_rounds_played": 39,
+                "attack_kda": 2.12,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 126.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 58.28,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.0,
+                "defense_kda": 0.45,
+                "avg_kills_per_round": 0.28,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 82.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 42.0,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

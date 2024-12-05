@@ -1,0 +1,102 @@
+{
+    "handle": "astr0",
+    "date": "2024-06-03T11:51:25",
+    "status": "active",
+    "first_name": "Franz ",
+    "last_name": "del Rosario",
+    "home_team_name": "1st MegaSaver",
+    "home_team_acronym": "1MS",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1201,
+        "attack_kda": 1.59,
+        "defense_kda": 1.67,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 202.63,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.79,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 94,
+                "attack_kda": 1.59,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 219.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.84,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 188,
+                "attack_kda": 1.51,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 201.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.72,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Omen": {
+                "total_rounds_played": 767,
+                "attack_kda": 1.65,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 203.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.28,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Brimstone": {
+                "total_rounds_played": 108,
+                "attack_kda": 1.62,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 206.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.11,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Harbor": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.56,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 157.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.6,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.67,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 126.48,
+                "avg_revives_per_round": 0.13,
+                "avg_damage_dealt_per_round": 74.12,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

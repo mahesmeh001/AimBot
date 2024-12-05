@@ -1,0 +1,78 @@
+{
+    "handle": "Dizzy",
+    "date": "2024-01-22T14:34:51",
+    "status": "active",
+    "first_name": "Yi-Feng",
+    "last_name": "Lin",
+    "home_team_name": "HKUF",
+    "home_team_acronym": "HKUF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 623,
+        "attack_kda": 1.34,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 190.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.69,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 215,
+                "attack_kda": 1.05,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 192.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.46,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Gekko": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.61,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 209.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.89,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Fade": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.56,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 200.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.18,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 171,
+                "attack_kda": 1.36,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 163.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.17,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

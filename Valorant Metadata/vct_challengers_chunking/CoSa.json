@@ -1,0 +1,92 @@
+{
+    "handle": "CoSa",
+    "date": "2023-01-19T14:30:45",
+    "status": "active",
+    "first_name": "Jinhyung",
+    "last_name": "Kim",
+    "home_team_name": "WGS X",
+    "home_team_acronym": "WGS",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 361,
+        "attack_kda": 1.16,
+        "defense_kda": 1.23,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 203.52,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.53,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 160,
+                "attack_kda": 0.88,
+                "defense_kda": 1.02,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 182.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.64,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Neon": {
+                "total_rounds_played": 66,
+                "attack_kda": 1.33,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 222.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.48,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.24,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 191.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.28,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.24
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 47,
+                "attack_kda": 1.83,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 234.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.63,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.35,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 228.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.6,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

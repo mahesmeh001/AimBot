@@ -1,0 +1,104 @@
+{
+    "handle": "Suggest",
+    "date": "2024-01-31T11:12:33",
+    "status": "active",
+    "first_name": "Seo",
+    "last_name": "Jae-young",
+    "home_team_name": "DetonatioN FocusMe",
+    "home_team_acronym": "DFM",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 327,
+        "attack_kda": 1.08,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 213.05,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 112.78,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.44,
+                "defense_kda": 2.59,
+                "avg_kills_per_round": 1.18,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 324.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 172.14,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Jett": {
+                "total_rounds_played": 93,
+                "attack_kda": 1.18,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 223.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.33,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 130,
+                "attack_kda": 0.92,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 188.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.02,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Sage": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.78,
+                "defense_kda": 2.8,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 180.41,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 89.57,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.0,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 159.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.42,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Breach": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.11,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 150.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.29,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

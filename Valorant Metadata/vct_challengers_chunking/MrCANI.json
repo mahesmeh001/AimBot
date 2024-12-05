@@ -1,0 +1,64 @@
+{
+    "handle": "MrCANI",
+    "date": "2023-03-27T11:03:43",
+    "status": "active",
+    "first_name": "Ting Xun",
+    "last_name": "Chen",
+    "home_team_name": "Anti Eco Eco Club",
+    "home_team_acronym": "AEEC",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 584,
+        "attack_kda": 1.2,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.12,
+        "avg_combat_score_per_round": 197.51,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.26,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 521,
+                "attack_kda": 1.18,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 196.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.62,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Raze": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.89,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 201.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.86,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Reyna": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.59,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 213.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.2,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

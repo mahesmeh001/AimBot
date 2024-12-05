@@ -1,0 +1,64 @@
+{
+    "handle": "Bugsy",
+    "date": "2024-03-30T12:53:07",
+    "status": "active",
+    "first_name": "Alessandra Mae G.",
+    "last_name": "Godoy",
+    "home_team_name": "RIMA GC",
+    "home_team_acronym": "RIMA",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 171,
+        "attack_kda": 2.02,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 221.15,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.76,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 81,
+                "attack_kda": 1.17,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 178.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.7,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 44,
+                "attack_kda": 2.33,
+                "defense_kda": 1.82,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 261.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.89,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Omen": {
+                "total_rounds_played": 46,
+                "attack_kda": 3.42,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 257.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.21,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

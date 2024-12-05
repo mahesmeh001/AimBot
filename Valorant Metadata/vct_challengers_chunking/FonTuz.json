@@ -1,0 +1,90 @@
+{
+    "handle": "FonTuz",
+    "date": "2024-01-24T08:59:57",
+    "status": "active",
+    "first_name": "Sangsiriwattananon",
+    "last_name": "Sarut",
+    "home_team_name": "Valee Thai Esports",
+    "home_team_acronym": "VLTH",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 305,
+        "attack_kda": 1.16,
+        "defense_kda": 1.38,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 193.33,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.55,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 92,
+                "attack_kda": 1.45,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 196.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.34,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Omen": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.67,
+                "defense_kda": 0.58,
+                "avg_kills_per_round": 0.27,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 113.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.57,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Astra": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.33,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 152.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.49,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.0,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 186.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.83,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Gekko": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.22,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 214.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.74,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

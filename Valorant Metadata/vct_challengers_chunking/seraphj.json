@@ -1,0 +1,78 @@
+{
+    "handle": "seraphj",
+    "date": "2024-02-17T04:12:34",
+    "status": "active",
+    "first_name": "Benjamin",
+    "last_name": "Rabinovich",
+    "home_team_name": "Oxen",
+    "home_team_acronym": "OXEN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 238,
+        "attack_kda": 1.42,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 204.25,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.28,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 84,
+                "attack_kda": 0.76,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 191.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.99,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 39,
+                "attack_kda": 2.29,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 176.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.05,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Breach": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.75,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 199.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.39,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.9,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 229.03,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.08,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

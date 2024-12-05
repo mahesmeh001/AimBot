@@ -1,0 +1,52 @@
+{
+    "handle": "Tian02",
+    "date": "2024-05-21T11:27:27",
+    "status": "active",
+    "first_name": "Vadim",
+    "last_name": "Filkin",
+    "home_team_name": "Fuzos Na Via",
+    "home_team_acronym": "FUZO",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 128,
+        "attack_kda": 0.95,
+        "defense_kda": 1.51,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.1,
+        "avg_combat_score_per_round": 222.16,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.15,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.05,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 232.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.33,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Raze": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.74,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 200.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.3,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

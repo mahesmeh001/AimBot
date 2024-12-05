@@ -1,0 +1,102 @@
+{
+    "handle": "RieNs",
+    "date": "2024-04-10T08:29:38",
+    "status": "active",
+    "first_name": "Enes",
+    "last_name": "Ecirli",
+    "home_team_name": "Team Heretics",
+    "home_team_acronym": "TH",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 2352,
+        "attack_kda": 1.58,
+        "defense_kda": 1.65,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 205.9,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.3,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 1265,
+                "attack_kda": 1.65,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 217.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.62,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.41,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 199.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.53,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Gekko": {
+                "total_rounds_played": 437,
+                "attack_kda": 1.45,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 192.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.87,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 361,
+                "attack_kda": 1.53,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 187.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.38,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 122,
+                "attack_kda": 1.11,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 177.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.88,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 129,
+                "attack_kda": 2.0,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 214.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.15,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

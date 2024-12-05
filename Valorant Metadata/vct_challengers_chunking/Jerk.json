@@ -1,0 +1,92 @@
+{
+    "handle": "Jerk",
+    "date": "2024-03-13T10:50:57",
+    "status": "active",
+    "first_name": "Justin",
+    "last_name": "Milani",
+    "home_team_name": "Winthrop University",
+    "home_team_acronym": "WU",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 533,
+        "attack_kda": 1.26,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 188.6,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.99,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 181,
+                "attack_kda": 1.26,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 187.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.67,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Killjoy": {
+                "total_rounds_played": 252,
+                "attack_kda": 1.21,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 185.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.96,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 64,
+                "attack_kda": 1.47,
+                "defense_kda": 2.11,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 201.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.56,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.25,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 205.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.64,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Fade": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.33,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 180.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.94,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

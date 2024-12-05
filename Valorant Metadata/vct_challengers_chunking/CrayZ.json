@@ -1,0 +1,80 @@
+{
+    "handle": "CrayZ",
+    "date": "2023-02-17T21:18:22",
+    "status": "active",
+    "first_name": "Jacinto",
+    "last_name": "Hunt",
+    "home_team_name": "EBRO GAMING",
+    "home_team_acronym": "EBG",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 103,
+        "attack_kda": 1.33,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 199.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.62,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.38,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 217.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.61,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.02
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.11,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.74,
+                "avg_combat_score_per_round": 186.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.93,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Skye": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.12,
+                "defense_kda": 0.43,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 218.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.97,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.16
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.8,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 140.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.69,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

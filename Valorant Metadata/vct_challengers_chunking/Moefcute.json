@@ -1,0 +1,90 @@
+{
+    "handle": "Moefcute",
+    "date": "2024-02-06T15:16:11",
+    "status": "active",
+    "first_name": "Ph\u00fac Hi\u1ebfu",
+    "last_name": "D\u01b0\u01a1ng",
+    "home_team_name": "LAZY LFO",
+    "home_team_acronym": "LAZY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 840,
+        "attack_kda": 1.08,
+        "defense_kda": 1.3,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 222.73,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 116.59,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 652,
+                "attack_kda": 1.0,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 216.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.22,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 73,
+                "attack_kda": 1.29,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 224.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.02,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Reyna": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.33,
+                "defense_kda": 2.14,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 295.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.93,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Phoenix": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.22,
+                "defense_kda": 0.72,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 222.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.61,
+                "avg_first_bloods_per_round": 0.31,
+                "avg_first_deaths_per_round": 0.26
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 19,
+                "attack_kda": 4.0,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 205.84,
+                "avg_revives_per_round": 0.05,
+                "avg_damage_dealt_per_round": 98.17,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

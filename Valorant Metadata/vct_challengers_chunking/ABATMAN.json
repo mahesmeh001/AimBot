@@ -1,0 +1,66 @@
+{
+    "handle": "ABATMAN",
+    "date": "2023-03-27T12:38:02",
+    "status": "active",
+    "first_name": "Franc",
+    "last_name": "Lenard Mejia",
+    "home_team_name": "SR Nacague",
+    "home_team_acronym": "NCG",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 284,
+        "attack_kda": 1.31,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 193.59,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.38,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 206,
+                "attack_kda": 1.14,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 205.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.89,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 62,
+                "attack_kda": 2.0,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.61,
+                "avg_combat_score_per_round": 177.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.15,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Breach": {
+                "total_rounds_played": 16,
+                "attack_kda": 1.0,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.31,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 99.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.46,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

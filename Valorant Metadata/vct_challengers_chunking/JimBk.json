@@ -1,0 +1,54 @@
+{
+    "handle": "JimBk",
+    "date": "2024-05-13T18:35:57",
+    "status": "active",
+    "first_name": "Jim",
+    "last_name": "Boerkamp",
+    "home_team_name": "LONETEAM",
+    "home_team_acronym": "LONE",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 280,
+        "attack_kda": 1.14,
+        "defense_kda": 1.47,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 209.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.31,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 264,
+                "attack_kda": 1.17,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 214.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.42,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.9,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.38,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 119.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.99,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.44
+            }
+        }
+    }
+}

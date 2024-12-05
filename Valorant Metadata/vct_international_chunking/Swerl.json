@@ -1,0 +1,52 @@
+{
+    "handle": "Swerl",
+    "date": "2024-06-20T11:29:43",
+    "status": "active",
+    "first_name": "Swerl",
+    "last_name": "Swerl",
+    "home_team_name": "NOVA ESPORTS",
+    "home_team_acronym": "NOVA",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 211,
+        "attack_kda": 1.04,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 223.19,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 118.34,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 165,
+                "attack_kda": 0.89,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 219.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.09,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Jett": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.63,
+                "defense_kda": 0.72,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 235.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.81,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

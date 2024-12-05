@@ -1,0 +1,102 @@
+{
+    "handle": "Kayn",
+    "date": "2024-01-05T11:05:29",
+    "status": "active",
+    "first_name": "Tiago",
+    "last_name": "Teixeira",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 657,
+        "attack_kda": 1.21,
+        "defense_kda": 1.19,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 160.65,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 83.12,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 59,
+                "attack_kda": 0.68,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 170.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.44,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.83,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 167.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.64,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Omen": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.24,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 168.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.85,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 345,
+                "attack_kda": 1.45,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 162.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.88,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "KAY/O": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.02,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.37,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 132.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.98,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Sova": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.11,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 155.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.75,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

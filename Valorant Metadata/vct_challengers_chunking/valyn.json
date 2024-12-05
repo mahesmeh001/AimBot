@@ -1,0 +1,76 @@
+{
+    "handle": "valyn",
+    "date": "2024-04-10T07:53:36",
+    "status": "active",
+    "first_name": "Jacob",
+    "last_name": "Batio",
+    "home_team_name": "G2 Esports",
+    "home_team_acronym": "G2",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1011,
+        "attack_kda": 1.6,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.44,
+        "avg_combat_score_per_round": 202.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.08,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 229,
+                "attack_kda": 1.2,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 179.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.86,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Harbor": {
+                "total_rounds_played": 193,
+                "attack_kda": 1.64,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 220.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.28,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Brimstone": {
+                "total_rounds_played": 190,
+                "attack_kda": 2.33,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 226.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.47,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Omen": {
+                "total_rounds_played": 399,
+                "attack_kda": 1.49,
+                "defense_kda": 1.99,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 195.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.16,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

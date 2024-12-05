@@ -1,0 +1,52 @@
+{
+    "handle": "d3mur",
+    "date": "2024-06-12T07:37:39",
+    "status": "active",
+    "first_name": "Demir",
+    "last_name": "Boga",
+    "home_team_name": "Outplayed",
+    "home_team_acronym": "OP",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 212,
+        "attack_kda": 1.2,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 248.83,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 126.0,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.23
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.46,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 268.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.25,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Jett": {
+                "total_rounds_played": 110,
+                "attack_kda": 0.96,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 230.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.86,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

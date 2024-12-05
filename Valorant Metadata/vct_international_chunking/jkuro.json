@@ -1,0 +1,52 @@
+{
+    "handle": "jkuro",
+    "date": "2024-06-20T11:09:18",
+    "status": "active",
+    "first_name": "Ho-chung",
+    "last_name": "Yeung",
+    "home_team_name": "JDG ESPORTS",
+    "home_team_acronym": "JDG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 255,
+        "attack_kda": 1.17,
+        "defense_kda": 1.19,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 180.6,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.54,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 159,
+                "attack_kda": 1.19,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 156.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.15,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Killjoy": {
+                "total_rounds_played": 96,
+                "attack_kda": 1.14,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 220.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.01,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

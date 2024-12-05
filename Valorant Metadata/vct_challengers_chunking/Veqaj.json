@@ -1,0 +1,90 @@
+{
+    "handle": "Veqaj",
+    "date": "2024-05-13T12:33:50",
+    "status": "active",
+    "first_name": "PATTYN",
+    "last_name": "Sylvain",
+    "home_team_name": "Vx300 Gaming",
+    "home_team_acronym": "VX3",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 482,
+        "attack_kda": 1.14,
+        "defense_kda": 1.81,
+        "avg_kills_per_round": 0.91,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 258.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 137.47,
+        "avg_first_bloods_per_round": 0.24,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.37,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 261.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.37,
+                "avg_first_bloods_per_round": 0.32,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Raze": {
+                "total_rounds_played": 305,
+                "attack_kda": 1.13,
+                "defense_kda": 1.98,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 268.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 144.76,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Yoru": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.91,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 207.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.41,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Neon": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.0,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 231.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.59,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.32
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.31,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 238.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.69,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "handle": "florescent",
+    "date": "2024-02-27T10:22:03",
+    "status": "active",
+    "first_name": "Ava ",
+    "last_name": "Eugene",
+    "home_team_name": "Shopify Rebellion",
+    "home_team_acronym": "SR",
+    "home_league_name": "game_changers_na",
+    "region": "NA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 184,
+        "attack_kda": 1.81,
+        "defense_kda": 2.23,
+        "avg_kills_per_round": 1.17,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 311.26,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 155.38,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 104,
+                "attack_kda": 1.76,
+                "defense_kda": 2.35,
+                "avg_kills_per_round": 1.19,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 319.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 162.03,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Jett": {
+                "total_rounds_played": 80,
+                "attack_kda": 1.87,
+                "defense_kda": 2.05,
+                "avg_kills_per_round": 1.15,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 300.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.73,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

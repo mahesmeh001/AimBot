@@ -1,0 +1,54 @@
+{
+    "handle": "FANE",
+    "date": "2023-01-27T10:18:15",
+    "status": "active",
+    "first_name": "Donovan Chia Zheng ",
+    "last_name": "Jie",
+    "home_team_name": "X10 Esports",
+    "home_team_acronym": "X10",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 69,
+        "attack_kda": 0.78,
+        "defense_kda": 1.08,
+        "avg_kills_per_round": 0.48,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 143.2,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.64,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.67,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 134.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.31,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.23
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 29,
+                "attack_kda": 1.0,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 155.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.36,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

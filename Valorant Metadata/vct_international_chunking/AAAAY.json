@@ -1,0 +1,100 @@
+{
+    "handle": "AAAAY",
+    "date": "2024-04-10T08:44:38",
+    "status": "active",
+    "first_name": "Yang",
+    "last_name": "Zhang",
+    "home_team_name": "FunPlus Phoenix",
+    "home_team_acronym": "FPX",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1155,
+        "attack_kda": 1.41,
+        "defense_kda": 1.41,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 193.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.24,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 121,
+                "attack_kda": 1.41,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 224.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.89,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Gekko": {
+                "total_rounds_played": 383,
+                "attack_kda": 1.48,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 174.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.93,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Breach": {
+                "total_rounds_played": 156,
+                "attack_kda": 1.73,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 203.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.66,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Fade": {
+                "total_rounds_played": 214,
+                "attack_kda": 1.23,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 203.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.24,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 215,
+                "attack_kda": 1.02,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 185.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.05,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "KAY/O": {
+                "total_rounds_played": 66,
+                "attack_kda": 2.32,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 225.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.36,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

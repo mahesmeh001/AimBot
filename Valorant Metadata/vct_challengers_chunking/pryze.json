@@ -1,0 +1,76 @@
+{
+    "handle": "pryze",
+    "date": "2024-02-19T18:27:34",
+    "status": "active",
+    "first_name": "Luis Henrique ",
+    "last_name": "Domiciano De Viveiros",
+    "home_team_name": "2GAME eSports",
+    "home_team_acronym": "2G",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1160,
+        "attack_kda": 1.44,
+        "defense_kda": 1.56,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 184.02,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.62,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 469,
+                "attack_kda": 1.68,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 207.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.79,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.4,
+                "defense_kda": 1.68,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 140.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.36,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 531,
+                "attack_kda": 1.32,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 171.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.27,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "KAY/O": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.1,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 184.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.05,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

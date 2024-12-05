@@ -1,0 +1,92 @@
+{
+    "handle": "ShuXz",
+    "date": "2024-05-22T12:39:51",
+    "status": "active",
+    "first_name": "Chen wei",
+    "last_name": "Yang",
+    "home_team_name": "PaPa Esports",
+    "home_team_acronym": "PAPA",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 200,
+        "attack_kda": 1.23,
+        "defense_kda": 1.3,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 190.34,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.19,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 80,
+                "attack_kda": 1.18,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 206.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.6,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Raze": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.38,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 167.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Phoenix": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.86,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 182.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.76,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 42,
+                "attack_kda": 2.15,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 196.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.92,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 162.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.8,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "handle": "MOLSI",
+    "date": "2024-01-04T14:34:00",
+    "status": "active",
+    "first_name": "Micha\u0142",
+    "last_name": "\u0141\u0105cki",
+    "home_team_name": "Team Vitality",
+    "home_team_acronym": "VIT",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 667,
+        "attack_kda": 1.31,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 192.14,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.16,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 165,
+                "attack_kda": 1.32,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 170.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.08,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "KAY/O": {
+                "total_rounds_played": 121,
+                "attack_kda": 1.4,
+                "defense_kda": 2.11,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.7,
+                "avg_combat_score_per_round": 192.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.74,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Fade": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.27,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 196.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.01,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Skye": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.4,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 265.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.59,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 66,
+                "attack_kda": 0.91,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 148.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.62,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 171,
+                "attack_kda": 1.37,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 218.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.75,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

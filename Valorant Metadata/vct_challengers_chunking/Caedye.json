@@ -1,0 +1,80 @@
+{
+    "handle": "Caedye",
+    "date": "2024-05-16T09:08:47",
+    "status": "active",
+    "first_name": "Amon",
+    "last_name": "Mateus Okakura",
+    "home_team_name": "RIDDLE ORDER",
+    "home_team_acronym": "RID",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 448,
+        "attack_kda": 1.38,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 215.1,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.86,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 268,
+                "attack_kda": 1.33,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 228.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.64,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.86,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 212.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.13,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Sova": {
+                "total_rounds_played": 96,
+                "attack_kda": 1.15,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 181.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.71,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 1,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

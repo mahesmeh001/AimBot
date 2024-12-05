@@ -1,0 +1,64 @@
+{
+    "handle": "something",
+    "date": "2024-04-10T09:02:17",
+    "status": "active",
+    "first_name": "IIya",
+    "last_name": "Petrov",
+    "home_team_name": "PAPER REX",
+    "home_team_acronym": "PRX",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 467,
+        "attack_kda": 1.8,
+        "defense_kda": 2.01,
+        "avg_kills_per_round": 1.09,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 304.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 158.67,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 160,
+                "attack_kda": 1.79,
+                "defense_kda": 2.65,
+                "avg_kills_per_round": 1.1,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 298.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 149.34,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Raze": {
+                "total_rounds_played": 129,
+                "attack_kda": 1.45,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 269.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 150.53,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Jett": {
+                "total_rounds_played": 178,
+                "attack_kda": 2.07,
+                "defense_kda": 1.98,
+                "avg_kills_per_round": 1.21,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 336.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 172.96,
+                "avg_first_bloods_per_round": 0.31,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

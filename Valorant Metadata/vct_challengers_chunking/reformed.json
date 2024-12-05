@@ -1,0 +1,92 @@
+{
+    "handle": "reformed",
+    "date": "2024-05-14T19:41:07",
+    "status": "active",
+    "first_name": "Jeffrey",
+    "last_name": "Lu",
+    "home_team_name": "Thinking Men",
+    "home_team_acronym": "THNK",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 257,
+        "attack_kda": 1.03,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 179.33,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 94.28,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.89,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 169.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.0,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Cypher": {
+                "total_rounds_played": 126,
+                "attack_kda": 0.89,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 169.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.85,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Chamber": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.44,
+                "defense_kda": 0.43,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 204.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.97,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.25,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 186.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.31,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.18,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 208.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.13,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

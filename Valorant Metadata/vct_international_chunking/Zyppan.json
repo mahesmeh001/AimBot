@@ -1,0 +1,126 @@
+{
+    "handle": "Zyppan",
+    "date": "2024-04-10T08:27:47",
+    "status": "active",
+    "first_name": "Pontus",
+    "last_name": "Eek",
+    "home_team_name": "NAVI",
+    "home_team_acronym": "NAVI",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 2780,
+        "attack_kda": 1.35,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 210.11,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.81,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 1015,
+                "attack_kda": 1.63,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 206.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.71,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 117,
+                "attack_kda": 1.54,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 202.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.69,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Fade": {
+                "total_rounds_played": 134,
+                "attack_kda": 1.37,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 192.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.56,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Skye": {
+                "total_rounds_played": 311,
+                "attack_kda": 1.17,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 184.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.13,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 75,
+                "attack_kda": 1.08,
+                "defense_kda": 1.96,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 222.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.08,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Gekko": {
+                "total_rounds_played": 37,
+                "attack_kda": 0.73,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 211.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.4,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 991,
+                "attack_kda": 1.14,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 222.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.63,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Neon": {
+                "total_rounds_played": 100,
+                "attack_kda": 1.49,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 222.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.87,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

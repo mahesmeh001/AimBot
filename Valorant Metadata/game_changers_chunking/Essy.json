@@ -1,0 +1,52 @@
+{
+    "handle": "Essy",
+    "date": "2023-05-29T08:34:27",
+    "status": "active",
+    "first_name": "Essy",
+    "last_name": "\u00c7\u0131plak",
+    "home_team_name": "The A Team",
+    "home_team_acronym": "TAT",
+    "home_league_name": "game_changers_emea",
+    "region": "EMEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 105,
+        "attack_kda": 1.95,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.5,
+        "avg_combat_score_per_round": 184.94,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.86,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 71,
+                "attack_kda": 1.52,
+                "defense_kda": 0.97,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 162.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.66,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 34,
+                "attack_kda": 3.33,
+                "defense_kda": 5.0,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 232.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.26,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "SomeThai",
+    "date": "2024-05-27T13:02:36",
+    "status": "active",
+    "first_name": "Le Huy Khiem",
+    "last_name": "Tran",
+    "home_team_name": "Team Big BAAM",
+    "home_team_acronym": "BAAM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 245,
+        "attack_kda": 1.28,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 209.88,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.14,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.5,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 237.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.12,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Fade": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.8,
+                "defense_kda": 2.15,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 190.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.8,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Skye": {
+                "total_rounds_played": 75,
+                "attack_kda": 1.43,
+                "defense_kda": 0.94,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 174.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.16,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 26,
+                "attack_kda": 0.89,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 238.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.32,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

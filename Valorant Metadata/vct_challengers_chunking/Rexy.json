@@ -1,0 +1,78 @@
+{
+    "handle": "Rexy",
+    "date": "2023-03-20T07:33:04",
+    "status": "active",
+    "first_name": "Tejas Ravindranath",
+    "last_name": "Kotian",
+    "home_team_name": "G0DL",
+    "home_team_acronym": "G0DL",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 227,
+        "attack_kda": 1.53,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 193.52,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.31,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 146,
+                "attack_kda": 1.42,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 185.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.65,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 42,
+                "attack_kda": 2.57,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 246.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.68,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.9,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 147.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.22,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.11,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 183.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.78,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

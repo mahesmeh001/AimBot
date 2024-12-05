@@ -1,0 +1,92 @@
+{
+    "handle": "yetujey",
+    "date": "2024-04-10T08:23:24",
+    "status": "active",
+    "first_name": "Eray",
+    "last_name": "Budak",
+    "home_team_name": "Futbolist",
+    "home_team_acronym": "FUT",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1302,
+        "attack_kda": 1.4,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 200.96,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.09,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 677,
+                "attack_kda": 1.39,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 202.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.43,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Killjoy": {
+                "total_rounds_played": 225,
+                "attack_kda": 1.1,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 181.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.55,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sage": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.56,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 220.42,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 104.64,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 336,
+                "attack_kda": 1.61,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 207.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.75,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Duelist": {
+            "Phoenix": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.43,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 221.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.65,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

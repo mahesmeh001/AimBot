@@ -1,0 +1,90 @@
+{
+    "handle": "dazzLe",
+    "date": "2024-03-13T10:55:51",
+    "status": "active",
+    "first_name": "Will",
+    "last_name": "Loafman",
+    "home_team_name": "Turtle Troops",
+    "home_team_acronym": "TTR",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 477,
+        "attack_kda": 1.41,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.44,
+        "avg_combat_score_per_round": 177.3,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.97,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 305,
+                "attack_kda": 1.47,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 164.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.34,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Fade": {
+                "total_rounds_played": 48,
+                "attack_kda": 1.35,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 183.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.62,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Breach": {
+                "total_rounds_played": 43,
+                "attack_kda": 2.0,
+                "defense_kda": 2.44,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 204.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.66,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Sova": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.76,
+                "defense_kda": 2.75,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 260.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.42,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.14,
+                "defense_kda": 0.59,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 160.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.95,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "handle": "Kafka",
+    "date": "2023-01-16T14:09:31",
+    "status": "active",
+    "first_name": "Christofer ",
+    "last_name": "Bryan Widjieanto",
+    "home_team_name": "HeroZero",
+    "home_team_acronym": "HZE",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 241,
+        "attack_kda": 1.1,
+        "defense_kda": 1.05,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 180.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.16,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 115,
+                "attack_kda": 1.24,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 192.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.75,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Astra": {
+                "total_rounds_played": 52,
+                "attack_kda": 1.0,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 168.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.65,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.1,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 228.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.84,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 53,
+                "attack_kda": 0.94,
+                "defense_kda": 0.43,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 145.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.82,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

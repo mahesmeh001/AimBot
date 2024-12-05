@@ -1,0 +1,40 @@
+{
+    "handle": "ray4c",
+    "date": "2024-01-24T13:06:26",
+    "status": "active",
+    "first_name": "Rayvaldo ",
+    "last_name": "Chandra",
+    "home_team_name": "Dominatus",
+    "home_team_acronym": "DOM",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1850,
+        "attack_kda": 1.2,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 221.91,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.24,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 1850,
+                "attack_kda": 1.2,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 221.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.24,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "Yotaa",
+    "date": "2024-05-29T06:26:02",
+    "status": "active",
+    "first_name": "Yota",
+    "last_name": "Kaouachi",
+    "home_team_name": "SCARZ",
+    "home_team_acronym": "SZ",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 418,
+        "attack_kda": 1.46,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.88,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 253.83,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 134.1,
+        "avg_first_bloods_per_round": 0.26,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.5,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 144.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.49,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 328,
+                "attack_kda": 1.47,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 264.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.35,
+                "avg_first_bloods_per_round": 0.28,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Jett": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.59,
+                "defense_kda": 2.23,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 266.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 154.27,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Yoru": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.8,
+                "defense_kda": 0.58,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 158.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.12,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.35
+            }
+        }
+    }
+}

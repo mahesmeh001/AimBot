@@ -1,0 +1,78 @@
+{
+    "handle": "DroperZ",
+    "date": "2024-05-30T12:50:18",
+    "status": "active",
+    "first_name": "Pedro ",
+    "last_name": "Serra",
+    "home_team_name": "Fuzos Na Via",
+    "home_team_acronym": "FUZO",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 97,
+        "attack_kda": 0.9,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 199.6,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.74,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.75,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 158.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.29,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.29
+            },
+            "Killjoy": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.09,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 230.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.28,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.16
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 1,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Breach": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.57,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.26,
+                "avg_assists_per_round": 0.68,
+                "avg_combat_score_per_round": 139.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.99,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

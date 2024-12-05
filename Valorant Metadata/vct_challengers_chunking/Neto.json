@@ -1,0 +1,78 @@
+{
+    "handle": "Neto",
+    "date": "2024-02-12T11:20:38",
+    "status": "active",
+    "first_name": "Federico",
+    "last_name": "Riveiro",
+    "home_team_name": "Zen Esports",
+    "home_team_acronym": "ZEN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 426,
+        "attack_kda": 1.32,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 209.09,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.45,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 73,
+                "attack_kda": 0.86,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 197.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.65,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 196,
+                "attack_kda": 1.51,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 211.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.78,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Chamber": {
+                "total_rounds_played": 133,
+                "attack_kda": 1.31,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 217.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.85,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Cypher": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.57,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 181.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.8,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

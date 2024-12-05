@@ -1,0 +1,90 @@
+{
+    "handle": "Rain ",
+    "date": "2023-01-19T14:27:26",
+    "status": "active",
+    "first_name": "Hong Seung",
+    "last_name": "Seo",
+    "home_team_name": "DH.CNJ",
+    "home_team_acronym": "CNJ",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 685,
+        "attack_kda": 1.13,
+        "defense_kda": 1.16,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 172.52,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 94.59,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.84,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 171.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.45,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Fade": {
+                "total_rounds_played": 222,
+                "attack_kda": 0.95,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 164.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.66,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Sova": {
+                "total_rounds_played": 208,
+                "attack_kda": 0.92,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 174.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.0,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Breach": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.07,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 128.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.19,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.26,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 203.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.89,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

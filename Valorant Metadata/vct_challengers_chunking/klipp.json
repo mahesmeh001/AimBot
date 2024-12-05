@@ -1,0 +1,104 @@
+{
+    "handle": "klipp",
+    "date": "2022-02-08T11:36:15",
+    "status": "active",
+    "first_name": "Grant",
+    "last_name": "Hadiputra",
+    "home_team_name": "DEWA UNITED ESPORTS",
+    "home_team_acronym": "DUE",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 780,
+        "attack_kda": 1.39,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 214.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.71,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 265,
+                "attack_kda": 1.25,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 226.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.25,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Cypher": {
+                "total_rounds_played": 333,
+                "attack_kda": 1.45,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 199.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.7,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.21,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 167.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.78,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Astra": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.35,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 244.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.62,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 74,
+                "attack_kda": 1.43,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 246.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.44,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.43,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 213.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.51,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

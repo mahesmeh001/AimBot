@@ -1,0 +1,52 @@
+{
+    "handle": "HellFull",
+    "date": "2024-02-12T10:34:53",
+    "status": "active",
+    "first_name": "Andres",
+    "last_name": "Vallejo",
+    "home_team_name": "FUSION",
+    "home_team_acronym": "FSN",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 281,
+        "attack_kda": 1.01,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 165.07,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.63,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 221,
+                "attack_kda": 1.01,
+                "defense_kda": 1.02,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 157.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.17,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Cypher": {
+                "total_rounds_played": 60,
+                "attack_kda": 1.0,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 193.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.71,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

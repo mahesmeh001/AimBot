@@ -1,0 +1,100 @@
+{
+    "handle": "Absol",
+    "date": "2024-01-25T09:27:34",
+    "status": "active",
+    "first_name": "Kazuki",
+    "last_name": "Fujinoki",
+    "home_team_name": "MURASH GAMING",
+    "home_team_acronym": "MRSH",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 876,
+        "attack_kda": 1.16,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 217.61,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.56,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 335,
+                "attack_kda": 1.11,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 183.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.05,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Phoenix": {
+                "total_rounds_played": 114,
+                "attack_kda": 1.52,
+                "defense_kda": 1.58,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 221.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.51,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Yoru": {
+                "total_rounds_played": 88,
+                "attack_kda": 0.79,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 174.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.87,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Raze": {
+                "total_rounds_played": 269,
+                "attack_kda": 1.13,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 264.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.48,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Neon": {
+                "total_rounds_played": 47,
+                "attack_kda": 1.12,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 238.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.81,
+                "avg_first_bloods_per_round": 0.28,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Reyna": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.78,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 275.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.08,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

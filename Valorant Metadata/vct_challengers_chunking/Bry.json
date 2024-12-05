@@ -1,0 +1,102 @@
+{
+    "handle": "Bry",
+    "date": "2024-02-11T14:57:40",
+    "status": "active",
+    "first_name": "Bryant Angelo",
+    "last_name": "Villa-Abrille",
+    "home_team_name": "Valhalla",
+    "home_team_acronym": "VAL",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 202,
+        "attack_kda": 1.46,
+        "defense_kda": 1.08,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 162.61,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.96,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.88,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 172.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.74,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Breach": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.17,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 123.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.32,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Gekko": {
+                "total_rounds_played": 39,
+                "attack_kda": 2.0,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 176.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.42,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Skye": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.56,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 178.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.77,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "KAY/O": {
+                "total_rounds_played": 21,
+                "attack_kda": 3.0,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.76,
+                "avg_combat_score_per_round": 119.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 57.43,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 55,
+                "attack_kda": 1.29,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 188.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.57,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

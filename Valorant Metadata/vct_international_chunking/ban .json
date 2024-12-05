@@ -1,0 +1,92 @@
+{
+    "handle": "ban ",
+    "date": "2024-01-31T11:01:20",
+    "status": "active",
+    "first_name": "SEUNGMIN",
+    "last_name": "OH",
+    "home_team_name": "T1",
+    "home_team_acronym": "T1",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1016,
+        "attack_kda": 1.22,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 180.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.53,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 262,
+                "attack_kda": 0.89,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 208.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.85,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 195,
+                "attack_kda": 1.42,
+                "defense_kda": 1.68,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 183.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.19,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Harbor": {
+                "total_rounds_played": 241,
+                "attack_kda": 1.26,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 176.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.1,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Omen": {
+                "total_rounds_played": 280,
+                "attack_kda": 1.5,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 164.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.04,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.65,
+                "defense_kda": 0.53,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 128.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.98,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

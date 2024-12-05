@@ -1,0 +1,104 @@
+{
+    "handle": "maxxyy",
+    "date": "2023-03-28T12:24:50",
+    "status": "active",
+    "first_name": "Maximilian",
+    "last_name": "Ling",
+    "home_team_name": "Louvre",
+    "home_team_acronym": "LVR",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 333,
+        "attack_kda": 1.46,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 170.81,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.57,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.48,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 169.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.05,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Cypher": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.22,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 158.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.1,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 55,
+                "attack_kda": 1.64,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 166.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.13,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Astra": {
+                "total_rounds_played": 115,
+                "attack_kda": 1.59,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 184.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.71,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.0,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 114.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 61.26,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.71,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 175.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.71,
+                "avg_first_bloods_per_round": 0.3,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "handle": "Genghsta",
+    "date": "2024-02-13T09:40:16",
+    "status": "active",
+    "first_name": "Amgalan",
+    "last_name": "Nemekhbayar",
+    "home_team_name": "Disguised",
+    "home_team_acronym": "DSG",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 543,
+        "attack_kda": 1.2,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 180.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.79,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 117,
+                "attack_kda": 1.19,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 202.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.45,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Harbor": {
+                "total_rounds_played": 47,
+                "attack_kda": 0.68,
+                "defense_kda": 2.46,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 156.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.16,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Brimstone": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.25,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 161.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.94,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 258,
+                "attack_kda": 1.05,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 168.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.12,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Fade": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.71,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 195.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.52,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 37,
+                "attack_kda": 2.19,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.86,
+                "avg_combat_score_per_round": 208.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.48,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

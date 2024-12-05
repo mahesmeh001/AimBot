@@ -1,0 +1,64 @@
+{
+    "handle": "Hemsyxx",
+    "date": "2024-02-23T06:52:15",
+    "status": "active",
+    "first_name": "Mikko Andrei",
+    "last_name": "Gumapac",
+    "home_team_name": "Carti Esports",
+    "home_team_acronym": "CE",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 122,
+        "attack_kda": 1.19,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 206.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.04,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.32,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 243.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.34,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Omen": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.0,
+                "defense_kda": 0.64,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 133.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.88,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Astra": {
+                "total_rounds_played": 2,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

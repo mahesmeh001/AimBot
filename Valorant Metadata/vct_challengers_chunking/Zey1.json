@@ -1,0 +1,54 @@
+{
+    "handle": "Zey1",
+    "date": "2023-03-20T07:32:49",
+    "status": "active",
+    "first_name": "Patrick ",
+    "last_name": "Gunhuran",
+    "home_team_name": "G0DL",
+    "home_team_acronym": "G0DL",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 227,
+        "attack_kda": 1.47,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 231.8,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.08,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.42,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 241.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.6,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 185,
+                "attack_kda": 1.48,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 229.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.6,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "handle": "Damit2k",
+    "date": "2023-03-27T08:32:35",
+    "status": "active",
+    "first_name": "Tr\u1ecdng Quy\u1ebft",
+    "last_name": "Nguy\u1ec5n",
+    "home_team_name": "Twokay",
+    "home_team_acronym": "2K",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 179,
+        "attack_kda": 1.41,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 222.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.6,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.12,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 161.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.9,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.25
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.25,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 235.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.49,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 121,
+                "attack_kda": 1.55,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 219.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.77,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Brimstone": {
+                "total_rounds_played": 14,
+                "attack_kda": 1.25,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 1.07,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 307.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.0,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

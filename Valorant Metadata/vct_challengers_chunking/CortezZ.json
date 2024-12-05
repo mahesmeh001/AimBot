@@ -1,0 +1,54 @@
+{
+    "handle": "CortezZ",
+    "date": "2024-01-24T12:40:39",
+    "status": "active",
+    "first_name": "Shubham",
+    "last_name": "Chhatre",
+    "home_team_name": "MLT ESPORTS",
+    "home_team_acronym": "MLT",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 123,
+        "attack_kda": 0.95,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.47,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 137.45,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 71.87,
+        "avg_first_bloods_per_round": 0.02,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 84,
+                "attack_kda": 0.97,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 148.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.88,
+                "avg_first_bloods_per_round": 0.01,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.9,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 114.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 50.29,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

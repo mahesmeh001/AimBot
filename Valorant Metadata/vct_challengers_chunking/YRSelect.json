@@ -1,0 +1,104 @@
+{
+    "handle": "YRSelect",
+    "date": "2022-08-03T05:50:47",
+    "status": "active",
+    "first_name": "ZIH TING",
+    "last_name": "HUANG",
+    "home_team_name": "Griffin E-Sports Club",
+    "home_team_acronym": "GFN",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 460,
+        "attack_kda": 1.56,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 223.12,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 123.57,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 124,
+                "attack_kda": 1.54,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 254.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.34,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Reyna": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.7,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 185.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.24,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 24,
+                "attack_kda": 2.38,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 236.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.12,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "KAY/O": {
+                "total_rounds_played": 88,
+                "attack_kda": 1.78,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 190.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.61,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 158,
+                "attack_kda": 1.62,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 227.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.62,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Cypher": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.12,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 198.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.97,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

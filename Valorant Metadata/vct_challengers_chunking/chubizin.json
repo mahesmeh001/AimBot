@@ -1,0 +1,92 @@
+{
+    "handle": "chubizin",
+    "date": "2024-05-14T08:35:08",
+    "status": "active",
+    "first_name": "Martin",
+    "last_name": "Ferres",
+    "home_team_name": "Zen Esports",
+    "home_team_acronym": "ZEN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 190,
+        "attack_kda": 1.16,
+        "defense_kda": 1.08,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 168.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.15,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.11,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 179.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.21,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Skye": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.12,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 154.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.6,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.22,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 147.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.51,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.2,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 268.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 145.23,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 64,
+                "attack_kda": 0.88,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 138.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.21,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

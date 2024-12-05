@@ -1,0 +1,90 @@
+{
+    "handle": "NeFi",
+    "date": "2024-06-09T06:59:45",
+    "status": "active",
+    "first_name": "Filip",
+    "last_name": "Pawlak",
+    "home_team_name": "EX0TIK GAMING",
+    "home_team_acronym": "EX0",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 273,
+        "attack_kda": 1.22,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 190.97,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.36,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 132,
+                "attack_kda": 1.02,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 196.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.0,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "KAY/O": {
+                "total_rounds_played": 16,
+                "attack_kda": 1.08,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 260.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 143.82,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Skye": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.47,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 178.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.1,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 15,
+                "attack_kda": 3.5,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 165.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.16,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Omen": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.57,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 173.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.27,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

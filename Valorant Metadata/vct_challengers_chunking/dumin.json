@@ -1,0 +1,52 @@
+{
+    "handle": "dumin",
+    "date": "2023-03-28T12:38:54",
+    "status": "active",
+    "first_name": "Du",
+    "last_name": "Min Yeo",
+    "home_team_name": "Louvre",
+    "home_team_acronym": "LVR",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 250,
+        "attack_kda": 0.73,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 194.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.24,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.27
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 32,
+                "attack_kda": 0.8,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 201.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.44,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Jett": {
+                "total_rounds_played": 218,
+                "attack_kda": 0.72,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 193.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.48,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.3
+            }
+        }
+    }
+}

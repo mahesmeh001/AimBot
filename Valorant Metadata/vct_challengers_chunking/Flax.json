@@ -1,0 +1,104 @@
+{
+    "handle": "Flax",
+    "date": "2024-01-25T09:43:55",
+    "status": "archived",
+    "first_name": "Harada",
+    "last_name": "Takumi",
+    "home_team_name": "REJECT",
+    "home_team_acronym": "RC",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 322,
+        "attack_kda": 1.26,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 196.28,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.46,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 121,
+                "attack_kda": 1.49,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 202.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.5,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.71,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 1.09,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 238.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.08,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.15,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 218.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.11,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Phoenix": {
+                "total_rounds_played": 98,
+                "attack_kda": 0.93,
+                "defense_kda": 0.97,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 170.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.11,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.73,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 193.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.16,
+                "avg_first_bloods_per_round": 0.39,
+                "avg_first_deaths_per_round": 0.28
+            },
+            "Harbor": {
+                "total_rounds_played": 2,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

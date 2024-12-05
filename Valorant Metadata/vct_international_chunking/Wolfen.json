@@ -1,0 +1,92 @@
+{
+    "handle": "Wolfen",
+    "date": "2024-02-06T04:26:25",
+    "status": "active",
+    "first_name": "Berkant",
+    "last_name": "Joshkun",
+    "home_team_name": "KOI",
+    "home_team_acronym": "KOI",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 525,
+        "attack_kda": 0.99,
+        "defense_kda": 1.21,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 191.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.29,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 157,
+                "attack_kda": 0.92,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 186.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.27,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Cypher": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.32,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 225.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.3,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 258,
+                "attack_kda": 0.94,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 191.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.72,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Raze": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.5,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 142.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.27,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.38,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 165.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.81,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

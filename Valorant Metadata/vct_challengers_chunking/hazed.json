@@ -1,0 +1,76 @@
+{
+    "handle": "hazed",
+    "date": "2024-05-14T20:24:05",
+    "status": "active",
+    "first_name": "James",
+    "last_name": "Cobb",
+    "home_team_name": "Dough Bros",
+    "home_team_acronym": "DB",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 106,
+        "attack_kda": 1.42,
+        "defense_kda": 1.55,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 196.25,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.45,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 15,
+                "attack_kda": 3.0,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 214.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.87,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Astra": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.0,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 193.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.74,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Brimstone": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.75,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 207.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.42,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Omen": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.62,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 180.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.0,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

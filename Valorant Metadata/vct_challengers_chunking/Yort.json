@@ -1,0 +1,92 @@
+{
+    "handle": "Yort",
+    "date": "2024-06-03T11:31:23",
+    "status": "active",
+    "first_name": "Alfred Troy",
+    "last_name": "Hiramia",
+    "home_team_name": "Rank El Cuties",
+    "home_team_acronym": "QT",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 219,
+        "attack_kda": 1.51,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 184.68,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.59,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 44,
+                "attack_kda": 2.55,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 188.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.76,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "KAY/O": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.6,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 173.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.97,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Gekko": {
+                "total_rounds_played": 28,
+                "attack_kda": 0.83,
+                "defense_kda": 2.1,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 206.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.36,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.4,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 187.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.26,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.2,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 180.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.58,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

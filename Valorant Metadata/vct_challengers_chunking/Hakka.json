@@ -1,0 +1,40 @@
+{
+    "handle": "Hakka",
+    "date": "2024-07-09T16:13:25",
+    "status": "active",
+    "first_name": "Raja Amirul Shah Bin Raja Badrin Shah",
+    "last_name": "Badrin Shah",
+    "home_team_name": "NEXGA",
+    "home_team_acronym": "NXGA",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 83,
+        "attack_kda": 1.09,
+        "defense_kda": 1.35,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 164.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 85.7,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.09,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 164.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.7,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "handle": "Lynn2",
+    "date": "2024-03-20T11:41:40",
+    "status": "active",
+    "first_name": "Alfaro",
+    "last_name": "Yasna",
+    "home_team_name": "FiRePOWER",
+    "home_team_acronym": "FIRE",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 888,
+        "attack_kda": 1.3,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 247.3,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 128.73,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 376,
+                "attack_kda": 1.24,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 257.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.08,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Jett": {
+                "total_rounds_played": 346,
+                "attack_kda": 1.2,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 232.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.52,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Neon": {
+                "total_rounds_played": 78,
+                "attack_kda": 2.04,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 269.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.89,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Yoru": {
+                "total_rounds_played": 67,
+                "attack_kda": 1.12,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 224.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.14,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Phoenix": {
+                "total_rounds_played": 21,
+                "attack_kda": 3.8,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 301.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 154.52,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "handle": "Cunha20",
+    "date": "2024-01-05T10:05:54",
+    "status": "active",
+    "first_name": "David",
+    "last_name": "Cunha",
+    "home_team_name": "SAW",
+    "home_team_acronym": "SAW",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 964,
+        "attack_kda": 2.07,
+        "defense_kda": 1.71,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.43,
+        "avg_combat_score_per_round": 194.13,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.25,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 82,
+                "attack_kda": 0.71,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 162.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.83,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 437,
+                "attack_kda": 2.24,
+                "defense_kda": 1.98,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 186.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.99,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 194,
+                "attack_kda": 2.85,
+                "defense_kda": 2.15,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 214.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.74,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Viper": {
+                "total_rounds_played": 225,
+                "attack_kda": 2.03,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 199.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.64,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.78,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 227.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.08,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.23
+            }
+        }
+    }
+}

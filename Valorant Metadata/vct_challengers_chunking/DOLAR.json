@@ -1,0 +1,40 @@
+{
+    "handle": "DOLAR",
+    "date": "2023-01-16T16:03:34",
+    "status": "active",
+    "first_name": "Karol",
+    "last_name": "Wo\u0142k",
+    "home_team_name": "HMBLE",
+    "home_team_acronym": "HMB",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 22,
+        "attack_kda": 1.33,
+        "defense_kda": 0.89,
+        "avg_kills_per_round": 0.45,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 128.27,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 72.41,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.33,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 128.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.41,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

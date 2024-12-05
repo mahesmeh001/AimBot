@@ -1,0 +1,78 @@
+{
+    "handle": "Nelo",
+    "date": "2023-04-15T08:25:23",
+    "status": "active",
+    "first_name": "Mathilde",
+    "last_name": "Beltoise",
+    "home_team_name": "Karmine Corp",
+    "home_team_acronym": "KC",
+    "home_league_name": "game_changers_emea",
+    "region": "EMEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 317,
+        "attack_kda": 1.49,
+        "defense_kda": 1.89,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.47,
+        "avg_combat_score_per_round": 234.59,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.84,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 92,
+                "attack_kda": 2.07,
+                "defense_kda": 3.07,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.72,
+                "avg_combat_score_per_round": 270.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.66,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "KAY/O": {
+                "total_rounds_played": 154,
+                "attack_kda": 1.28,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 214.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.76,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Fade": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.33,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 178.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.76,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.5,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 263.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.66,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

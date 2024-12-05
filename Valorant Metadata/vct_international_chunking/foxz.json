@@ -1,0 +1,102 @@
+{
+    "handle": "foxz",
+    "date": "2024-01-22T10:46:42",
+    "status": "active",
+    "first_name": "Itthirit",
+    "last_name": "Ngamsa-ard",
+    "home_team_name": "Talon Esports",
+    "home_team_acronym": "TLN",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 584,
+        "attack_kda": 1.36,
+        "defense_kda": 1.51,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 196.69,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.68,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 286,
+                "attack_kda": 1.47,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 193.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.9,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 142,
+                "attack_kda": 1.44,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 200.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.04,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "KAY/O": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.43,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 215.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.02,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Gekko": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.33,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 158.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.49,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Fade": {
+                "total_rounds_played": 58,
+                "attack_kda": 1.38,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 190.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.83,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.5,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 202.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.44,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

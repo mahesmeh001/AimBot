@@ -1,0 +1,104 @@
+{
+    "handle": "Potter3",
+    "date": "2024-01-22T10:21:26",
+    "status": "active",
+    "first_name": "Sutthichai",
+    "last_name": "Promsrikaew",
+    "home_team_name": "Xerxia",
+    "home_team_acronym": "XIA",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1676,
+        "attack_kda": 1.19,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 240.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.07,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 824,
+                "attack_kda": 1.19,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 240.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.54,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 744,
+                "attack_kda": 1.24,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 243.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.62,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Neon": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.32,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 240.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.07,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.23
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.5,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 228.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.01,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Deadlock": {
+                "total_rounds_played": 32,
+                "attack_kda": 0.62,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 199.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.15,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.82,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 219.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.23,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

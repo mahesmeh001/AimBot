@@ -1,0 +1,40 @@
+{
+    "handle": "Poro",
+    "date": "2023-09-08T05:00:56",
+    "status": "active",
+    "first_name": "Hyeonju",
+    "last_name": "Kim",
+    "home_team_name": "Obelisk",
+    "home_team_acronym": "OB",
+    "home_league_name": "game_changers_kr",
+    "region": "KR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 72,
+        "attack_kda": 0.88,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.12,
+        "avg_combat_score_per_round": 239.04,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 131.1,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 72,
+                "attack_kda": 0.88,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 239.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.1,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

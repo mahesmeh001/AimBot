@@ -1,0 +1,90 @@
+{
+    "handle": "Emi ",
+    "date": "2024-08-22T12:20:53",
+    "status": "active",
+    "first_name": "Emily",
+    "last_name": "Lauw",
+    "home_team_name": "swaglord9000",
+    "home_team_acronym": "SL9",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 242,
+        "attack_kda": 1.46,
+        "defense_kda": 2.06,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 246.83,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 129.28,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.65,
+                "defense_kda": 1.87,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 209.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.56,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "KAY/O": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.0,
+                "defense_kda": 2.6,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.65,
+                "avg_combat_score_per_round": 138.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.32,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Fade": {
+                "total_rounds_played": 22,
+                "attack_kda": 3.25,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 176.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.96,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.23
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 98,
+                "attack_kda": 1.34,
+                "defense_kda": 1.97,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 266.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.0,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Phoenix": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.47,
+                "defense_kda": 2.65,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 312.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 166.09,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

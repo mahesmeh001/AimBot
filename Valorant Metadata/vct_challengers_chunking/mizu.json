@@ -1,0 +1,92 @@
+{
+    "handle": "mizu",
+    "date": "2024-03-18T07:19:14",
+    "status": "active",
+    "first_name": "Gabriel",
+    "last_name": "Gonzalez",
+    "home_team_name": "9z",
+    "home_team_acronym": "9Z",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1664,
+        "attack_kda": 1.35,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 204.89,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.07,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 784,
+                "attack_kda": 1.48,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 220.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.56,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 415,
+                "attack_kda": 1.06,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 176.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.26,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Chamber": {
+                "total_rounds_played": 305,
+                "attack_kda": 1.28,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 210.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.32,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 103,
+                "attack_kda": 0.97,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 183.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.01,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 57,
+                "attack_kda": 2.7,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.67,
+                "avg_combat_score_per_round": 201.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.14,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

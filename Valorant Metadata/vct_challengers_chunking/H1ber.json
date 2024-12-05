@@ -1,0 +1,102 @@
+{
+    "handle": "H1ber",
+    "date": "2024-06-21T15:11:11",
+    "status": "archived",
+    "first_name": "Joona",
+    "last_name": "Parviainen",
+    "home_team_name": "NOVO Esports",
+    "home_team_acronym": "NOVO",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 376,
+        "attack_kda": 1.72,
+        "defense_kda": 1.64,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 207.77,
+        "avg_revives_per_round": 0.05,
+        "avg_damage_dealt_per_round": 105.31,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 165,
+                "attack_kda": 2.02,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 206.05,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 101.04,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 37,
+                "attack_kda": 2.5,
+                "defense_kda": 1.94,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.65,
+                "avg_combat_score_per_round": 274.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.0,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.8,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 196.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.94,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.2,
+                "defense_kda": 2.64,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 210.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.7,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Fade": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.5,
+                "defense_kda": 2.57,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 219.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.8,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Gekko": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.33,
+                "defense_kda": 2.67,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 136.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.6,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

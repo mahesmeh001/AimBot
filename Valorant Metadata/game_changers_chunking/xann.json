@@ -1,0 +1,76 @@
+{
+    "handle": "xann",
+    "date": "2024-07-24T20:01:22",
+    "status": "active",
+    "first_name": "Allison",
+    "last_name": "Evergreen",
+    "home_team_name": "KS Hunters",
+    "home_team_acronym": "KS",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 564,
+        "attack_kda": 1.14,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 243.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 128.43,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 173,
+                "attack_kda": 0.92,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 213.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.44,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Jett": {
+                "total_rounds_played": 202,
+                "attack_kda": 1.17,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 252.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.97,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Reyna": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.86,
+                "defense_kda": 1.04,
+                "avg_kills_per_round": 0.98,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 279.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 162.99,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Yoru": {
+                "total_rounds_played": 147,
+                "attack_kda": 1.18,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 255.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.38,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

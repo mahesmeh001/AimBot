@@ -1,0 +1,104 @@
+{
+    "handle": "yatsuka",
+    "date": "2024-05-16T09:08:47",
+    "status": "active",
+    "first_name": "Kazuya",
+    "last_name": "Ikeda",
+    "home_team_name": "RIDDLE ORDER",
+    "home_team_acronym": "RID",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 448,
+        "attack_kda": 1.53,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 193.07,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.8,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 180,
+                "attack_kda": 1.93,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 202.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.43,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.86,
+                "defense_kda": 2.46,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 191.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.51,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Brimstone": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.0,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 145.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.06,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 136,
+                "attack_kda": 1.4,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 191.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.48,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Cypher": {
+                "total_rounds_played": 71,
+                "attack_kda": 1.23,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 188.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.67,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "ISO": {
+                "total_rounds_played": 1,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

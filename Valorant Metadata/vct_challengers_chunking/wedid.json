@@ -1,0 +1,102 @@
+{
+    "handle": "wedid",
+    "date": "2024-06-21T10:39:28",
+    "status": "active",
+    "first_name": "Matthew",
+    "last_name": "Suchan",
+    "home_team_name": "Turtle Troops",
+    "home_team_acronym": "TTR",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1237,
+        "attack_kda": 1.48,
+        "defense_kda": 1.62,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 206.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.24,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 199,
+                "attack_kda": 2.33,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 204.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.95,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Omen": {
+                "total_rounds_played": 697,
+                "attack_kda": 1.37,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 209.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.88,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 257,
+                "attack_kda": 1.53,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 188.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.57,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Harbor": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.4,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 248.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.02,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.83,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 222.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.44,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 26,
+                "attack_kda": 0.86,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 258.96,
+                "avg_revives_per_round": 0.15,
+                "avg_damage_dealt_per_round": 129.22,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "handle": "Divine",
+    "date": "2024-02-13T18:41:56",
+    "status": "active",
+    "first_name": "Chun Ting",
+    "last_name": "Yeoh",
+    "home_team_name": "Enigma Gaming",
+    "home_team_acronym": "ENGM",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1255,
+        "attack_kda": 1.59,
+        "defense_kda": 1.7,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 194.41,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 96.47,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 272,
+                "attack_kda": 1.51,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 180.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.98,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "KAY/O": {
+                "total_rounds_played": 371,
+                "attack_kda": 1.81,
+                "defense_kda": 2.14,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.6,
+                "avg_combat_score_per_round": 205.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.39,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Breach": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.48,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 215.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.94,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.31,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 187.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.92,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Omen": {
+                "total_rounds_played": 202,
+                "attack_kda": 1.63,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 189.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.94,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 85,
+                "attack_kda": 0.89,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 160.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.74,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Astra": {
+                "total_rounds_played": 35,
+                "attack_kda": 1.6,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 214.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.35,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 131,
+                "attack_kda": 1.59,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 203.4,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 103.35,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 16,
+                "attack_kda": 2.43,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 1.12,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 266.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.64,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

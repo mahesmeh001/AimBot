@@ -1,0 +1,66 @@
+{
+    "handle": "blood",
+    "date": "2024-05-12T15:31:44",
+    "status": "active",
+    "first_name": "Hafizh",
+    "last_name": "Havillah Adelgar",
+    "home_team_name": "Le Crapaud",
+    "home_team_acronym": "LCR",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 135,
+        "attack_kda": 0.69,
+        "defense_kda": 1.13,
+        "avg_kills_per_round": 0.52,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 144.92,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.49,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.75,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 138.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.5,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 78,
+                "attack_kda": 0.57,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 129.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.77,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Cypher": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.14,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 215.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.27,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

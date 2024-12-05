@@ -1,0 +1,88 @@
+{
+    "handle": "nAvarro",
+    "date": "2024-02-12T11:11:28",
+    "status": "active",
+    "first_name": "Navarro",
+    "last_name": "Oswaldo",
+    "home_team_name": "Six Karma",
+    "home_team_acronym": "6K",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 699,
+        "attack_kda": 1.17,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 159.82,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 90.3,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 368,
+                "attack_kda": 0.95,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 168.03,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.07,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Fade": {
+                "total_rounds_played": 212,
+                "attack_kda": 1.35,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 145.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.58,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Gekko": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.3,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 174.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.29,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "KAY/O": {
+                "total_rounds_played": 48,
+                "attack_kda": 4.0,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.9,
+                "avg_combat_score_per_round": 221.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.02,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Skye": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.44,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.28,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 79.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 43.04,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

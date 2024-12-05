@@ -1,0 +1,78 @@
+{
+    "handle": "trent",
+    "date": "2024-04-10T07:53:36",
+    "status": "active",
+    "first_name": "Trent",
+    "last_name": "Cairns",
+    "home_team_name": "G2 Esports",
+    "home_team_acronym": "G2",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1774,
+        "attack_kda": 1.4,
+        "defense_kda": 1.51,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 193.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.35,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 321,
+                "attack_kda": 1.53,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 201.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.26,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 700,
+                "attack_kda": 1.39,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 202.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.79,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Fade": {
+                "total_rounds_played": 443,
+                "attack_kda": 1.31,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 177.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.4,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Gekko": {
+                "total_rounds_played": 310,
+                "attack_kda": 1.47,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 189.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.26,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

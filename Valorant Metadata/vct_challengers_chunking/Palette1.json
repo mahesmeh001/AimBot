@@ -1,0 +1,104 @@
+{
+    "handle": "Palette1",
+    "date": "2024-02-07T07:33:29",
+    "status": "active",
+    "first_name": "Qui Thanh",
+    "last_name": "Ha",
+    "home_team_name": "Crocodile TEARS",
+    "home_team_acronym": "TEAR",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 325,
+        "attack_kda": 1.38,
+        "defense_kda": 1.2,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 163.25,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 86.37,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 52,
+                "attack_kda": 2.11,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 170.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.57,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Omen": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.5,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 157.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.52,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Viper": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.85,
+                "defense_kda": 1.58,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 234.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.11,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.12,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 141.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.29,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.62,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 133.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.46,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 60,
+                "attack_kda": 0.71,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 140.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.65,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

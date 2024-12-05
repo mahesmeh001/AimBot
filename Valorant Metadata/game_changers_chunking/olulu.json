@@ -1,0 +1,64 @@
+{
+    "handle": "olulu",
+    "date": "2024-07-03T07:56:16",
+    "status": "active",
+    "first_name": "Lim",
+    "last_name": "Xin Ying",
+    "home_team_name": "THE HERO KDA",
+    "home_team_acronym": "THE",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 374,
+        "attack_kda": 1.46,
+        "defense_kda": 1.86,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.54,
+        "avg_combat_score_per_round": 209.13,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.68,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 96,
+                "attack_kda": 1.73,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.64,
+                "avg_combat_score_per_round": 213.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.75,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "KAY/O": {
+                "total_rounds_played": 88,
+                "attack_kda": 1.45,
+                "defense_kda": 2.6,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.67,
+                "avg_combat_score_per_round": 224.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.79,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 190,
+                "attack_kda": 1.33,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 199.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.67,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

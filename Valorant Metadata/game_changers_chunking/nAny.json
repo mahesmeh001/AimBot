@@ -1,0 +1,54 @@
+{
+    "handle": "nAny",
+    "date": "2023-03-09T15:17:23",
+    "status": "active",
+    "first_name": "Anny",
+    "last_name": "Torres",
+    "home_team_name": "HUMMER Esports",
+    "home_team_acronym": "HMMR",
+    "home_league_name": "game_changers_series_brazil",
+    "region": "BR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 120,
+        "attack_kda": 1.66,
+        "defense_kda": 1.86,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 237.97,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 131.74,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.66,
+                "defense_kda": 1.93,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 234.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.13,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.67,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 252.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 172.37,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

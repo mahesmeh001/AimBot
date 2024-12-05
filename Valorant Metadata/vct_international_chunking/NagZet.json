@@ -1,0 +1,104 @@
+{
+    "handle": "NagZet",
+    "date": "2024-01-09T21:53:14",
+    "status": "active",
+    "first_name": "Juan Pablo",
+    "last_name": "L\u00f3pez Miranda",
+    "home_team_name": "KR\u00dc Esports",
+    "home_team_acronym": "KRU",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 888,
+        "attack_kda": 1.16,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 184.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.7,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 228,
+                "attack_kda": 1.17,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 173.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.42,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.88,
+                "defense_kda": 2.43,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 191.65,
+                "avg_revives_per_round": 0.13,
+                "avg_damage_dealt_per_round": 97.55,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Killjoy": {
+                "total_rounds_played": 314,
+                "attack_kda": 1.33,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 183.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.86,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Chamber": {
+                "total_rounds_played": 267,
+                "attack_kda": 0.99,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 195.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.46,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Cypher": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.28,
+                "defense_kda": 0.77,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 190.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.91,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.2,
+                "defense_kda": 0.4,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 120.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.0,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

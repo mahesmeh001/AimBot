@@ -1,0 +1,104 @@
+{
+    "handle": "KTSS",
+    "date": "2023-03-27T10:23:47",
+    "status": "active",
+    "first_name": "kurfriend ka fung",
+    "last_name": "ko",
+    "home_team_name": "UTT Esports",
+    "home_team_acronym": "UTT",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 522,
+        "attack_kda": 1.27,
+        "defense_kda": 1.57,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 184.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.26,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.6,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 150.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.33,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 211,
+                "attack_kda": 1.21,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 181.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.88,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Breach": {
+                "total_rounds_played": 193,
+                "attack_kda": 1.45,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 188.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.44,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Skye": {
+                "total_rounds_played": 65,
+                "attack_kda": 1.6,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 190.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.59,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Sova": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.64,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.21,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 82.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 48.51,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.29
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.57,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 253.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.7,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

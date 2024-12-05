@@ -1,0 +1,40 @@
+{
+    "handle": "Haemul",
+    "date": "2023-03-28T08:44:00",
+    "status": "active",
+    "first_name": "kyeonghoon",
+    "last_name": "Jeon",
+    "home_team_name": "Team OGS",
+    "home_team_acronym": "TOGS",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 21,
+        "attack_kda": 1.5,
+        "defense_kda": 0.88,
+        "avg_kills_per_round": 0.29,
+        "avg_assists_per_round": 0.62,
+        "avg_combat_score_per_round": 130.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.93,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.5,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 130.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.93,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

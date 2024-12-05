@@ -1,0 +1,102 @@
+{
+    "handle": "Fuzzie",
+    "date": "2024-05-27T12:57:09",
+    "status": "active",
+    "first_name": "Quang Hien",
+    "last_name": "Ngo",
+    "home_team_name": "Crocodile TEARS",
+    "home_team_acronym": "TEAR",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 320,
+        "attack_kda": 1.22,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 176.15,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 94.81,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.1,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 142.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.79,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Gekko": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.16,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 205.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.28,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.03,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 159.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.37,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Sova": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.17,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 185.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.88,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.53,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 183.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.31,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 18,
+                "attack_kda": 3.33,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 178.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.46,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

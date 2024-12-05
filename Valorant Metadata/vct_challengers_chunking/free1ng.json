@@ -1,0 +1,80 @@
+{
+    "handle": "free1ng",
+    "date": "2024-02-15T13:44:36",
+    "status": "active",
+    "first_name": "Hajun",
+    "last_name": "Noh",
+    "home_team_name": "Dplus KIA",
+    "home_team_acronym": "DK",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1031,
+        "attack_kda": 1.38,
+        "defense_kda": 1.68,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 225.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 118.84,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 191,
+                "attack_kda": 1.3,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 216.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.08,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 468,
+                "attack_kda": 1.47,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 225.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.5,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Killjoy": {
+                "total_rounds_played": 367,
+                "attack_kda": 1.36,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 231.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.99,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 5,
+                "attack_kda": 0.25,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 29.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 29.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.2
+            }
+        }
+    }
+}

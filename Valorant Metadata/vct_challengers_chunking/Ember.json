@@ -1,0 +1,40 @@
+{
+    "handle": "Ember",
+    "date": "2023-03-20T07:14:06",
+    "status": "active",
+    "first_name": "Garvit",
+    "last_name": "Nehra",
+    "home_team_name": "Gods Reign",
+    "home_team_acronym": "GDR",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 36,
+        "attack_kda": 1.0,
+        "defense_kda": 1.1,
+        "avg_kills_per_round": 0.44,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 111.81,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 58.16,
+        "avg_first_bloods_per_round": 0.0,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.0,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 111.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 58.16,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

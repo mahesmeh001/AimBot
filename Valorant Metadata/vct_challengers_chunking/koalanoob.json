@@ -1,0 +1,104 @@
+{
+    "handle": "koalanoob",
+    "date": "2023-06-06T01:55:19",
+    "status": "active",
+    "first_name": "GianFranco",
+    "last_name": "Potestio",
+    "home_team_name": "M80",
+    "home_team_acronym": "M80",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1671,
+        "attack_kda": 1.44,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 237.37,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 119.31,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 917,
+                "attack_kda": 1.31,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 243.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.24,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 143,
+                "attack_kda": 1.67,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 240.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.4,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Yoru": {
+                "total_rounds_played": 157,
+                "attack_kda": 1.33,
+                "defense_kda": 2.61,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 281.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.37,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 134,
+                "attack_kda": 1.61,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 199.01,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 99.32,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Cypher": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.4,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.61,
+                "avg_combat_score_per_round": 150.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.96,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 302,
+                "attack_kda": 1.81,
+                "defense_kda": 2.04,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 217.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.26,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

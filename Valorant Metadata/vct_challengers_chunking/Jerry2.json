@@ -1,0 +1,40 @@
+{
+    "handle": "Jerry2",
+    "date": "2024-05-21T10:22:47",
+    "status": "active",
+    "first_name": "Tae Hee",
+    "last_name": "Min",
+    "home_team_name": "Sin Prisa Gaming",
+    "home_team_acronym": "SPGG",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 34,
+        "attack_kda": 0.54,
+        "defense_kda": 0.83,
+        "avg_kills_per_round": 0.32,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 108.76,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 70.76,
+        "avg_first_bloods_per_round": 0.0,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.54,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.32,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 108.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.76,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

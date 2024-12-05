@@ -1,0 +1,92 @@
+{
+    "handle": "Virtyy",
+    "date": "2024-05-14T08:33:57",
+    "status": "active",
+    "first_name": "Leandro",
+    "last_name": "Moreno",
+    "home_team_name": "FUSION",
+    "home_team_acronym": "FSN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1667,
+        "attack_kda": 1.26,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 254.56,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 132.24,
+        "avg_first_bloods_per_round": 0.23,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 857,
+                "attack_kda": 1.34,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 268.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.72,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Neon": {
+                "total_rounds_played": 249,
+                "attack_kda": 1.21,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 243.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.95,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Jett": {
+                "total_rounds_played": 417,
+                "attack_kda": 1.07,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 240.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.95,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.5,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 280.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.81,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 122,
+                "attack_kda": 1.56,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 221.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.11,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

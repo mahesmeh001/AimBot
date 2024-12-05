@@ -1,0 +1,90 @@
+{
+    "handle": "hiroronn",
+    "date": "2024-04-10T09:09:43",
+    "status": "active",
+    "first_name": "Hiroki",
+    "last_name": "Yanai",
+    "home_team_name": "ZETA DIVISION",
+    "home_team_acronym": "ZET",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1372,
+        "attack_kda": 1.38,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 209.99,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.42,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 179,
+                "attack_kda": 1.67,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 211.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.71,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 1076,
+                "attack_kda": 1.36,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 212.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.71,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sage": {
+                "total_rounds_played": 2,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 79,
+                "attack_kda": 0.97,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 166.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.83,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.69,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 221.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.78,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

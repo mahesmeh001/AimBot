@@ -1,0 +1,90 @@
+{
+    "handle": "MiniBoo",
+    "date": "2024-04-10T08:29:38",
+    "status": "active",
+    "first_name": "Dominykas",
+    "last_name": "Luka\u0161evi\u010dius",
+    "home_team_name": "Team Heretics",
+    "home_team_acronym": "TH",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1880,
+        "attack_kda": 1.23,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 219.47,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.88,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 759,
+                "attack_kda": 1.23,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 225.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.1,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Raze": {
+                "total_rounds_played": 634,
+                "attack_kda": 1.28,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 220.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.57,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Jett": {
+                "total_rounds_played": 184,
+                "attack_kda": 0.78,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 169.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.36,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Yoru": {
+                "total_rounds_played": 217,
+                "attack_kda": 1.41,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 226.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.85,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.44,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 246.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.7,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

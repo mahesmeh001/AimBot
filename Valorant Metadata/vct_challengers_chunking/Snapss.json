@@ -1,0 +1,54 @@
+{
+    "handle": "Snapss",
+    "date": "2024-05-14T08:32:17",
+    "status": "active",
+    "first_name": "Rafael",
+    "last_name": "Herrera",
+    "home_team_name": "Six Karma",
+    "home_team_acronym": "6K",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 36,
+        "attack_kda": 1.17,
+        "defense_kda": 0.67,
+        "avg_kills_per_round": 0.42,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 147.67,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 90.34,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.67,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 165.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.46,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.33,
+                "defense_kda": 0.57,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 135.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.68,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

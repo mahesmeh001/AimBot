@@ -1,0 +1,78 @@
+{
+    "handle": "Eeyore",
+    "date": "2024-05-12T15:31:47",
+    "status": "active",
+    "first_name": "Kevin",
+    "last_name": "Gunawan",
+    "home_team_name": "Le Crapaud",
+    "home_team_acronym": "LCR",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 743,
+        "attack_kda": 1.33,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 210.32,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 115.15,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 545,
+                "attack_kda": 1.34,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 224.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.82,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Cypher": {
+                "total_rounds_played": 123,
+                "attack_kda": 1.29,
+                "defense_kda": 0.98,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 183.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.88,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Sage": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.53,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 188.47,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 106.96,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.88,
+                "defense_kda": 0.45,
+                "avg_kills_per_round": 0.17,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 75.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 54.45,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

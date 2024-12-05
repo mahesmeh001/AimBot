@@ -1,0 +1,52 @@
+{
+    "handle": "Yohan",
+    "date": "2024-07-31T17:54:47",
+    "status": "active",
+    "first_name": "Yohan",
+    "last_name": "Bae",
+    "home_team_name": "RYU Gaming",
+    "home_team_acronym": "RYU",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 569,
+        "attack_kda": 1.52,
+        "defense_kda": 1.49,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 193.9,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.85,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 538,
+                "attack_kda": 1.56,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 192.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.75,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 31,
+                "attack_kda": 0.93,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 219.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.89,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

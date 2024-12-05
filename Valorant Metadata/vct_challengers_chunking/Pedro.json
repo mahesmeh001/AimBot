@@ -1,0 +1,52 @@
+{
+    "handle": "Pedro",
+    "date": "2023-04-14T15:54:09",
+    "status": "active",
+    "first_name": "Pedro  ",
+    "last_name": "Sousa",
+    "home_team_name": "Vikings Fourteen",
+    "home_team_acronym": "14VK",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 190,
+        "attack_kda": 1.09,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 167.22,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.49,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 108,
+                "attack_kda": 0.87,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 168.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.13,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Skye": {
+                "total_rounds_played": 82,
+                "attack_kda": 1.41,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 166.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.75,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

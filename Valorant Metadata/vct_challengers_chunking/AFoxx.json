@@ -1,0 +1,104 @@
+{
+    "handle": "AFoxx",
+    "date": "2024-02-14T10:50:31",
+    "status": "active",
+    "first_name": "Fabio",
+    "last_name": "veigas",
+    "home_team_name": "GMT Esports",
+    "home_team_acronym": "GMT",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 831,
+        "attack_kda": 1.59,
+        "defense_kda": 1.47,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 204.55,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.55,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 321,
+                "attack_kda": 1.33,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 180.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.27,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Killjoy": {
+                "total_rounds_played": 428,
+                "attack_kda": 1.78,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 216.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.95,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Chamber": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.2,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 237.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.65,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Sage": {
+                "total_rounds_played": 21,
+                "attack_kda": 2.0,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 211.29,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 109.0,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.25,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 171.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.45,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 21,
+                "attack_kda": 2.25,
+                "defense_kda": 2.4,
+                "avg_kills_per_round": 1.19,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 336.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 176.61,
+                "avg_first_bloods_per_round": 0.29,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

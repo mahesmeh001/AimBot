@@ -1,0 +1,102 @@
+{
+    "handle": "vibhor",
+    "date": "2024-04-01T08:48:58",
+    "status": "active",
+    "first_name": "Vibhor",
+    "last_name": "Shivkumar Vaid",
+    "home_team_name": "MEDAL ESPORTS",
+    "home_team_acronym": "MDL",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1121,
+        "attack_kda": 1.25,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 188.49,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.75,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.24,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 168.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.67,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Astra": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.0,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 153.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.21,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 149,
+                "attack_kda": 1.58,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 193.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.51,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Viper": {
+                "total_rounds_played": 225,
+                "attack_kda": 1.31,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 201.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.09,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 590,
+                "attack_kda": 1.21,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 186.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.46,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Cypher": {
+                "total_rounds_played": 73,
+                "attack_kda": 0.86,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 180.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.56,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

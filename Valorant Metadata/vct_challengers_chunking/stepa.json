@@ -1,0 +1,76 @@
+{
+    "handle": "stepa",
+    "date": "2024-01-05T10:52:54",
+    "status": "active",
+    "first_name": "Sim\u00e3o",
+    "last_name": "Stepanov",
+    "home_team_name": "Fuzos Na Via",
+    "home_team_acronym": "FUZO",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 357,
+        "attack_kda": 1.28,
+        "defense_kda": 1.09,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 229.95,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 121.31,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 106,
+                "attack_kda": 1.24,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 206.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.67,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Raze": {
+                "total_rounds_played": 210,
+                "attack_kda": 1.43,
+                "defense_kda": 0.99,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 232.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.44,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Neon": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.9,
+                "defense_kda": 4.2,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 287.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 143.66,
+                "avg_first_bloods_per_round": 0.35,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Reyna": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.5,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 268.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.67,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

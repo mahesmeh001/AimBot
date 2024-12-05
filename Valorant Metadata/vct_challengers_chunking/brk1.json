@@ -1,0 +1,78 @@
+{
+    "handle": "brk1",
+    "date": "2024-02-13T19:32:13",
+    "status": "active",
+    "first_name": "Jo\u00e3o Victor",
+    "last_name": "Andrade da Silva",
+    "home_team_name": "TBK",
+    "home_team_acronym": "TBK",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1067,
+        "attack_kda": 1.79,
+        "defense_kda": 1.62,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 208.31,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.64,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 612,
+                "attack_kda": 1.97,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 225.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.5,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 165,
+                "attack_kda": 2.15,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 205.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.12,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 164,
+                "attack_kda": 1.24,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 183.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.78,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Cypher": {
+                "total_rounds_played": 126,
+                "attack_kda": 1.09,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 159.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.39,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

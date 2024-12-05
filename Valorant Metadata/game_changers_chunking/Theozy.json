@@ -1,0 +1,76 @@
+{
+    "handle": "Theozy",
+    "date": "2024-07-16T02:05:26",
+    "status": "active",
+    "first_name": "Johnny",
+    "last_name": "Tars",
+    "home_team_name": "Team Brave Soldiers",
+    "home_team_acronym": "TBS",
+    "home_league_name": "game_changers_series_brazil",
+    "region": "BR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 120,
+        "attack_kda": 1.38,
+        "defense_kda": 2.05,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 245.66,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.5,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.6,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 1.0,
+                "avg_combat_score_per_round": 207.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.92,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Skye": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.94,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 234.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.58,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Fade": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.0,
+                "defense_kda": 2.69,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 246.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.33,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Gekko": {
+                "total_rounds_played": 26,
+                "attack_kda": 0.8,
+                "defense_kda": 3.43,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 286.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.52,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.19
+            }
+        }
+    }
+}

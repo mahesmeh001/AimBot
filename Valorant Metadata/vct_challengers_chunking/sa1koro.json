@@ -1,0 +1,104 @@
+{
+    "handle": "sa1koro",
+    "date": "2024-01-22T14:22:20",
+    "status": "active",
+    "first_name": "Zih-Ji",
+    "last_name": "Liao",
+    "home_team_name": "S2 Esports",
+    "home_team_acronym": "S2",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 363,
+        "attack_kda": 1.42,
+        "defense_kda": 1.35,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 176.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.88,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 108,
+                "attack_kda": 1.8,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 173.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.73,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.4,
+                "defense_kda": 6.0,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 124.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 66.82,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.0,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 160.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.21,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Cypher": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.73,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 190.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.27,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 44,
+                "attack_kda": 2.31,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 226.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.7,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.94,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 166.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.09,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

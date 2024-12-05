@@ -1,0 +1,104 @@
+{
+    "handle": "N0NGLAZ",
+    "date": "2024-05-21T10:21:42",
+    "status": "active",
+    "first_name": "Kittikawin ",
+    "last_name": "Jirawatkakan",
+    "home_team_name": "Team NKT",
+    "home_team_acronym": "NKT",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 332,
+        "attack_kda": 1.54,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 191.12,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.55,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.65,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 207.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.35,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 47,
+                "attack_kda": 1.78,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 177.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.02,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Astra": {
+                "total_rounds_played": 40,
+                "attack_kda": 1.92,
+                "defense_kda": 2.56,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 216.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.09,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.3,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 178.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.21,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 33,
+                "attack_kda": 2.75,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 198.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.28,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.89,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 169.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.23,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

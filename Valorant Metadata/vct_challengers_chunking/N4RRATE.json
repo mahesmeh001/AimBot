@@ -1,0 +1,64 @@
+{
+    "handle": "N4RRATE",
+    "date": "2024-01-24T15:12:47",
+    "status": "active",
+    "first_name": "Marshall ",
+    "last_name": "Massey",
+    "home_team_name": "MAD Lions",
+    "home_team_acronym": "MAD",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 421,
+        "attack_kda": 1.31,
+        "defense_kda": 1.61,
+        "avg_kills_per_round": 0.91,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 263.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 136.45,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 206,
+                "attack_kda": 1.17,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 264.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.22,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Neon": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.51,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 264.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.55,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Raze": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.38,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 259.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.7,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

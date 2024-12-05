@@ -1,0 +1,90 @@
+{
+    "handle": "Yuran",
+    "date": "2024-04-10T09:09:43",
+    "status": "active",
+    "first_name": "Yushin ",
+    "last_name": "Hato",
+    "home_team_name": "ZETA DIVISION",
+    "home_team_acronym": "ZETA",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 785,
+        "attack_kda": 1.4,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 181.05,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.24,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 361,
+                "attack_kda": 1.5,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 194.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.64,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.41,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 143.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.69,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Sova": {
+                "total_rounds_played": 132,
+                "attack_kda": 1.37,
+                "defense_kda": 0.98,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 182.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.96,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "KAY/O": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.62,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.65,
+                "avg_combat_score_per_round": 178.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.82,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Gekko": {
+                "total_rounds_played": 70,
+                "attack_kda": 0.81,
+                "defense_kda": 1.87,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 180.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.84,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

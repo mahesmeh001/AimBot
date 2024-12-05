@@ -1,0 +1,92 @@
+{
+    "handle": "Tacolilla",
+    "date": "2024-01-09T22:02:28",
+    "status": "active",
+    "first_name": "Vicente",
+    "last_name": "Compagnon",
+    "home_team_name": "Leviat\u00e1n Esports",
+    "home_team_acronym": "LEV",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1099,
+        "attack_kda": 1.24,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 194.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.2,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 349,
+                "attack_kda": 1.12,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 199.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.4,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Sage": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.83,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 147.79,
+                "avg_revives_per_round": 0.11,
+                "avg_damage_dealt_per_round": 80.73,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.32
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 619,
+                "attack_kda": 1.26,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 194.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.07,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Raze": {
+                "total_rounds_played": 88,
+                "attack_kda": 1.59,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 192.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.08,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.62,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 169.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.16,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

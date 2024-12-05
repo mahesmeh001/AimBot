@@ -1,0 +1,76 @@
+{
+    "handle": "Fung3",
+    "date": "2022-08-03T05:50:41",
+    "status": "active",
+    "first_name": "ZIH FONG ",
+    "last_name": "HUANG",
+    "home_team_name": "Griffin E-Sports Club",
+    "home_team_acronym": "GFN",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 460,
+        "attack_kda": 1.77,
+        "defense_kda": 1.64,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 206.67,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.08,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 131,
+                "attack_kda": 1.56,
+                "defense_kda": 1.91,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 198.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.95,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Astra": {
+                "total_rounds_played": 182,
+                "attack_kda": 1.68,
+                "defense_kda": 1.58,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 198.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.59,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.71,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 211.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.77,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Brimstone": {
+                "total_rounds_played": 61,
+                "attack_kda": 2.87,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 242.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.06,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

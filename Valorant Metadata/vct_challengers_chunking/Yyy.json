@@ -1,0 +1,54 @@
+{
+    "handle": "Yyy",
+    "date": "2024-02-15T13:44:37",
+    "status": "active",
+    "first_name": "Hajun",
+    "last_name": "Yun",
+    "home_team_name": "Dplus KIA",
+    "home_team_acronym": "DK",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 86,
+        "attack_kda": 0.64,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.43,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 130.63,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 71.2,
+        "avg_first_bloods_per_round": 0.02,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.59,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 148.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.0,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.7,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 110.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 56.04,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

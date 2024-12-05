@@ -1,0 +1,54 @@
+{
+    "handle": "KyLoU",
+    "date": "2024-06-14T14:06:58",
+    "status": "active",
+    "first_name": "Kylian",
+    "last_name": "Quesnel",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 107,
+        "attack_kda": 1.62,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 215.55,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.48,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 79,
+                "attack_kda": 1.69,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 224.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.74,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.46,
+                "defense_kda": 0.55,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 190.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.12,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

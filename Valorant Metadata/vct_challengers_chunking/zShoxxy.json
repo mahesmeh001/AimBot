@@ -1,0 +1,52 @@
+{
+    "handle": "zShoxxy",
+    "date": "2024-05-22T08:49:22",
+    "status": "active",
+    "first_name": "Mattia",
+    "last_name": "Piccolo",
+    "home_team_name": "RTZN",
+    "home_team_acronym": "RTZN",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 194,
+        "attack_kda": 0.81,
+        "defense_kda": 0.97,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 161.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.2,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.22
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 115,
+                "attack_kda": 0.64,
+                "defense_kda": 0.92,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 134.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.96,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Raze": {
+                "total_rounds_played": 79,
+                "attack_kda": 1.21,
+                "defense_kda": 1.03,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 199.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.93,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

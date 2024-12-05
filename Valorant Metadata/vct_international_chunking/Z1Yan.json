@@ -1,0 +1,80 @@
+{
+    "handle": "Z1Yan",
+    "date": "2024-06-20T11:12:20",
+    "status": "active",
+    "first_name": "ZIHAN",
+    "last_name": "LIU",
+    "home_team_name": "JDG ESPORTS",
+    "home_team_acronym": "JDG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 255,
+        "attack_kda": 1.46,
+        "defense_kda": 1.73,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 218.25,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.88,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.18,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.02,
+                "avg_combat_score_per_round": 188.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.67,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Omen": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.68,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 220.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.14,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.46,
+                "defense_kda": 2.02,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 228.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.92,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Sentinel": {
+            "Deadlock": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.0,
+                "defense_kda": 2.29,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 214.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.12,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "handle": "sword9",
+    "date": "2024-04-10T08:41:41",
+    "status": "active",
+    "first_name": "Wei",
+    "last_name": "Li",
+    "home_team_name": "ALL GAMERS",
+    "home_team_acronym": "AG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 253,
+        "attack_kda": 1.17,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 193.05,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.97,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 152,
+                "attack_kda": 1.16,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 192.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.16,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 81,
+                "attack_kda": 1.19,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 192.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.36,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.14,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 198.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.19,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.25
+            }
+        }
+    }
+}

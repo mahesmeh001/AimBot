@@ -1,0 +1,80 @@
+{
+    "handle": "D1E",
+    "date": "2022-05-03T22:35:11",
+    "status": "active",
+    "first_name": "Diego",
+    "last_name": "Contreras",
+    "home_team_name": "Meta Gaming",
+    "home_team_acronym": "META",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 293,
+        "attack_kda": 1.03,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 189.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.64,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 224,
+                "attack_kda": 0.96,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 191.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.89,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.6,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 241.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.81,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 30,
+                "attack_kda": 1.4,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 186.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.91,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Astra": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.86,
+                "defense_kda": 0.92,
+                "avg_kills_per_round": 0.38,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 120.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 66.26,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "Rababz",
+    "date": "2023-04-03T09:21:12",
+    "status": "active",
+    "first_name": "Biyala",
+    "last_name": "Abdul Rafi",
+    "home_team_name": "MVP Esports",
+    "home_team_acronym": "MVPE",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 467,
+        "attack_kda": 1.14,
+        "defense_kda": 1.08,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 171.77,
+        "avg_revives_per_round": 0.03,
+        "avg_damage_dealt_per_round": 93.79,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 124,
+                "attack_kda": 1.22,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 162.4,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 83.37,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 224,
+                "attack_kda": 0.95,
+                "defense_kda": 0.97,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 168.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.02,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Cypher": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.14,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 263.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.48,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.28
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.14,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 183.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.98,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Skye": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.62,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 146.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.25,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

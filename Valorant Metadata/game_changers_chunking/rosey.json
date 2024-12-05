@@ -1,0 +1,80 @@
+{
+    "handle": "rosey",
+    "date": "2024-07-15T07:42:21",
+    "status": "active",
+    "first_name": "Marksup",
+    "last_name": "Natchanan",
+    "home_team_name": "Neons",
+    "home_team_acronym": "NE",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 122,
+        "attack_kda": 1.77,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.44,
+        "avg_combat_score_per_round": 232.48,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 127.15,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.14,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 175.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.45,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Viper": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.57,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 279.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 155.17,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 24,
+                "attack_kda": 3.0,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 269.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 150.87,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 50,
+                "attack_kda": 1.35,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 215.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.79,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

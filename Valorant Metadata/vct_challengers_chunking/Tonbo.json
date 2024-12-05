@@ -1,0 +1,102 @@
+{
+    "handle": "Tonbo",
+    "date": "2024-01-25T09:09:55",
+    "status": "active",
+    "first_name": "Ryosuke ",
+    "last_name": "Ohtsuka",
+    "home_team_name": "MURASH GAMING",
+    "home_team_acronym": "MRSH",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 876,
+        "attack_kda": 1.17,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 203.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.74,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 556,
+                "attack_kda": 1.22,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 216.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.3,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Gekko": {
+                "total_rounds_played": 107,
+                "attack_kda": 1.24,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 181.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.92,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.0,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 177.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.32,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 153,
+                "attack_kda": 0.98,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 179.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.96,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Chamber": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.5,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 137.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.96,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sage": {
+                "total_rounds_played": 14,
+                "attack_kda": 3.0,
+                "defense_kda": 2.67,
+                "avg_kills_per_round": 1.07,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 285.5,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 130.6,
+                "avg_first_bloods_per_round": 0.29,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

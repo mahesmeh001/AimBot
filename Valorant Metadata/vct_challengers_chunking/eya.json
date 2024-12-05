@@ -1,0 +1,40 @@
+{
+    "handle": "eya",
+    "date": "2024-06-27T08:58:30",
+    "status": "active",
+    "first_name": "Marco Julian",
+    "last_name": "Capece",
+    "home_team_name": "Axolotl Esports",
+    "home_team_acronym": "AXL",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 36,
+        "attack_kda": 1.1,
+        "defense_kda": 0.87,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.08,
+        "avg_combat_score_per_round": 232.92,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.09,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.1,
+                "defense_kda": 0.87,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 232.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.09,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

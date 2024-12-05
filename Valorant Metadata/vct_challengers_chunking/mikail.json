@@ -1,0 +1,104 @@
+{
+    "handle": "mikail",
+    "date": "2024-01-29T01:15:23",
+    "status": "active",
+    "first_name": "Michael",
+    "last_name": "Setiawan",
+    "home_team_name": "Mabuhay",
+    "home_team_acronym": "MBH",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 456,
+        "attack_kda": 1.79,
+        "defense_kda": 1.23,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 191.6,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.98,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Phoenix": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.83,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 207.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.84,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Jett": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.0,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 185.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.71,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 263,
+                "attack_kda": 1.93,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 197.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.41,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 103,
+                "attack_kda": 1.72,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 156.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.83,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Viper": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.2,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 286.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.14,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 17,
+                "attack_kda": 3.33,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 196.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.57,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

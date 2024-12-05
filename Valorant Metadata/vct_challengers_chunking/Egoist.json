@@ -1,0 +1,92 @@
+{
+    "handle": "Egoist",
+    "date": "2024-04-10T09:11:11",
+    "status": "active",
+    "first_name": "Javier",
+    "last_name": "Chua",
+    "home_team_name": "Bleed Esports",
+    "home_team_acronym": "BLD",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1124,
+        "attack_kda": 1.57,
+        "defense_kda": 1.56,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 217.91,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.5,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 30,
+                "attack_kda": 1.11,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 144.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.01,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 40,
+                "attack_kda": 1.12,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 193.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.85,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 439,
+                "attack_kda": 1.75,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 225.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.87,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Killjoy": {
+                "total_rounds_played": 571,
+                "attack_kda": 1.47,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 220.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.14,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 44,
+                "attack_kda": 2.0,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 179.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.57,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

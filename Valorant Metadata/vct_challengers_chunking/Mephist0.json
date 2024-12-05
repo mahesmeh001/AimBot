@@ -1,0 +1,78 @@
+{
+    "handle": "Mephist0",
+    "date": "2024-02-12T11:11:29",
+    "status": "active",
+    "first_name": "Dante Genaro",
+    "last_name": "Armenta Garfias",
+    "home_team_name": "Six Karma",
+    "home_team_acronym": "6K",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 832,
+        "attack_kda": 1.37,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.87,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 254.14,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 132.12,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.56,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 204.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.56,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Jett": {
+                "total_rounds_played": 387,
+                "attack_kda": 1.29,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 257.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.57,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Raze": {
+                "total_rounds_played": 358,
+                "attack_kda": 1.34,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 258.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.09,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 48,
+                "attack_kda": 2.06,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 231.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.24,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

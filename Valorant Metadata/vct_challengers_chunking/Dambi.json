@@ -1,0 +1,102 @@
+{
+    "handle": "Dambi",
+    "date": "2024-05-21T10:22:13",
+    "status": "active",
+    "first_name": "Hyukkyu",
+    "last_name": "Lee",
+    "home_team_name": "Sin Prisa Gaming",
+    "home_team_acronym": "SPGG",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 887,
+        "attack_kda": 1.39,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.83,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 238.1,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 125.31,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 364,
+                "attack_kda": 1.23,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 231.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.07,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Phoenix": {
+                "total_rounds_played": 89,
+                "attack_kda": 1.35,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 255.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.0,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Neon": {
+                "total_rounds_played": 104,
+                "attack_kda": 1.4,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 219.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.7,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Jett": {
+                "total_rounds_played": 186,
+                "attack_kda": 1.49,
+                "defense_kda": 1.01,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 241.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.78,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "ISO": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.89,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 258.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.67,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.35,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 241.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.71,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

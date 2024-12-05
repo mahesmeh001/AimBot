@@ -1,0 +1,78 @@
+{
+    "handle": "DominiK",
+    "date": "2024-04-09T00:04:09",
+    "status": "active",
+    "first_name": "Rushikesh",
+    "last_name": "Suresh Khedkar",
+    "home_team_name": "MEDAL ESPORTS",
+    "home_team_acronym": "MDL",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 483,
+        "attack_kda": 1.24,
+        "defense_kda": 1.2,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 157.2,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.34,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 221,
+                "attack_kda": 1.35,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 141.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.12,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Astra": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.76,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 158.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.78,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.1,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 181.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.42,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.55,
+                "defense_kda": 0.3,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.04,
+                "avg_combat_score_per_round": 84.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 45.22,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

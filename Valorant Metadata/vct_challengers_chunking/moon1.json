@@ -1,0 +1,90 @@
+{
+    "handle": "moon1",
+    "date": "2024-01-22T14:22:14",
+    "status": "active",
+    "first_name": "Shi Tao",
+    "last_name": "Tee",
+    "home_team_name": "S2 Esports",
+    "home_team_acronym": "S2",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 352,
+        "attack_kda": 1.04,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 160.56,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.2,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 156,
+                "attack_kda": 0.98,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 167.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.14,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 98,
+                "attack_kda": 1.5,
+                "defense_kda": 0.97,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 153.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.8,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Fade": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.33,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 186.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.63,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Gekko": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.4,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.22,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 65.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 34.04,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 62,
+                "attack_kda": 0.96,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 173.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.36,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

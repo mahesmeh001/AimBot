@@ -1,0 +1,64 @@
+{
+    "handle": "Ezeir",
+    "date": "2024-06-20T11:29:43",
+    "status": "active",
+    "first_name": "ZEJUN",
+    "last_name": "ZHAO",
+    "home_team_name": "NOVA ESPORTS",
+    "home_team_acronym": "NOVA",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 211,
+        "attack_kda": 1.64,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 186.36,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.13,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 155,
+                "attack_kda": 1.53,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 185.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.16,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.71,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 227.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.78,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Astra": {
+                "total_rounds_played": 30,
+                "attack_kda": 1.5,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 154.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.47,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

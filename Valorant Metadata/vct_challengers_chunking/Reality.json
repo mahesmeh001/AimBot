@@ -1,0 +1,104 @@
+{
+    "handle": "Reality",
+    "date": "2024-01-22T11:26:36",
+    "status": "active",
+    "first_name": "Manutsawat",
+    "last_name": "Sangphadung",
+    "home_team_name": "CRIT Esports",
+    "home_team_acronym": "CRIT",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1186,
+        "attack_kda": 1.06,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 184.3,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.8,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 400,
+                "attack_kda": 1.09,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 184.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.63,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Cypher": {
+                "total_rounds_played": 376,
+                "attack_kda": 1.02,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 183.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.39,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Chamber": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.03,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 206.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.52,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 128,
+                "attack_kda": 1.17,
+                "defense_kda": 0.98,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 170.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.15,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Astra": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.22,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 131.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.29,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.16,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 182.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.38,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

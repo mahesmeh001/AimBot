@@ -1,0 +1,66 @@
+{
+    "handle": "Fixy",
+    "date": "2024-06-04T08:23:29",
+    "status": "active",
+    "first_name": "Amirul Zaqwan",
+    "last_name": "Bin Norfarulizal",
+    "home_team_name": "Reve Drift Arena",
+    "home_team_acronym": "RDA",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 355,
+        "attack_kda": 1.17,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 225.62,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 118.45,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 195,
+                "attack_kda": 0.98,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 231.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.53,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 90,
+                "attack_kda": 1.46,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 232.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.65,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.39,
+                "defense_kda": 0.85,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.04,
+                "avg_combat_score_per_round": 200.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.2,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

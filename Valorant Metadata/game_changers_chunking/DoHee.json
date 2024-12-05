@@ -1,0 +1,54 @@
+{
+    "handle": "DoHee",
+    "date": "2024-07-22T08:07:07",
+    "status": "active",
+    "first_name": "Dohee",
+    "last_name": "Kim",
+    "home_team_name": "Nuclear GC",
+    "home_team_acronym": "NCGC",
+    "home_league_name": "game_changers_kr",
+    "region": "KR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 163,
+        "attack_kda": 2.54,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 212.6,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.11,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.02
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 73,
+                "attack_kda": 3.0,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 239.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.27,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 90,
+                "attack_kda": 2.17,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 190.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.69,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

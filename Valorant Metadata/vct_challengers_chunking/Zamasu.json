@@ -1,0 +1,52 @@
+{
+    "handle": "Zamasu",
+    "date": "2023-03-27T08:39:56",
+    "status": "active",
+    "first_name": "B\u1ea3o Thi\u1ec7n",
+    "last_name": "Phan Tr\u1ea7n",
+    "home_team_name": "LAZY LFO",
+    "home_team_acronym": "LAZY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 43,
+        "attack_kda": 1.21,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 206.88,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 140.92,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.5,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 234.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.42,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Reyna": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.7,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 185.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 143.69,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "handle": "JCun",
+    "date": "2023-03-27T08:49:33",
+    "status": "active",
+    "first_name": "Quang Kha\u0309i",
+    "last_name": "Phan",
+    "home_team_name": "The Mad Men",
+    "home_team_acronym": "TMM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 210,
+        "attack_kda": 1.1,
+        "defense_kda": 1.12,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 193.39,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.64,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 135,
+                "attack_kda": 1.08,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 199.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.78,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.17,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 192.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.74,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Skye": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.2,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 152.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.72,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Breach": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.9,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 123.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.34,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.89,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 250.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 157.12,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

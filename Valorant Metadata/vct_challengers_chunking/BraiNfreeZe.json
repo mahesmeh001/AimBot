@@ -1,0 +1,66 @@
+{
+    "handle": "BraiNfreeZe",
+    "date": "2024-01-25T08:02:57",
+    "status": "active",
+    "first_name": "Zachary Garret",
+    "last_name": "Bajarias",
+    "home_team_name": "GeekFam",
+    "home_team_acronym": "GEEK",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 243,
+        "attack_kda": 0.76,
+        "defense_kda": 0.99,
+        "avg_kills_per_round": 0.49,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 146.42,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 80.92,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.9,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 184.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.99,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 187,
+                "attack_kda": 0.75,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 136.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.16,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Killjoy": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.73,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 177.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.14,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

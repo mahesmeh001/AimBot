@@ -1,0 +1,94 @@
+{
+    "handle": "Mowff",
+    "date": "2023-01-30T11:30:41",
+    "status": "active",
+    "first_name": "Tr\u1ea7n \u0110\u1ee9c ",
+    "last_name": "Minh",
+    "home_team_name": "Mekong Gaming",
+    "home_team_acronym": "MKG",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 106,
+        "attack_kda": 0.69,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 184.18,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.66,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.33,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 199.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.19,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.75,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 187.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.2,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Jett": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.58,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 212.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.6,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.67,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 171.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.76,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.88,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 165.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.31,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

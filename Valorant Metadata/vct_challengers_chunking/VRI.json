@@ -1,0 +1,40 @@
+{
+    "handle": "VRI",
+    "date": "2023-01-11T07:15:38",
+    "status": "active",
+    "first_name": "Lo",
+    "last_name": "Wing Ho",
+    "home_team_name": "Oblivion Force",
+    "home_team_acronym": "OF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 24,
+        "attack_kda": 0.82,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.12,
+        "avg_combat_score_per_round": 158.38,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 85.79,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.82,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 158.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.79,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

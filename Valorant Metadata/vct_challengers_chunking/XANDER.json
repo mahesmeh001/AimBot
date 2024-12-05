@@ -1,0 +1,52 @@
+{
+    "handle": "XANDER",
+    "date": "2024-02-12T10:34:53",
+    "status": "active",
+    "first_name": "Exneider",
+    "last_name": "Lopez",
+    "home_team_name": "FUSION",
+    "home_team_acronym": "FSN",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 295,
+        "attack_kda": 1.06,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 207.33,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.9,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.23
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 89,
+                "attack_kda": 1.17,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 206.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.19,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Jett": {
+                "total_rounds_played": 206,
+                "attack_kda": 1.0,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 207.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.48,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "handle": "Seoldam",
+    "date": "2024-05-16T09:08:47",
+    "status": "active",
+    "first_name": "Sangmin",
+    "last_name": "Park",
+    "home_team_name": "RIDDLE ORDER",
+    "home_team_acronym": "RID",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 448,
+        "attack_kda": 1.38,
+        "defense_kda": 1.7,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 233.25,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.68,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.22,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 171.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.21,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Jett": {
+                "total_rounds_played": 292,
+                "attack_kda": 1.37,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 255.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.13,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 1,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 131,
+                "attack_kda": 1.44,
+                "defense_kda": 1.82,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 196.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.15,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

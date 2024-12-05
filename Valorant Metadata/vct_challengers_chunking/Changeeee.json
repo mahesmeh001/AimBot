@@ -1,0 +1,52 @@
+{
+    "handle": "Changeeee",
+    "date": "2024-01-22T11:26:30",
+    "status": "active",
+    "first_name": "Banchong",
+    "last_name": "Bhakorn",
+    "home_team_name": "SHARPER ESPORT",
+    "home_team_acronym": "SPE",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 868,
+        "attack_kda": 1.2,
+        "defense_kda": 1.46,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 225.14,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 119.16,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 400,
+                "attack_kda": 1.39,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 231.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.64,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Jett": {
+                "total_rounds_played": 468,
+                "attack_kda": 1.06,
+                "defense_kda": 1.58,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 219.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.49,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

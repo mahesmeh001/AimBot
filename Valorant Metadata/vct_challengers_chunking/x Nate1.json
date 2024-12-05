@@ -1,0 +1,104 @@
+{
+    "handle": "x Nate1",
+    "date": "2024-05-20T03:14:06",
+    "status": "active",
+    "first_name": "Nathanael",
+    "last_name": "Miles",
+    "home_team_name": "Mookah Rabbits",
+    "home_team_acronym": "MR",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1296,
+        "attack_kda": 1.25,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 232.74,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 120.28,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 391,
+                "attack_kda": 1.36,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 257.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.89,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Raze": {
+                "total_rounds_played": 590,
+                "attack_kda": 1.16,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 211.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.42,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Yoru": {
+                "total_rounds_played": 119,
+                "attack_kda": 1.21,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 253.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.74,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Phoenix": {
+                "total_rounds_played": 158,
+                "attack_kda": 1.43,
+                "defense_kda": 1.79,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 234.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.44,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.0,
+                "defense_kda": 2.62,
+                "avg_kills_per_round": 1.18,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 334.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 158.63,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.5,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 117.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 72.22,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

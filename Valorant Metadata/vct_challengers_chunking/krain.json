@@ -1,0 +1,90 @@
+{
+    "handle": "krain",
+    "date": "2024-02-09T12:19:54",
+    "status": "active",
+    "first_name": "Gustavo",
+    "last_name": "Melara",
+    "home_team_name": "Vivo Keyd Stars",
+    "home_team_acronym": "VKS",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 796,
+        "attack_kda": 1.56,
+        "defense_kda": 1.75,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.41,
+        "avg_combat_score_per_round": 204.36,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.43,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 192,
+                "attack_kda": 1.98,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 186.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.08,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 279,
+                "attack_kda": 1.55,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 234.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.54,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.67,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 211.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.26,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 253,
+                "attack_kda": 1.42,
+                "defense_kda": 1.87,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 195.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.95,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Skye": {
+                "total_rounds_played": 54,
+                "attack_kda": 0.87,
+                "defense_kda": 1.93,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 152.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.29,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "handle": "Spring",
+    "date": "2024-04-10T08:54:42",
+    "status": "active",
+    "first_name": "Chun-ting",
+    "last_name": "Liu",
+    "home_team_name": "WOLVES ESPORTS",
+    "home_team_acronym": "WOL",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 192,
+        "attack_kda": 1.12,
+        "defense_kda": 1.54,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 242.58,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 128.61,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.22
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 66,
+                "attack_kda": 1.52,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 238.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.26,
+                "avg_first_bloods_per_round": 0.3,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Raze": {
+                "total_rounds_played": 107,
+                "attack_kda": 0.85,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 250.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.7,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.3
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 19,
+                "attack_kda": 4.5,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 209.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.62,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

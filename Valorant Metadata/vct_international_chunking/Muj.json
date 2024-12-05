@@ -1,0 +1,40 @@
+{
+    "handle": "Muj",
+    "date": "2023-10-09T15:47:41",
+    "status": "active",
+    "first_name": "Serhat",
+    "last_name": "Y\u00fcksel",
+    "home_team_name": "Futbolist",
+    "home_team_acronym": "FUT",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 38,
+        "attack_kda": 0.85,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 170.05,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 84.25,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 38,
+                "attack_kda": 0.85,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 170.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.25,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

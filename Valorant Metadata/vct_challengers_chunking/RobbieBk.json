@@ -1,0 +1,92 @@
+{
+    "handle": "RobbieBk",
+    "date": "2024-01-05T11:05:24",
+    "status": "active",
+    "first_name": "Christofer",
+    "last_name": "Sandb\u00e4ck",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 922,
+        "attack_kda": 1.56,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 192.8,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 103.93,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 284,
+                "attack_kda": 1.54,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 207.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.41,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Sova": {
+                "total_rounds_played": 380,
+                "attack_kda": 1.66,
+                "defense_kda": 1.94,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 200.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.33,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Skye": {
+                "total_rounds_played": 179,
+                "attack_kda": 1.29,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 152.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.78,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 62,
+                "attack_kda": 2.19,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 199.58,
+                "avg_revives_per_round": 0.08,
+                "avg_damage_dealt_per_round": 97.27,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.44,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 174.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.76,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "Moco",
+    "date": "2022-08-01T14:55:12",
+    "status": "active",
+    "first_name": "Kawashima",
+    "last_name": "Sarina",
+    "home_team_name": "ZETA DIVISION GC",
+    "home_team_acronym": "ZETA",
+    "home_league_name": "game_changers_jpn",
+    "region": "JP",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 1007,
+        "attack_kda": 2.01,
+        "defense_kda": 2.22,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.48,
+        "avg_combat_score_per_round": 217.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.18,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 759,
+                "attack_kda": 1.99,
+                "defense_kda": 2.26,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 213.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.17,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 207,
+                "attack_kda": 2.05,
+                "defense_kda": 2.05,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 234.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.84,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.71,
+                "defense_kda": 12.0,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 219.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.24,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Brimstone": {
+                "total_rounds_played": 20,
+                "attack_kda": 3.0,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 194.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.86,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 2,
+                "attack_kda": 0.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.0,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 0.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 0.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

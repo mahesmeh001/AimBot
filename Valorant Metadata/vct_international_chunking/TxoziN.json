@@ -1,0 +1,40 @@
+{
+    "handle": "TxoziN",
+    "date": "2024-01-09T22:20:23",
+    "status": "active",
+    "first_name": "Andr\u00e9 Rafael",
+    "last_name": "Max Saidel",
+    "home_team_name": "MIBR",
+    "home_team_acronym": "MIBR",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 98,
+        "attack_kda": 1.05,
+        "defense_kda": 1.19,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 173.46,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.16,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 98,
+                "attack_kda": 1.05,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 173.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.16,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

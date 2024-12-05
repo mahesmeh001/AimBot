@@ -1,0 +1,68 @@
+{
+    "handle": "Arin",
+    "date": "2024-07-22T08:07:12",
+    "status": "active",
+    "first_name": "Ah-rin",
+    "last_name": "Lee",
+    "home_team_name": "Nuclear GC",
+    "home_team_acronym": "NCGC",
+    "home_league_name": "game_changers_kr",
+    "region": "KR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 72,
+        "attack_kda": 1.68,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 223.65,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 139.61,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 7,
+                "attack_kda": 6.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 197.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.71,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.79,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 214.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 156.1,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.86,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 252.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.37,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

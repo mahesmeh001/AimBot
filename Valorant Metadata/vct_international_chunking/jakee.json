@@ -1,0 +1,76 @@
+{
+    "handle": "jakee",
+    "date": "2024-04-03T08:13:00",
+    "status": "active",
+    "first_name": "Jake",
+    "last_name": "Anderson",
+    "home_team_name": "Cloud9 Blue",
+    "home_team_acronym": "C9B",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 770,
+        "attack_kda": 1.39,
+        "defense_kda": 1.63,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 183.54,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.33,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 454,
+                "attack_kda": 1.46,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 175.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.48,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Brimstone": {
+                "total_rounds_played": 146,
+                "attack_kda": 1.32,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 184.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.51,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 125,
+                "attack_kda": 1.18,
+                "defense_kda": 1.94,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 190.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.5,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.8,
+                "defense_kda": 2.09,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 238.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.41,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

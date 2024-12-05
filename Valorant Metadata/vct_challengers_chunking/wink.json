@@ -1,0 +1,52 @@
+{
+    "handle": "wink",
+    "date": "2023-03-20T07:32:02",
+    "status": "active",
+    "first_name": "Lee ",
+    "last_name": "Zhen Yong",
+    "home_team_name": "Aster Army",
+    "home_team_acronym": "ASTR",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 222,
+        "attack_kda": 1.19,
+        "defense_kda": 1.06,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 203.69,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.43,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 162,
+                "attack_kda": 1.14,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 209.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.37,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 60,
+                "attack_kda": 1.32,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 188.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.9,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.2
+            }
+        }
+    }
+}

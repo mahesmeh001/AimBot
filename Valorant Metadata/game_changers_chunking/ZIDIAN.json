@@ -1,0 +1,52 @@
+{
+    "handle": "ZIDIAN",
+    "date": "2024-07-19T08:01:59",
+    "status": "active",
+    "first_name": "Karla",
+    "last_name": "Rojas",
+    "home_team_name": "Killer7",
+    "home_team_acronym": "KR7",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 42,
+        "attack_kda": 0.95,
+        "defense_kda": 1.93,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.57,
+        "avg_combat_score_per_round": 183.12,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.18,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.17,
+                "defense_kda": 3.25,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.65,
+                "avg_combat_score_per_round": 226.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.22,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.67,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 143.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.96,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

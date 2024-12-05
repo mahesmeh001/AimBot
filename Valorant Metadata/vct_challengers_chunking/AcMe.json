@@ -1,0 +1,104 @@
+{
+    "handle": "AcMe",
+    "date": "2023-01-26T11:15:08",
+    "status": "active",
+    "first_name": "Ihwan ",
+    "last_name": "Cha",
+    "home_team_name": "DH.CNJ",
+    "home_team_acronym": "CNJ",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 685,
+        "attack_kda": 1.86,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.44,
+        "avg_combat_score_per_round": 202.65,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.36,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 324,
+                "attack_kda": 2.01,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 203.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.54,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 101,
+                "attack_kda": 2.21,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 217.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.78,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "KAY/O": {
+                "total_rounds_played": 179,
+                "attack_kda": 1.82,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 198.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.68,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Gekko": {
+                "total_rounds_played": 14,
+                "attack_kda": 1.5,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 200.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.5,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 52,
+                "attack_kda": 1.08,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 174.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.86,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.67,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 241.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.33,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

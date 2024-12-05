@@ -1,0 +1,106 @@
+{
+    "handle": "hansia",
+    "date": "2024-02-07T07:33:29",
+    "status": "active",
+    "first_name": "Hoang Thuong",
+    "last_name": "Nguyen",
+    "home_team_name": "Crocodile TEARS",
+    "home_team_acronym": "TEAR",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 549,
+        "attack_kda": 1.32,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 233.97,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.25,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.29,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 266.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.87,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 371,
+                "attack_kda": 1.27,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 237.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.06,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Jett": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.24,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 233.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.01,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.86,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 167.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.46,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.83,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 232.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.72,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.38,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 246.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.87,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "handle": "Freyaaa",
+    "date": "2024-07-15T07:06:45",
+    "status": "active",
+    "first_name": "Chnitsara",
+    "last_name": "Nansthit",
+    "home_team_name": "Dangerous Rose",
+    "home_team_acronym": "DGR",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 41,
+        "attack_kda": 2.2,
+        "defense_kda": 0.7,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 168.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.32,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 41,
+                "attack_kda": 2.2,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 168.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.32,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

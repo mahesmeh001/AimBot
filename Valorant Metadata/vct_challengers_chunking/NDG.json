@@ -1,0 +1,102 @@
+{
+    "handle": "NDG",
+    "date": "2024-04-10T09:08:54",
+    "status": "active",
+    "first_name": "Noel",
+    "last_name": "De Guia",
+    "home_team_name": "Team Secret",
+    "home_team_acronym": "TS",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 686,
+        "attack_kda": 1.74,
+        "defense_kda": 1.85,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.4,
+        "avg_combat_score_per_round": 214.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 109.15,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 183,
+                "attack_kda": 1.97,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 216.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.53,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Omen": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.56,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 194.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.85,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.69,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 240.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.36,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 142,
+                "attack_kda": 2.15,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 215.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.76,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 225,
+                "attack_kda": 1.46,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 206.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.05,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "KAY/O": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.27,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 186.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.48,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

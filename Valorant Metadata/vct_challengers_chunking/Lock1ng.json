@@ -1,0 +1,78 @@
+{
+    "handle": "Lock1ng",
+    "date": "2024-01-22T14:54:54",
+    "status": "active",
+    "first_name": "Zuo-Kang",
+    "last_name": "Liu",
+    "home_team_name": "yuanyoyin",
+    "home_team_acronym": "YYY",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 231,
+        "attack_kda": 1.21,
+        "defense_kda": 1.23,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 196.49,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.59,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 90,
+                "attack_kda": 1.04,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 175.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.25,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 105,
+                "attack_kda": 1.28,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 210.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.79,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Brimstone": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.55,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 228.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.52,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 8,
+                "attack_kda": 0.8,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 142.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.77,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

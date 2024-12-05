@@ -1,0 +1,90 @@
+{
+    "handle": "Only1",
+    "date": "2024-01-25T09:48:25",
+    "status": "active",
+    "first_name": "Dan-il",
+    "last_name": "Park",
+    "home_team_name": "DH.CNJ",
+    "home_team_acronym": "CNJ",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 655,
+        "attack_kda": 1.16,
+        "defense_kda": 1.16,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 210.78,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.01,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 411,
+                "attack_kda": 1.24,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 219.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.28,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 179,
+                "attack_kda": 1.1,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 208.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.53,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Reyna": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.0,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 153.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.87,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Yoru": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.0,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 163.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.69,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.6,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.04,
+                "avg_combat_score_per_round": 158.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.37,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

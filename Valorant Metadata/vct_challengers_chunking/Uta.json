@@ -1,0 +1,104 @@
+{
+    "handle": "Uta",
+    "date": "2024-05-22T12:29:53",
+    "status": "active",
+    "first_name": "Tsz Ting",
+    "last_name": "Wong",
+    "home_team_name": "Oblivion Force",
+    "home_team_acronym": "OF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 508,
+        "attack_kda": 1.79,
+        "defense_kda": 1.79,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 242.04,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 122.43,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 181,
+                "attack_kda": 1.66,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 266.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.29,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 64,
+                "attack_kda": 1.62,
+                "defense_kda": 2.71,
+                "avg_kills_per_round": 1.02,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 276.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.91,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Cypher": {
+                "total_rounds_played": 76,
+                "attack_kda": 1.09,
+                "defense_kda": 2.26,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 203.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.98,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Chamber": {
+                "total_rounds_played": 58,
+                "attack_kda": 2.47,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 1.02,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 282.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.64,
+                "avg_first_bloods_per_round": 0.31,
+                "avg_first_deaths_per_round": 0.16
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 91,
+                "attack_kda": 2.07,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 209.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.78,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 38,
+                "attack_kda": 2.8,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 160.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.57,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

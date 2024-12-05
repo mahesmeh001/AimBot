@@ -1,0 +1,90 @@
+{
+    "handle": "rageee",
+    "date": "2024-05-27T12:57:09",
+    "status": "active",
+    "first_name": "Trung Hieu",
+    "last_name": "Le",
+    "home_team_name": "CYBERKING ESPORTS",
+    "home_team_acronym": "CKE",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 257,
+        "attack_kda": 1.21,
+        "defense_kda": 1.33,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 196.98,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.74,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.05,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 195.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.4,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 110,
+                "attack_kda": 1.58,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 226.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.44,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Astra": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.78,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 178.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.77,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.8,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 127.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 57.82,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Fade": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.86,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 124.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.6,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

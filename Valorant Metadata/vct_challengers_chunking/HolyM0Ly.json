@@ -1,0 +1,40 @@
+{
+    "handle": "HolyM0Ly",
+    "date": "2024-01-05T10:20:14",
+    "status": "active",
+    "first_name": "Diogo",
+    "last_name": "Ferreira",
+    "home_team_name": "EX0TIK GAMING",
+    "home_team_acronym": "EX0",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 472,
+        "attack_kda": 1.19,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 233.09,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 129.64,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 472,
+                "attack_kda": 1.19,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 233.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.64,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

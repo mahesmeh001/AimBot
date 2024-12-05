@@ -1,0 +1,40 @@
+{
+    "handle": "JoshRT",
+    "date": "2024-04-10T07:53:36",
+    "status": "active",
+    "first_name": "Josh",
+    "last_name": "Lee",
+    "home_team_name": "G2 Esports",
+    "home_team_acronym": "G2",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 73,
+        "attack_kda": 0.83,
+        "defense_kda": 0.78,
+        "avg_kills_per_round": 0.45,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 130.74,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 73.88,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 73,
+                "attack_kda": 0.83,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 130.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.88,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

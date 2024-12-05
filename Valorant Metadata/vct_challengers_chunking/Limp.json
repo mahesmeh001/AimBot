@@ -1,0 +1,80 @@
+{
+    "handle": "Limp",
+    "date": "2024-06-27T08:51:07",
+    "status": "active",
+    "first_name": "Ferri",
+    "last_name": "Alessandro",
+    "home_team_name": "Axolotl Esports",
+    "home_team_acronym": "AXL",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 704,
+        "attack_kda": 1.32,
+        "defense_kda": 1.6,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 206.26,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.93,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 162,
+                "attack_kda": 1.48,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 195.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.62,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 305,
+                "attack_kda": 1.36,
+                "defense_kda": 2.01,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 218.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.84,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.19,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 210.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.56,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.73,
+                "defense_kda": 0.36,
+                "avg_kills_per_round": 0.31,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 123.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.66,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

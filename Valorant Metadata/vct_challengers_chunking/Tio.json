@@ -1,0 +1,78 @@
+{
+    "handle": "Tio",
+    "date": "2023-03-28T09:57:34",
+    "status": "active",
+    "first_name": "Carlos",
+    "last_name": "Swing",
+    "home_team_name": "Optix",
+    "home_team_acronym": "OPX",
+    "home_league_name": "challengers_latam_s",
+    "region": "LAS",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 293,
+        "attack_kda": 1.13,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 186.01,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.18,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 50,
+                "attack_kda": 0.94,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 130.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.48,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Viper": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.59,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 220.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.98,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 156,
+                "attack_kda": 1.11,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 192.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.61,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Gekko": {
+                "total_rounds_played": 30,
+                "attack_kda": 0.75,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 179.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.73,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

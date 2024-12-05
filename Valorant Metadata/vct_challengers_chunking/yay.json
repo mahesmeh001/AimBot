@@ -1,0 +1,40 @@
+{
+    "handle": "yay",
+    "date": "2024-04-10T09:11:11",
+    "status": "active",
+    "first_name": "Jaccob",
+    "last_name": "Whiteaker",
+    "home_team_name": "Bleed Esports",
+    "home_team_acronym": "BLD",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 222,
+        "attack_kda": 1.36,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 236.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 120.66,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 222,
+                "attack_kda": 1.36,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 236.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.66,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

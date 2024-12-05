@@ -1,0 +1,104 @@
+{
+    "handle": "Adenqt",
+    "date": "2024-01-29T01:15:23",
+    "status": "active",
+    "first_name": "Rayhan",
+    "last_name": " Filardhi Azhar",
+    "home_team_name": "Mabuhay",
+    "home_team_acronym": "MBH",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 456,
+        "attack_kda": 1.23,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 203.84,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.98,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.8,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 157.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.92,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Viper": {
+                "total_rounds_played": 353,
+                "attack_kda": 1.35,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 217.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.33,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.0,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 237.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.1,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Fade": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.5,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 126.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.65,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.5,
+                "defense_kda": 0.56,
+                "avg_kills_per_round": 0.16,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 73.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 51.97,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Killjoy": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.8,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 188.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.28,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

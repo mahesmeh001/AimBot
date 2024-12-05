@@ -1,0 +1,76 @@
+{
+    "handle": "Mikey Tap",
+    "date": "2024-02-17T04:05:59",
+    "status": "active",
+    "first_name": "Luciano",
+    "last_name": "Pensa",
+    "home_team_name": "Furious Gaming",
+    "home_team_acronym": "FG",
+    "home_league_name": "challengers_latam_s",
+    "region": "LAS",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 693,
+        "attack_kda": 1.26,
+        "defense_kda": 1.3,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.32,
+        "avg_combat_score_per_round": 170.23,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 86.13,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 412,
+                "attack_kda": 1.28,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 177.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.55,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 107,
+                "attack_kda": 1.25,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 161.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.38,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Harbor": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.35,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 154.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.77,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 88,
+                "attack_kda": 1.08,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 161.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.43,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

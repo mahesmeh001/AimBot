@@ -1,0 +1,102 @@
+{
+    "handle": "Derke",
+    "date": "2024-04-10T08:22:46",
+    "status": "active",
+    "first_name": "Nikita",
+    "last_name": "Sirmitev",
+    "home_team_name": "FNATIC",
+    "home_team_acronym": "FNC",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 3481,
+        "attack_kda": 1.32,
+        "defense_kda": 1.62,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 242.41,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.66,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 434,
+                "attack_kda": 1.51,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 248.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.73,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 823,
+                "attack_kda": 1.21,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 256.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.25,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 1701,
+                "attack_kda": 1.33,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 237.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.96,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Reyna": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.0,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 194.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.02,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Yoru": {
+                "total_rounds_played": 469,
+                "attack_kda": 1.33,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 228.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.78,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "ISO": {
+                "total_rounds_played": 35,
+                "attack_kda": 1.36,
+                "defense_kda": 2.07,
+                "avg_kills_per_round": 0.97,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 271.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.7,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

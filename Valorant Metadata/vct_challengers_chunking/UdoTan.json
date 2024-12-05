@@ -1,0 +1,80 @@
+{
+    "handle": "UdoTan",
+    "date": "2023-03-28T08:59:24",
+    "status": "active",
+    "first_name": "Kyungwon",
+    "last_name": "Ko",
+    "home_team_name": "GJ Shadow",
+    "home_team_acronym": "GJS",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 275,
+        "attack_kda": 1.37,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 243.65,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 126.79,
+        "avg_first_bloods_per_round": 0.25,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.5,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 241.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.16,
+                "avg_first_bloods_per_round": 0.45,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Raze": {
+                "total_rounds_played": 90,
+                "attack_kda": 1.42,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 263.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.8,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 157,
+                "attack_kda": 1.3,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 239.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.99,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 6,
+                "attack_kda": 2.0,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.17,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 67.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 41.17,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

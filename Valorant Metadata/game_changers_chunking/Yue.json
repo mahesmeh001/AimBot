@@ -1,0 +1,52 @@
+{
+    "handle": "Yue",
+    "date": "2024-08-01T10:02:49",
+    "status": "active",
+    "first_name": "Ye",
+    "last_name": "Lingjuan",
+    "home_team_name": "Oxyg3nious",
+    "home_team_acronym": "O3O",
+    "home_league_name": "game_changers_east_asia",
+    "region": "INTL",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 275,
+        "attack_kda": 1.3,
+        "defense_kda": 1.65,
+        "avg_kills_per_round": 0.9,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 255.41,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 133.04,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 173,
+                "attack_kda": 1.1,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 240.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.8,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.61,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 280.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 143.62,
+                "avg_first_bloods_per_round": 0.28,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

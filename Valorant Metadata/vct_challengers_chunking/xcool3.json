@@ -1,0 +1,64 @@
+{
+    "handle": "xcool3",
+    "date": "2024-05-21T11:05:13",
+    "status": "active",
+    "first_name": "Nattadet ",
+    "last_name": "Wijit",
+    "home_team_name": "Barn nong chok",
+    "home_team_acronym": "BNC",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 318,
+        "attack_kda": 1.59,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 225.36,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.39,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 112,
+                "attack_kda": 1.53,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 235.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.36,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Cypher": {
+                "total_rounds_played": 187,
+                "attack_kda": 1.68,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 219.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.38,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Deadlock": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.0,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 228.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.82,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

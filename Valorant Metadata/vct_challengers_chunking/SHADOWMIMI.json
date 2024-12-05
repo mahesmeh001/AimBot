@@ -1,0 +1,54 @@
+{
+    "handle": "SHADOWMIMI",
+    "date": "2023-03-28T08:30:54",
+    "status": "active",
+    "first_name": null,
+    "last_name": "FTW",
+    "home_team_name": "FTW Le\u00e7a FC",
+    "home_team_acronym": "FXL",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 272,
+        "attack_kda": 1.02,
+        "defense_kda": 0.93,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 178.89,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.41,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 254,
+                "attack_kda": 1.05,
+                "defense_kda": 0.98,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 186.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.79,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.6,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.22,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 78.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 43.68,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

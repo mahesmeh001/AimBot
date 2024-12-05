@@ -1,0 +1,90 @@
+{
+    "handle": "zePiCzz",
+    "date": "2024-05-28T20:30:46",
+    "status": "active",
+    "first_name": "Daniel ",
+    "last_name": "Mariano",
+    "home_team_name": "HOF Esports",
+    "home_team_acronym": "HOF",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 710,
+        "attack_kda": 1.47,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 201.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.1,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 164,
+                "attack_kda": 1.86,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 211.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.14,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 71,
+                "attack_kda": 2.11,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 159.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.1,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Viper": {
+                "total_rounds_played": 192,
+                "attack_kda": 1.16,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 196.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.06,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 194,
+                "attack_kda": 1.46,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 223.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.73,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Gekko": {
+                "total_rounds_played": 89,
+                "attack_kda": 1.21,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 181.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.78,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

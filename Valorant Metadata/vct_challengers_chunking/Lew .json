@@ -1,0 +1,52 @@
+{
+    "handle": "Lew ",
+    "date": "2023-03-28T08:28:27",
+    "status": "active",
+    "first_name": "Lewis",
+    "last_name": "Grant-Smith",
+    "home_team_name": "Impulse GW",
+    "home_team_acronym": "IGW",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 264,
+        "attack_kda": 1.13,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 198.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.45,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 241,
+                "attack_kda": 1.04,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 187.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.48,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Fade": {
+                "total_rounds_played": 23,
+                "attack_kda": 2.12,
+                "defense_kda": 2.86,
+                "avg_kills_per_round": 1.22,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 320.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 150.13,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

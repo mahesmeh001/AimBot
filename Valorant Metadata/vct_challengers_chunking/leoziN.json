@@ -1,0 +1,92 @@
+{
+    "handle": "leoziN",
+    "date": "2024-02-09T12:08:49",
+    "status": "active",
+    "first_name": "Leonardo",
+    "last_name": "Quindeler",
+    "home_team_name": "RED Canids Kalunga",
+    "home_team_acronym": "RED",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 598,
+        "attack_kda": 1.36,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 227.33,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 119.57,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 192,
+                "attack_kda": 0.95,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 199.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.8,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Neon": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.13,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 230.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.02,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Raze": {
+                "total_rounds_played": 246,
+                "attack_kda": 1.85,
+                "defense_kda": 1.03,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 270.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.34,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 58,
+                "attack_kda": 1.05,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 151.45,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 83.54,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.56,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 177.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.72,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "polvi",
+    "date": "2024-04-10T09:01:26",
+    "status": "active",
+    "first_name": "Niko",
+    "last_name": "Polvinen",
+    "home_team_name": "GLOBAL ESPORTS",
+    "home_team_acronym": "GE",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 643,
+        "attack_kda": 1.2,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 212.07,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.86,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 323,
+                "attack_kda": 1.24,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 224.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.74,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 227,
+                "attack_kda": 1.14,
+                "defense_kda": 0.96,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 194.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.57,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Neon": {
+                "total_rounds_played": 75,
+                "attack_kda": 1.16,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 218.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.44,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.0,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 185.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.78,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "KillerS",
+    "date": "2024-01-30T08:35:34",
+    "status": "active",
+    "first_name": "Van Thien",
+    "last_name": "Nguyen",
+    "home_team_name": "FPTxFlash",
+    "home_team_acronym": "FPT",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 605,
+        "attack_kda": 1.56,
+        "defense_kda": 1.75,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 222.07,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.94,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 183,
+                "attack_kda": 1.7,
+                "defense_kda": 1.68,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 198.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.01,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 72,
+                "attack_kda": 1.68,
+                "defense_kda": 2.87,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 197.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.13,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 262,
+                "attack_kda": 1.44,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 233.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.74,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Neon": {
+                "total_rounds_played": 54,
+                "attack_kda": 1.73,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 298.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 151.27,
+                "avg_first_bloods_per_round": 0.3,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Jett": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.15,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 195.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.48,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

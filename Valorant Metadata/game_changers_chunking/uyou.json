@@ -1,0 +1,54 @@
+{
+    "handle": "uyou",
+    "date": "2022-10-04T08:10:00",
+    "status": "active",
+    "first_name": "Jooyoung",
+    "last_name": "Han",
+    "home_team_name": "MBTI",
+    "home_team_acronym": "MBT",
+    "home_league_name": "game_changers_kr",
+    "region": "KR",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 44,
+        "attack_kda": 0.81,
+        "defense_kda": 2.0,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.02,
+        "avg_combat_score_per_round": 251.55,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 129.52,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.1,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 264.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.16,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.55,
+                "defense_kda": 3.75,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.04,
+                "avg_combat_score_per_round": 239.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.37,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

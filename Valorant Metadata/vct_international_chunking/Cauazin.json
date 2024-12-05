@@ -1,0 +1,64 @@
+{
+    "handle": "Cauazin",
+    "date": "2024-02-06T09:00:59",
+    "status": "active",
+    "first_name": "Cauan ",
+    "last_name": "Diogo",
+    "home_team_name": "LOUD",
+    "home_team_acronym": "LOUD",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 290,
+        "attack_kda": 1.45,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 198.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.41,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.76,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 167.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.36,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Skye": {
+                "total_rounds_played": 202,
+                "attack_kda": 1.58,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 196.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.28,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Sova": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.67,
+                "defense_kda": 2.3,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 239.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.27,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

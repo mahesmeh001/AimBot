@@ -1,0 +1,52 @@
+{
+    "handle": "Bunnyy",
+    "date": "2024-03-15T07:10:52",
+    "status": "active",
+    "first_name": "Joonhyuk",
+    "last_name": "Chae",
+    "home_team_name": "IAM",
+    "home_team_acronym": "IAM",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 903,
+        "attack_kda": 1.32,
+        "defense_kda": 1.39,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 219.1,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 119.2,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 592,
+                "attack_kda": 1.38,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 230.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.32,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Jett": {
+                "total_rounds_played": 311,
+                "attack_kda": 1.2,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 197.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.76,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

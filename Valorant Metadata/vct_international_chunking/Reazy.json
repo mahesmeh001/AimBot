@@ -1,0 +1,90 @@
+{
+    "handle": "Reazy",
+    "date": "2024-04-10T08:19:40",
+    "status": "active",
+    "first_name": "Kaan",
+    "last_name": "\u00dcrpek",
+    "home_team_name": "BBL Esports",
+    "home_team_acronym": "BBL",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 575,
+        "attack_kda": 1.19,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 161.52,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.04,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 145,
+                "attack_kda": 1.48,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 180.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.94,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Sova": {
+                "total_rounds_played": 198,
+                "attack_kda": 1.19,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 158.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.74,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Gekko": {
+                "total_rounds_played": 105,
+                "attack_kda": 1.06,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 134.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.53,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Fade": {
+                "total_rounds_played": 110,
+                "attack_kda": 0.84,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 157.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.22,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.02
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 17,
+                "attack_kda": 2.0,
+                "defense_kda": 3.2,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 218.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.31,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

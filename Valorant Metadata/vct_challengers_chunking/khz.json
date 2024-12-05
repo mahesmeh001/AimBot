@@ -1,0 +1,104 @@
+{
+    "handle": "khz",
+    "date": "2024-02-12T11:22:40",
+    "status": "active",
+    "first_name": "Matias",
+    "last_name": "Bugue\u00f1o",
+    "home_team_name": "XSoul",
+    "home_team_acronym": "XS",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 275,
+        "attack_kda": 1.22,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 180.31,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.08,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.21,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 198.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.29,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Breach": {
+                "total_rounds_played": 74,
+                "attack_kda": 1.19,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 129.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.24,
+                "avg_first_bloods_per_round": 0.01,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Skye": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.91,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 152.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.33,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 33,
+                "attack_kda": 1.33,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 246.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.51,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Yoru": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.89,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 201.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.36,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 80,
+                "attack_kda": 1.11,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 191.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.51,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

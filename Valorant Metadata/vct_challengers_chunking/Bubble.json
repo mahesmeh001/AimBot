@@ -1,0 +1,40 @@
+{
+    "handle": "Bubble",
+    "date": "2024-05-22T13:08:38",
+    "status": "active",
+    "first_name": "You Lin",
+    "last_name": "Su",
+    "home_team_name": "Da Feng Gou",
+    "home_team_acronym": "DFG",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 41,
+        "attack_kda": 1.15,
+        "defense_kda": 0.5,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.1,
+        "avg_combat_score_per_round": 180.15,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.66,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.22
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.15,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 180.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.66,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "LockM",
+    "date": "2024-06-20T11:45:14",
+    "status": "active",
+    "first_name": "Fuling",
+    "last_name": "Xing",
+    "home_team_name": "TITAN ESPORTS CLUB",
+    "home_team_acronym": "TEC",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 240,
+        "attack_kda": 1.24,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.33,
+        "avg_combat_score_per_round": 171.14,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.29,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 107,
+                "attack_kda": 1.18,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 180.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.66,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Fade": {
+                "total_rounds_played": 65,
+                "attack_kda": 1.05,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 112.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 56.69,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 23,
+                "attack_kda": 2.71,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 256.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.3,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 21,
+                "attack_kda": 2.0,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 225.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.22,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Viper": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.45,
+                "defense_kda": 2.83,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 161.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.69,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "handle": "Aika",
+    "date": "2024-04-16T07:59:07",
+    "status": "active",
+    "first_name": "Matsui",
+    "last_name": "Ayami",
+    "home_team_name": "FENNEL HOTELAVA",
+    "home_team_acronym": "FL",
+    "home_league_name": "game_changers_jpn",
+    "region": "JP",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 146,
+        "attack_kda": 1.33,
+        "defense_kda": 1.88,
+        "avg_kills_per_round": 0.84,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 228.58,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 115.57,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 103,
+                "attack_kda": 1.11,
+                "defense_kda": 2.04,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 218.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.93,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Sage": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.25,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 157.71,
+                "avg_revives_per_round": 0.04,
+                "avg_damage_dealt_per_round": 81.43,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Killjoy": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.83,
+                "defense_kda": 4.67,
+                "avg_kills_per_round": 1.53,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 374.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 172.97,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

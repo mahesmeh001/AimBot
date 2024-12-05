@@ -1,0 +1,102 @@
+{
+    "handle": "MAKA",
+    "date": "2024-02-12T09:48:26",
+    "status": "active",
+    "first_name": "Iv\u00e1n",
+    "last_name": "Ar\u00e1mbula",
+    "home_team_name": "19esports",
+    "home_team_acronym": "19",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 460,
+        "attack_kda": 1.52,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.43,
+        "avg_combat_score_per_round": 182.81,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 94.5,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 82,
+                "attack_kda": 1.44,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 159.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.38,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Skye": {
+                "total_rounds_played": 39,
+                "attack_kda": 3.0,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.64,
+                "avg_combat_score_per_round": 138.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.9,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Sova": {
+                "total_rounds_played": 76,
+                "attack_kda": 1.62,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 223.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.54,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Breach": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.26,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 171.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.66,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 45,
+                "attack_kda": 2.19,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 242.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.32,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.83,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 182.88,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 104.81,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

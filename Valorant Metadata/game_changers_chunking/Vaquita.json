@@ -1,0 +1,68 @@
+{
+    "handle": "Vaquita",
+    "date": "2023-02-17T17:28:41",
+    "status": "active",
+    "first_name": "Chavez",
+    "last_name": "Eilzabeth",
+    "home_team_name": "Akave",
+    "home_team_acronym": "AKV",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 292,
+        "attack_kda": 1.22,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 233.39,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 127.03,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.26
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 195,
+                "attack_kda": 1.12,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 239.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.06,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.34
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 70,
+                "attack_kda": 1.45,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 220.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.2,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 27,
+                "attack_kda": 1.4,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 218.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.72,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

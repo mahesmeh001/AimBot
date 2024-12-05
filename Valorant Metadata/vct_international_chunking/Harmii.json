@@ -1,0 +1,40 @@
+{
+    "handle": "Harmii",
+    "date": "2024-04-10T08:30:21",
+    "status": "active",
+    "first_name": "Nico",
+    "last_name": "Harms",
+    "home_team_name": "Team Liquid",
+    "home_team_acronym": "TL",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 48,
+        "attack_kda": 0.73,
+        "defense_kda": 1.77,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 175.48,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.41,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.23
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 48,
+                "attack_kda": 0.73,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 175.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.41,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.23
+            }
+        }
+    }
+}

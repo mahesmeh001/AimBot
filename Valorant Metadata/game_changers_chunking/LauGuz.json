@@ -1,0 +1,52 @@
+{
+    "handle": "LauGuz",
+    "date": "2024-07-19T08:04:26",
+    "status": "active",
+    "first_name": "Laura",
+    "last_name": "Guzm\u00e1n",
+    "home_team_name": "Killer7",
+    "home_team_acronym": "KR7",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 420,
+        "attack_kda": 1.25,
+        "defense_kda": 1.57,
+        "avg_kills_per_round": 0.89,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 252.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 131.37,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 278,
+                "attack_kda": 1.19,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 254.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.68,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Jett": {
+                "total_rounds_played": 142,
+                "attack_kda": 1.35,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 247.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.81,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

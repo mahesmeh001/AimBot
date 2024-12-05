@@ -1,0 +1,104 @@
+{
+    "handle": "Awei",
+    "date": "2024-05-22T13:00:31",
+    "status": "active",
+    "first_name": "Jia Wei",
+    "last_name": "Feng",
+    "home_team_name": "ROA Esport",
+    "home_team_acronym": "ROA",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 223,
+        "attack_kda": 1.19,
+        "defense_kda": 1.55,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 220.65,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 118.06,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 97,
+                "attack_kda": 1.32,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 224.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.48,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Sage": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.38,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 206.22,
+                "avg_revives_per_round": 0.13,
+                "avg_damage_dealt_per_round": 108.96,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Killjoy": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.62,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 200.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.47,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Phoenix": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.07,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 222.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.1,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Yoru": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.3,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 269.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.05,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.0,
+                "defense_kda": 0.8,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 171.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.07,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

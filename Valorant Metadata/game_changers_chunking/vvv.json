@@ -1,0 +1,52 @@
+{
+    "handle": "vvv",
+    "date": "2024-07-15T07:10:21",
+    "status": "active",
+    "first_name": "Teedraphat",
+    "last_name": "Sakdee",
+    "home_team_name": "LILITH",
+    "home_team_acronym": "LL",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 36,
+        "attack_kda": 1.64,
+        "defense_kda": 1.07,
+        "avg_kills_per_round": 0.89,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 258.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 132.06,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.0,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 255.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.8,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Jett": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.44,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 260.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.99,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

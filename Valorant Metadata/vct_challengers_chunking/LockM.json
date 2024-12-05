@@ -1,0 +1,78 @@
+{
+    "handle": "LockM",
+    "date": "2024-02-05T11:19:56",
+    "status": "active",
+    "first_name": "Xing",
+    "last_name": "Fu Ling",
+    "home_team_name": "Griffin E-Sports Club",
+    "home_team_acronym": "GFN",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 460,
+        "attack_kda": 1.37,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 189.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.63,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 172,
+                "attack_kda": 1.32,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 199.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.19,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Cypher": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.0,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 157.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.72,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 203,
+                "attack_kda": 1.29,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 190.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.81,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Breach": {
+                "total_rounds_played": 43,
+                "attack_kda": 2.29,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 180.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.87,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

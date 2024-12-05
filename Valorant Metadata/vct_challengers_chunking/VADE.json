@@ -1,0 +1,92 @@
+{
+    "handle": "VADE",
+    "date": "2024-01-24T08:59:57",
+    "status": "active",
+    "first_name": "Kritapong",
+    "last_name": "Prasertadisorn",
+    "home_team_name": "Valee Thai Esports",
+    "home_team_acronym": "VLTH",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 225,
+        "attack_kda": 0.99,
+        "defense_kda": 0.93,
+        "avg_kills_per_round": 0.45,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 129.4,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 66.67,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 60,
+                "attack_kda": 0.45,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 112.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.35,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.67,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 129.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 61.48,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.53,
+                "defense_kda": 0.76,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 108.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 53.38,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.17,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 157.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.05,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Harbor": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.89,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 128.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.73,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

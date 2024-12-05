@@ -1,0 +1,90 @@
+{
+    "handle": "oreopheliaa",
+    "date": "2023-07-18T06:52:09",
+    "status": "active",
+    "first_name": "Risalma ",
+    "last_name": "Agnia",
+    "home_team_name": "BIGG SCYTHE",
+    "home_team_acronym": "BIGG",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 370,
+        "attack_kda": 1.64,
+        "defense_kda": 1.84,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.46,
+        "avg_combat_score_per_round": 204.99,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.38,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 274,
+                "attack_kda": 1.66,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 197.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.76,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Brimstone": {
+                "total_rounds_played": 15,
+                "attack_kda": 7.0,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 265.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.62,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Astra": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.59,
+                "defense_kda": 2.73,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 250.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.34,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Harbor": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.5,
+                "defense_kda": 0.64,
+                "avg_kills_per_round": 0.31,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 94.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.43,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.44,
+                "defense_kda": 3.67,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 248.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.34,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

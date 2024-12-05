@@ -1,0 +1,40 @@
+{
+    "handle": "Ali",
+    "date": "2024-05-28T06:00:28",
+    "status": "active",
+    "first_name": "Ali",
+    "last_name": "Salah Salahedin",
+    "home_team_name": "Winthrop University",
+    "home_team_acronym": "WU",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 40,
+        "attack_kda": 1.05,
+        "defense_kda": 2.17,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 227.18,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.84,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 40,
+                "attack_kda": 1.05,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 227.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.84,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

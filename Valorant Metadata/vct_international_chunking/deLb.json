@@ -1,0 +1,52 @@
+{
+    "handle": "deLb",
+    "date": "2024-04-10T08:41:41",
+    "status": "active",
+    "first_name": "Tanoto",
+    "last_name": "Delbert",
+    "home_team_name": "ALL GAMERS",
+    "home_team_acronym": "AG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 253,
+        "attack_kda": 1.42,
+        "defense_kda": 1.16,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 192.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.08,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 185,
+                "attack_kda": 1.59,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 203.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.46,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.04,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 161.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.61,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

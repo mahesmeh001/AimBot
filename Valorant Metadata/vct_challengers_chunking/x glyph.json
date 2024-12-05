@@ -1,0 +1,102 @@
+{
+    "handle": "x glyph",
+    "date": "2024-05-20T03:14:06",
+    "status": "active",
+    "first_name": "Connor Xavier",
+    "last_name": "Garcia",
+    "home_team_name": "ILLICIT",
+    "home_team_acronym": "IL",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 693,
+        "attack_kda": 1.59,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 222.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 118.66,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 243,
+                "attack_kda": 1.53,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 225.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.66,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "KAY/O": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.47,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 213.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.8,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Fade": {
+                "total_rounds_played": 201,
+                "attack_kda": 2.08,
+                "defense_kda": 1.66,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 240.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.44,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.36,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 183.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.07,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.4,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 219.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.59,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.95,
+                "defense_kda": 2.7,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 205.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.76,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

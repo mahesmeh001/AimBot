@@ -1,0 +1,88 @@
+{
+    "handle": "sw",
+    "date": "2024-02-09T12:03:34",
+    "status": "active",
+    "first_name": "Jadisson",
+    "last_name": "Rayan",
+    "home_team_name": "CoOp",
+    "home_team_acronym": "COOP",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 865,
+        "attack_kda": 1.34,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 178.75,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.65,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 362,
+                "attack_kda": 1.33,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 191.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.12,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Brimstone": {
+                "total_rounds_played": 138,
+                "attack_kda": 1.58,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 182.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.75,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 85,
+                "attack_kda": 1.14,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 175.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.77,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Omen": {
+                "total_rounds_played": 261,
+                "attack_kda": 1.36,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 165.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.41,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Harbor": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.0,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.32,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 97.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 51.44,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.26
+            }
+        }
+    }
+}

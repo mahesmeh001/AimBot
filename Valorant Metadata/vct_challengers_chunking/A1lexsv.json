@@ -1,0 +1,78 @@
+{
+    "handle": "A1lexsv",
+    "date": "2023-03-27T08:49:32",
+    "status": "active",
+    "first_name": "L\u00ea Huy Khi\u00eam",
+    "last_name": "Tr\u00e2\u0300n",
+    "home_team_name": "The Mad Men",
+    "home_team_acronym": "TMM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 210,
+        "attack_kda": 1.35,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.5,
+        "avg_combat_score_per_round": 174.02,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.57,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.47,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.56,
+                "avg_combat_score_per_round": 152.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.27,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.33,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 236.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.9,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Astra": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.0,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 187.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.3,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.16
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.88,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.62,
+                "avg_combat_score_per_round": 169.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.78,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

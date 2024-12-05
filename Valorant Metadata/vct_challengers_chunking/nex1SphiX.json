@@ -1,0 +1,78 @@
+{
+    "handle": "nex1SphiX",
+    "date": "2024-05-22T13:18:00",
+    "status": "active",
+    "first_name": "Gerelt-Od",
+    "last_name": "Javkhlantugs",
+    "home_team_name": "Team Kobolds",
+    "home_team_acronym": "KBLD",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 593,
+        "attack_kda": 1.71,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 204.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.37,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.14,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 208.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.04,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Omen": {
+                "total_rounds_played": 378,
+                "attack_kda": 1.73,
+                "defense_kda": 1.54,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 212.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.05,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Brimstone": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.7,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 187.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.44,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 110,
+                "attack_kda": 1.57,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 190.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.85,
+                "avg_first_bloods_per_round": 0.01,
+                "avg_first_deaths_per_round": 0.01
+            }
+        }
+    }
+}

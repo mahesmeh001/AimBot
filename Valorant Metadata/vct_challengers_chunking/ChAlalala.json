@@ -1,0 +1,78 @@
+{
+    "handle": "ChAlalala",
+    "date": "2023-01-16T15:08:11",
+    "status": "active",
+    "first_name": "Suwanaprateep",
+    "last_name": "X",
+    "home_team_name": "FULL SENSE",
+    "home_team_acronym": "FS",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1189,
+        "attack_kda": 1.12,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 180.58,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.83,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 808,
+                "attack_kda": 1.09,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 187.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.27,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Cypher": {
+                "total_rounds_played": 342,
+                "attack_kda": 1.14,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 162.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.88,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.88,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 171.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.74,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.8,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 242.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.88,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

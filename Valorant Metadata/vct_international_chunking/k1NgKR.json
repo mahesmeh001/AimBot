@@ -1,0 +1,68 @@
+{
+    "handle": "k1NgKR",
+    "date": "2024-07-31T14:38:27",
+    "status": "active",
+    "first_name": "Seungwon",
+    "last_name": "Lee",
+    "home_team_name": "Vision Strikers",
+    "home_team_acronym": "VS",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 646,
+        "attack_kda": 1.49,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.76,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 212.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.5,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 298,
+                "attack_kda": 1.45,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 204.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.71,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 322,
+                "attack_kda": 1.46,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 218.03,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.5,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 26,
+                "attack_kda": 2.57,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 244.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.9,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "handle": "mads",
+    "date": "2024-02-07T15:03:37",
+    "status": "active",
+    "first_name": "Maddie",
+    "last_name": "Fenton",
+    "home_team_name": "NIP Lightning",
+    "home_team_acronym": "NIP",
+    "home_league_name": "game_changers_emea",
+    "region": "EMEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 105,
+        "attack_kda": 2.43,
+        "defense_kda": 1.73,
+        "avg_kills_per_round": 0.97,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 265.23,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 133.76,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 43,
+                "attack_kda": 2.25,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 234.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.53,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Sova": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.67,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 242.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.25,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 34,
+                "attack_kda": 3.25,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 1.21,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 322.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 168.61,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

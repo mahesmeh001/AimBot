@@ -1,0 +1,104 @@
+{
+    "handle": "stellar",
+    "date": "2024-01-09T21:15:31",
+    "status": "active",
+    "first_name": "Brenden",
+    "last_name": "McGrath",
+    "home_team_name": "100 Thieves",
+    "home_team_acronym": "100T",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 817,
+        "attack_kda": 1.11,
+        "defense_kda": 1.3,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 173.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 96.25,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 194,
+                "attack_kda": 0.94,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 162.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.72,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Harbor": {
+                "total_rounds_played": 49,
+                "attack_kda": 0.89,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 153.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.2,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 318,
+                "attack_kda": 1.04,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 185.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.36,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Cypher": {
+                "total_rounds_played": 194,
+                "attack_kda": 1.41,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 175.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.05,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sage": {
+                "total_rounds_played": 40,
+                "attack_kda": 1.06,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 165.4,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 85.5,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.17,
+                "defense_kda": 0.36,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 136.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.52,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

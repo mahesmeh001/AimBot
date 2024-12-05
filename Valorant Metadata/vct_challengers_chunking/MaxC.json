@@ -1,0 +1,40 @@
+{
+    "handle": "MaxC",
+    "date": "2024-03-14T11:20:36",
+    "status": "active",
+    "first_name": "John Moxie",
+    "last_name": "Laberinto",
+    "home_team_name": "SR Nacague",
+    "home_team_acronym": "NCG",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 235,
+        "attack_kda": 0.95,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 171.01,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.6,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 235,
+                "attack_kda": 0.95,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 171.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.6,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

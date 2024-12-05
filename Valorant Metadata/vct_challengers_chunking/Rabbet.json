@@ -1,0 +1,78 @@
+{
+    "handle": "Rabbet",
+    "date": "2023-01-24T08:12:37",
+    "status": "active",
+    "first_name": "Bunag",
+    "last_name": "Francis Danison",
+    "home_team_name": "Sky Empire",
+    "home_team_acronym": "SKYE",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 398,
+        "attack_kda": 1.11,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 166.41,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 90.32,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 73,
+                "attack_kda": 0.92,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 136.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.42,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Sova": {
+                "total_rounds_played": 222,
+                "attack_kda": 0.89,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 172.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.11,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 70,
+                "attack_kda": 2.21,
+                "defense_kda": 0.97,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 149.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.21,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 33,
+                "attack_kda": 1.5,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 228.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.18,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

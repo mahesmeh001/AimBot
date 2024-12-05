@@ -1,0 +1,92 @@
+{
+    "handle": "fame1",
+    "date": "2024-02-09T12:03:34",
+    "status": "active",
+    "first_name": "Jo\u00e3o Victor",
+    "last_name": "Moraes",
+    "home_team_name": "CoOp",
+    "home_team_acronym": "COOP",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 273,
+        "attack_kda": 0.97,
+        "defense_kda": 1.02,
+        "avg_kills_per_round": 0.51,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 143.34,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 75.96,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 49,
+                "attack_kda": 1.12,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 147.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.35,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Breach": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.88,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 159.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.23,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 62,
+                "attack_kda": 0.56,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 117.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.8,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Killjoy": {
+                "total_rounds_played": 95,
+                "attack_kda": 1.2,
+                "defense_kda": 0.94,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 144.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.67,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.6,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 163.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.92,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

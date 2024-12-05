@@ -1,0 +1,64 @@
+{
+    "handle": "Exia",
+    "date": "2023-01-19T14:29:08",
+    "status": "active",
+    "first_name": "Exia",
+    "last_name": "Exia",
+    "home_team_name": "Spear Gaming",
+    "home_team_acronym": "SPG",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 325,
+        "attack_kda": 0.97,
+        "defense_kda": 1.02,
+        "avg_kills_per_round": 0.5,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 146.66,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.8,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.06,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 166.4,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.18,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.5,
+                "defense_kda": 0.42,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 157.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.23,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Fade": {
+                "total_rounds_played": 165,
+                "attack_kda": 0.85,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 128.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.83,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

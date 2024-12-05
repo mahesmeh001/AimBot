@@ -1,0 +1,88 @@
+{
+    "handle": "Denaro",
+    "date": "2024-05-17T15:11:02",
+    "status": "active",
+    "first_name": "Matheus",
+    "last_name": "Hipolito",
+    "home_team_name": "TBK",
+    "home_team_acronym": "TBK",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1600,
+        "attack_kda": 1.31,
+        "defense_kda": 1.38,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 169.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 92.84,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 633,
+                "attack_kda": 1.24,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 171.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.84,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Fade": {
+                "total_rounds_played": 233,
+                "attack_kda": 1.36,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 175.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.68,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 634,
+                "attack_kda": 1.39,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 170.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.56,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Gekko": {
+                "total_rounds_played": 65,
+                "attack_kda": 1.25,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 150.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.68,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 35,
+                "attack_kda": 0.78,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 142.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.74,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

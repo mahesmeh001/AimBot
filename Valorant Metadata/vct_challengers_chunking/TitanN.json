@@ -1,0 +1,78 @@
+{
+    "handle": "TitanN",
+    "date": "2024-05-13T11:39:41",
+    "status": "active",
+    "first_name": "Gabriele",
+    "last_name": "Pilone",
+    "home_team_name": "Happy Game Esport",
+    "home_team_acronym": "HGE",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 198,
+        "attack_kda": 1.41,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 152.39,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 79.04,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 33,
+                "attack_kda": 1.08,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 135.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.79,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Breach": {
+                "total_rounds_played": 122,
+                "attack_kda": 1.75,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 152.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.72,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Skye": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.33,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 114.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 56.26,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.12,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 219.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.42,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.2
+            }
+        }
+    }
+}

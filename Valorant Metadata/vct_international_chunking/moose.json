@@ -1,0 +1,52 @@
+{
+    "handle": "moose",
+    "date": "2024-04-10T07:40:12",
+    "status": "active",
+    "first_name": "Kaleb",
+    "last_name": "Jayne",
+    "home_team_name": "Cloud9 Blue",
+    "home_team_acronym": "C9B",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 660,
+        "attack_kda": 1.04,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 173.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.55,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 405,
+                "attack_kda": 1.14,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 182.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.08,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Cypher": {
+                "total_rounds_played": 255,
+                "attack_kda": 0.89,
+                "defense_kda": 1.72,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 161.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.75,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

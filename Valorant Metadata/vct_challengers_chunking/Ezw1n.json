@@ -1,0 +1,40 @@
+{
+    "handle": "Ezw1n",
+    "date": "2023-01-11T07:17:50",
+    "status": "active",
+    "first_name": "Li",
+    "last_name": "HuaiTing",
+    "home_team_name": "AxX",
+    "home_team_acronym": "AXX",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 37,
+        "attack_kda": 0.92,
+        "defense_kda": 1.0,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 169.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.68,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 37,
+                "attack_kda": 0.92,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 169.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.68,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

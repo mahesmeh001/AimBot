@@ -1,0 +1,52 @@
+{
+    "handle": "aplycs",
+    "date": "2024-07-09T16:13:25",
+    "status": "active",
+    "first_name": "Muhammad Aqil bin ",
+    "last_name": " Muhammad Azfar",
+    "home_team_name": "NEXGA",
+    "home_team_acronym": "NXGA",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 64,
+        "attack_kda": 1.68,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.56,
+        "avg_combat_score_per_round": 204.78,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.94,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.45,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.55,
+                "avg_combat_score_per_round": 192.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.05,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Brimstone": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.6,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.6,
+                "avg_combat_score_per_round": 232.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.1,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

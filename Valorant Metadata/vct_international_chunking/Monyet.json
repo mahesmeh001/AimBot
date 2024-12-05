@@ -1,0 +1,90 @@
+{
+    "handle": "Monyet",
+    "date": "2024-05-28T10:26:45",
+    "status": "active",
+    "first_name": "Cahya",
+    "last_name": "Nugraha",
+    "home_team_name": "Rex Regum Qeon",
+    "home_team_acronym": "RRQ",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1416,
+        "attack_kda": 1.42,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 205.3,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.5,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 257,
+                "attack_kda": 1.52,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 221.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.45,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 518,
+                "attack_kda": 1.59,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 199.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.92,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Viper": {
+                "total_rounds_played": 118,
+                "attack_kda": 1.5,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 228.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.67,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 473,
+                "attack_kda": 1.18,
+                "defense_kda": 1.01,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 191.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.36,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Neon": {
+                "total_rounds_played": 50,
+                "attack_kda": 1.47,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 256.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.34,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.22
+            }
+        }
+    }
+}

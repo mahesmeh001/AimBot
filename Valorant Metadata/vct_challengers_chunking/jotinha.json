@@ -1,0 +1,102 @@
+{
+    "handle": "jotinha",
+    "date": "2024-02-12T11:21:45",
+    "status": "active",
+    "first_name": "Jeronimo",
+    "last_name": "Quirno",
+    "home_team_name": "Oxen",
+    "home_team_acronym": "OXEN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 653,
+        "attack_kda": 1.64,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 185.62,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.21,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 334,
+                "attack_kda": 1.96,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 204.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.71,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Brimstone": {
+                "total_rounds_played": 110,
+                "attack_kda": 1.31,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 149.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.19,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Astra": {
+                "total_rounds_played": 104,
+                "attack_kda": 1.64,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 176.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.37,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 60,
+                "attack_kda": 1.17,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 158.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.64,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Harbor": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.8,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 171.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.8,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.86,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 202.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.01,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

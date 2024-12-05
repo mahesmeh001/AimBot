@@ -1,0 +1,52 @@
+{
+    "handle": "Unhappy1",
+    "date": "2024-05-22T12:45:20",
+    "status": "active",
+    "first_name": "Zong-Sheng",
+    "last_name": "Xu",
+    "home_team_name": "HKUF",
+    "home_team_acronym": "HKUF",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 392,
+        "attack_kda": 1.24,
+        "defense_kda": 1.16,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 186.33,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 98.81,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 269,
+                "attack_kda": 1.31,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 180.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.07,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Cypher": {
+                "total_rounds_played": 123,
+                "attack_kda": 1.1,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 198.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.61,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "Akashi",
+    "date": "2024-02-07T07:41:07",
+    "status": "active",
+    "first_name": "Ch\u00e2u Ho\u00e0n Thi\u1ec7n ",
+    "last_name": "Nh\u00e2n",
+    "home_team_name": "LAZY LFO",
+    "home_team_acronym": "LAZY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1302,
+        "attack_kda": 1.21,
+        "defense_kda": 1.15,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 173.61,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.43,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 771,
+                "attack_kda": 1.2,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 181.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.99,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 293,
+                "attack_kda": 1.32,
+                "defense_kda": 1.03,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 164.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.55,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Fade": {
+                "total_rounds_played": 195,
+                "attack_kda": 1.04,
+                "defense_kda": 1.03,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 156.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.77,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Gekko": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.75,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 125.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.14,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.56,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 211.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.57,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

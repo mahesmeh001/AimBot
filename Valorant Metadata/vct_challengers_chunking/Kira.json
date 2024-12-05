@@ -1,0 +1,78 @@
+{
+    "handle": "Kira",
+    "date": "2024-05-21T10:12:16",
+    "status": "active",
+    "first_name": "Jungsoo",
+    "last_name": "Park",
+    "home_team_name": "SLT Seongnam",
+    "home_team_acronym": "SLT",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 211,
+        "attack_kda": 0.84,
+        "defense_kda": 1.61,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 195.53,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.94,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 110,
+                "attack_kda": 1.06,
+                "defense_kda": 2.4,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 244.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.72,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 63,
+                "attack_kda": 0.79,
+                "defense_kda": 0.92,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 152.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.15,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Jett": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.45,
+                "defense_kda": 0.71,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 116.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 61.82,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.27
+            },
+            "Yoru": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.64,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 135.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 66.88,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.31
+            }
+        }
+    }
+}

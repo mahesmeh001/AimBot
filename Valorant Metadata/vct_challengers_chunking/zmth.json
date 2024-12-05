@@ -1,0 +1,54 @@
+{
+    "handle": "zmth",
+    "date": "2023-03-27T08:49:32",
+    "status": "active",
+    "first_name": "Ma\u0323nh Th\u0103\u0301ng",
+    "last_name": "D\u01b0\u01a1ng",
+    "home_team_name": "The Mad Men",
+    "home_team_acronym": "TMM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 210,
+        "attack_kda": 1.11,
+        "defense_kda": 1.04,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.09,
+        "avg_combat_score_per_round": 225.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 119.0,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 193,
+                "attack_kda": 1.17,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 237.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.4,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.18
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.2,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 92.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 57.76,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

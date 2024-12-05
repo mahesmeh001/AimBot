@@ -1,0 +1,116 @@
+{
+    "handle": "NTK1",
+    "date": "2024-02-07T07:41:07",
+    "status": "active",
+    "first_name": "Nguy\u1ec5n Tu\u1ea5n ",
+    "last_name": "Ki\u1ec7t",
+    "home_team_name": "LAZY LFO",
+    "home_team_acronym": "LAZY",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1259,
+        "attack_kda": 1.21,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 199.97,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 109.91,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 501,
+                "attack_kda": 1.02,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 188.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.12,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Cypher": {
+                "total_rounds_played": 454,
+                "attack_kda": 1.05,
+                "defense_kda": 1.66,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 197.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.13,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Sage": {
+                "total_rounds_played": 103,
+                "attack_kda": 1.31,
+                "defense_kda": 2.29,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 209.78,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 114.8,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 127,
+                "attack_kda": 2.44,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 226.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.68,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Omen": {
+                "total_rounds_played": 19,
+                "attack_kda": 3.5,
+                "defense_kda": 4.33,
+                "avg_kills_per_round": 1.26,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 324.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 149.8,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Viper": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.0,
+                "defense_kda": 3.0,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 264.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.75,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 37,
+                "attack_kda": 0.94,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 171.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.84,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

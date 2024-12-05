@@ -1,0 +1,52 @@
+{
+    "handle": "mta",
+    "date": "2024-04-11T01:58:40",
+    "status": "active",
+    "first_name": "Nicol\u00e1s",
+    "last_name": "Gonz\u00e1lez Acevedo",
+    "home_team_name": "KRU Esports",
+    "home_team_acronym": "KRU",
+    "home_league_name": "challengers_latam_s",
+    "region": "LAS",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 433,
+        "attack_kda": 1.29,
+        "defense_kda": 1.4,
+        "avg_kills_per_round": 0.9,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 253.11,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 126.51,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 341,
+                "attack_kda": 1.21,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 242.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.4,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 92,
+                "attack_kda": 1.61,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 1.02,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 290.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 149.16,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

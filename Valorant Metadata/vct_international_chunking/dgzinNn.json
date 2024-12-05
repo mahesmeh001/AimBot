@@ -1,0 +1,78 @@
+{
+    "handle": "dgzinNn",
+    "date": "2023-07-18T05:50:26",
+    "status": "archived",
+    "first_name": "Douglas",
+    "last_name": "de Santana da Silva",
+    "home_team_name": "FURIA",
+    "home_team_acronym": "FUR",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 137,
+        "attack_kda": 1.02,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.13,
+        "avg_combat_score_per_round": 214.28,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.44,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.47,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 233.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.7,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.3
+            },
+            "Raze": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.75,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 301.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 153.92,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Jett": {
+                "total_rounds_played": 49,
+                "attack_kda": 0.39,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 175.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.47,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.29,
+                "defense_kda": 0.64,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 173.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.39,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

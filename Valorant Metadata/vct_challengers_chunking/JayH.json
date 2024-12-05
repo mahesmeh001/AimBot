@@ -1,0 +1,106 @@
+{
+    "handle": "JayH",
+    "date": "2024-06-19T08:09:12",
+    "status": "active",
+    "first_name": "Wong",
+    "last_name": "Jia Heng",
+    "home_team_name": "Ninjas in Germany",
+    "home_team_acronym": "NG",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 641,
+        "attack_kda": 1.47,
+        "defense_kda": 1.76,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 191.88,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.44,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 227,
+                "attack_kda": 1.27,
+                "defense_kda": 1.98,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 177.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.19,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "KAY/O": {
+                "total_rounds_played": 94,
+                "attack_kda": 1.5,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 161.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.68,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 126,
+                "attack_kda": 2.11,
+                "defense_kda": 1.77,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 234.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.96,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sage": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.89,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 139.63,
+                "avg_revives_per_round": 0.16,
+                "avg_damage_dealt_per_round": 69.05,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 29,
+                "attack_kda": 0.46,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.1,
+                "avg_combat_score_per_round": 175.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.16,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.24
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 146,
+                "attack_kda": 1.73,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 206.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.06,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

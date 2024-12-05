@@ -1,0 +1,68 @@
+{
+    "handle": "KUYAYAWI",
+    "date": "2023-05-02T06:35:46",
+    "status": "active",
+    "first_name": "Tracymhil Ducenas",
+    "last_name": "Cabrera",
+    "home_team_name": "ZOL Esports",
+    "home_team_acronym": "ZOL",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 63,
+        "attack_kda": 1.53,
+        "defense_kda": 0.86,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 166.75,
+        "avg_revives_per_round": 0.03,
+        "avg_damage_dealt_per_round": 80.23,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Reyna": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.75,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 235.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.45,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 23,
+                "attack_kda": 2.2,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.52,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 147.35,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 76.64,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.67,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 114.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 55.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

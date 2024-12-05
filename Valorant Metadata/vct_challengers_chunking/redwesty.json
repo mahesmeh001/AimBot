@@ -1,0 +1,78 @@
+{
+    "handle": "redwesty",
+    "date": "2023-01-17T07:40:46",
+    "status": "active",
+    "first_name": "MATTIA GIOVANNI",
+    "last_name": "ROSSI",
+    "home_team_name": "WLGaming Esports",
+    "home_team_acronym": "WLG",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 350,
+        "attack_kda": 1.42,
+        "defense_kda": 1.11,
+        "avg_kills_per_round": 0.53,
+        "avg_assists_per_round": 0.47,
+        "avg_combat_score_per_round": 165.83,
+        "avg_revives_per_round": 0.02,
+        "avg_damage_dealt_per_round": 90.43,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 85,
+                "attack_kda": 1.54,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 156.59,
+                "avg_revives_per_round": 0.07,
+                "avg_damage_dealt_per_round": 83.8,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 175,
+                "attack_kda": 1.52,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 188.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.08,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.14,
+                "defense_kda": 0.76,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 118.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.14,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Skye": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.93,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 144.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.38,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

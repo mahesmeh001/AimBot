@@ -1,0 +1,90 @@
+{
+    "handle": "Distinct",
+    "date": "2023-03-28T08:44:00",
+    "status": "active",
+    "first_name": "Sunmyeong",
+    "last_name": "Kim",
+    "home_team_name": "Our Growth Story",
+    "home_team_acronym": "OGS1",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 356,
+        "attack_kda": 1.44,
+        "defense_kda": 1.64,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.42,
+        "avg_combat_score_per_round": 182.08,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.68,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 141,
+                "attack_kda": 1.58,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 182.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.83,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Harbor": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.25,
+                "defense_kda": 0.42,
+                "avg_kills_per_round": 0.26,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 76.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 42.81,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Viper": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.05,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 163.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.85,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Omen": {
+                "total_rounds_played": 132,
+                "attack_kda": 1.58,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 196.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.97,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.71,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 228.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.76,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

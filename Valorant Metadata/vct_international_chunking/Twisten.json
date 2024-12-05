@@ -1,0 +1,66 @@
+{
+    "handle": "Twisten",
+    "date": "2023-06-07T12:15:58",
+    "status": "archived",
+    "first_name": "Karel",
+    "last_name": "A\u0161enbrener",
+    "home_team_name": "Team Vitality",
+    "home_team_acronym": "VIT",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 667,
+        "attack_kda": 1.23,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 228.3,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 115.87,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 431,
+                "attack_kda": 1.15,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 212.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.05,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Raze": {
+                "total_rounds_played": 191,
+                "attack_kda": 1.26,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 260.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 134.61,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.94,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 237.67,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 111.29,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

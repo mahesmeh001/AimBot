@@ -1,0 +1,90 @@
+{
+    "handle": "Lear",
+    "date": "2024-05-14T19:41:07",
+    "status": "active",
+    "first_name": "Dayton",
+    "last_name": "Akau",
+    "home_team_name": "Thinking Men",
+    "home_team_acronym": "THNK",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 451,
+        "attack_kda": 0.97,
+        "defense_kda": 1.18,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 156.63,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 83.81,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 82,
+                "attack_kda": 0.81,
+                "defense_kda": 1.65,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 160.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.39,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 143,
+                "attack_kda": 0.94,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 159.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.42,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Breach": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.67,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.53,
+                "avg_combat_score_per_round": 174.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.49,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Skye": {
+                "total_rounds_played": 190,
+                "attack_kda": 1.13,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 155.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.19,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.0,
+                "defense_kda": 0.55,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 111.35,
+                "avg_revives_per_round": 0.06,
+                "avg_damage_dealt_per_round": 79.99,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

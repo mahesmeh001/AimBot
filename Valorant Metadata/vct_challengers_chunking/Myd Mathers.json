@@ -1,0 +1,102 @@
+{
+    "handle": "Myd Mathers",
+    "date": "2023-01-24T08:10:58",
+    "status": "active",
+    "first_name": "Quilicot",
+    "last_name": "Jhay Arfel",
+    "home_team_name": "SR Nacague",
+    "home_team_acronym": "NCG",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 724,
+        "attack_kda": 1.46,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.38,
+        "avg_combat_score_per_round": 191.94,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.98,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 471,
+                "attack_kda": 1.47,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 190.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.59,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 96,
+                "attack_kda": 1.44,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 229.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.12,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Brimstone": {
+                "total_rounds_played": 37,
+                "attack_kda": 2.5,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 258.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.57,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Harbor": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.12,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.24,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 97.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 58.27,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 56,
+                "attack_kda": 1.68,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 197.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.86,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.44,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.27,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 107.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.94,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

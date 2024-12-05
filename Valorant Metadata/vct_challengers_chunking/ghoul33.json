@@ -1,0 +1,78 @@
+{
+    "handle": "ghoul33",
+    "date": "2024-05-17T15:34:39",
+    "status": "active",
+    "first_name": "Guilherme",
+    "last_name": "da Silva Aar\u00e3o Carneiro",
+    "home_team_name": "THE 7",
+    "home_team_acronym": "777",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 572,
+        "attack_kda": 1.26,
+        "defense_kda": 1.54,
+        "avg_kills_per_round": 0.9,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 245.77,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 119.6,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "ISO": {
+                "total_rounds_played": 272,
+                "attack_kda": 1.33,
+                "defense_kda": 1.64,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 256.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.55,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Raze": {
+                "total_rounds_played": 97,
+                "attack_kda": 0.98,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 209.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.6,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Jett": {
+                "total_rounds_played": 179,
+                "attack_kda": 1.23,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 256.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.55,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 24,
+                "attack_kda": 2.5,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 194.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.71,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

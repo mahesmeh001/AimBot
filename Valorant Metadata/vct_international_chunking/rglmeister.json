@@ -1,0 +1,88 @@
+{
+    "handle": "rglmeister",
+    "date": "2024-04-10T07:49:59",
+    "status": "active",
+    "first_name": "Matheus ",
+    "last_name": "Rodigoli",
+    "home_team_name": "MIBR",
+    "home_team_acronym": "MIBR",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 990,
+        "attack_kda": 1.32,
+        "defense_kda": 1.54,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 181.32,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.57,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.19,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 164.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.28,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 166,
+                "attack_kda": 1.7,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 201.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.62,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Omen": {
+                "total_rounds_played": 312,
+                "attack_kda": 1.38,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 181.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.72,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Astra": {
+                "total_rounds_played": 199,
+                "attack_kda": 1.23,
+                "defense_kda": 1.68,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 174.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.71,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Viper": {
+                "total_rounds_played": 112,
+                "attack_kda": 1.04,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 194.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.87,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

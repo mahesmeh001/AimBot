@@ -1,0 +1,78 @@
+{
+    "handle": "Ri0",
+    "date": "2024-01-24T12:47:21",
+    "status": "active",
+    "first_name": "Atharv ",
+    "last_name": "Ahire",
+    "home_team_name": "Orangutan",
+    "home_team_acronym": "OGS",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 938,
+        "attack_kda": 0.99,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 172.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.5,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 165,
+                "attack_kda": 0.92,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 155.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.79,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 689,
+                "attack_kda": 1.02,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 180.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.97,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Gekko": {
+                "total_rounds_played": 63,
+                "attack_kda": 0.75,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 123.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.6,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.75,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 190.57,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.08,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

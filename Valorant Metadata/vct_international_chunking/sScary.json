@@ -1,0 +1,88 @@
+{
+    "handle": "sScary",
+    "date": "2024-04-10T09:11:11",
+    "status": "active",
+    "first_name": "Natchaphon",
+    "last_name": "Matarat",
+    "home_team_name": "Bleed Esports",
+    "home_team_acronym": "BLD",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 910,
+        "attack_kda": 1.56,
+        "defense_kda": 1.65,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 202.34,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.11,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 502,
+                "attack_kda": 1.59,
+                "defense_kda": 1.85,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 202.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.39,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.48,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 230.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.25,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 236,
+                "attack_kda": 1.59,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 194.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.14,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 66,
+                "attack_kda": 1.39,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 199.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.93,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Harbor": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.5,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 172.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.68,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

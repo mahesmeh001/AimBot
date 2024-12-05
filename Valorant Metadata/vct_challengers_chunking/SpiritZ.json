@@ -1,0 +1,90 @@
+{
+    "handle": "SpiritZ",
+    "date": "2024-05-22T12:52:58",
+    "status": "active",
+    "first_name": "Ding yu",
+    "last_name": "Lin",
+    "home_team_name": "Five Ace eSports",
+    "home_team_acronym": "SEA5",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 336,
+        "attack_kda": 1.42,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.99,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 279.74,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 137.69,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "ISO": {
+                "total_rounds_played": 107,
+                "attack_kda": 1.54,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 1.06,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 306.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 153.01,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Reyna": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.4,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 143.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 67.11,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.29
+            },
+            "Jett": {
+                "total_rounds_played": 130,
+                "attack_kda": 1.36,
+                "defense_kda": 1.59,
+                "avg_kills_per_round": 1.01,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 275.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.05,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Raze": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.24,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 271.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.77,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.38,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 307.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 155.78,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

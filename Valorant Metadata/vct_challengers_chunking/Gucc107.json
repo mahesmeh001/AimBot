@@ -1,0 +1,66 @@
+{
+    "handle": "Gucc107",
+    "date": "2024-05-02T07:46:35",
+    "status": "active",
+    "first_name": "Andrew",
+    "last_name": "Vladimir Gutnichenko",
+    "home_team_name": "Winthrop University",
+    "home_team_acronym": "WU",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 235,
+        "attack_kda": 1.2,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.41,
+        "avg_combat_score_per_round": 184.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.77,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 160,
+                "attack_kda": 1.29,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 184.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.03,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 55,
+                "attack_kda": 1.19,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.51,
+                "avg_combat_score_per_round": 162.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.72,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.62,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 238.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

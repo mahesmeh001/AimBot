@@ -1,0 +1,78 @@
+{
+    "handle": "SiuFatBB",
+    "date": "2024-06-20T12:28:43",
+    "status": "active",
+    "first_name": "JIA SI",
+    "last_name": "PANG",
+    "home_team_name": "WOLVES ESPORTS",
+    "home_team_acronym": "WOL",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 192,
+        "attack_kda": 1.34,
+        "defense_kda": 1.86,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 164.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 84.96,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 66,
+                "attack_kda": 2.75,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 199.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.53,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.33,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 135.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.98,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Breach": {
+                "total_rounds_played": 65,
+                "attack_kda": 0.67,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 126.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 64.98,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Gekko": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.06,
+                "defense_kda": 2.44,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 184.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.24,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

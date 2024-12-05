@@ -1,0 +1,102 @@
+{
+    "handle": "WAYNE ",
+    "date": "2024-02-13T18:30:49",
+    "status": "active",
+    "first_name": " Wayne Chang Wei Jie",
+    "last_name": "Chang ",
+    "home_team_name": "X10 Esports",
+    "home_team_acronym": "X10",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 907,
+        "attack_kda": 1.64,
+        "defense_kda": 1.69,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 208.56,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 108.13,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 187,
+                "attack_kda": 1.32,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 230.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.45,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Omen": {
+                "total_rounds_played": 406,
+                "attack_kda": 1.86,
+                "defense_kda": 1.74,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 207.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.47,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Astra": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.62,
+                "defense_kda": 1.73,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 150.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.81,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.31,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 139.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.55,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.19
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 209,
+                "attack_kda": 1.72,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 217.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.01,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Cypher": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.8,
+                "defense_kda": 2.8,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 196.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.41,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

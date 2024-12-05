@@ -1,0 +1,78 @@
+{
+    "handle": "esmonde",
+    "date": "2024-06-04T08:39:53",
+    "status": "active",
+    "first_name": "Esmonde Farm",
+    "last_name": "Rui Siang",
+    "home_team_name": "Kizuna Esports",
+    "home_team_acronym": "KZ",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 118,
+        "attack_kda": 0.94,
+        "defense_kda": 1.94,
+        "avg_kills_per_round": 0.56,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 170.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.54,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.03
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.9,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 164.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.05,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.62,
+                "defense_kda": 0.2,
+                "avg_kills_per_round": 0.28,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 90.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 51.72,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Brimstone": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.0,
+                "defense_kda": 3.33,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 204.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.96,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.13,
+                "defense_kda": 2.43,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 197.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.9,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

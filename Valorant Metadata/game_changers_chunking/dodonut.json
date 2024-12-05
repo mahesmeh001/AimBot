@@ -1,0 +1,52 @@
+{
+    "handle": "dodonut",
+    "date": "2023-10-03T09:00:46",
+    "status": "active",
+    "first_name": "Karnthida",
+    "last_name": "Chaisrekeo",
+    "home_team_name": "FlyQuest RED",
+    "home_team_acronym": "FLY",
+    "home_league_name": "game_changers_na",
+    "region": "NA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 511,
+        "attack_kda": 1.26,
+        "defense_kda": 1.74,
+        "avg_kills_per_round": 0.88,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 253.61,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 134.56,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 210,
+                "attack_kda": 1.29,
+                "defense_kda": 1.63,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 247.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.24,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Raze": {
+                "total_rounds_played": 301,
+                "attack_kda": 1.24,
+                "defense_kda": 1.82,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 258.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.77,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

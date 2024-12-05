@@ -1,0 +1,40 @@
+{
+    "handle": "Fanca",
+    "date": "2023-03-27T06:54:15",
+    "status": "active",
+    "first_name": "Lucariello",
+    "last_name": "Samuele",
+    "home_team_name": "Axolotl Esports",
+    "home_team_acronym": "AXL",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 61,
+        "attack_kda": 0.5,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.41,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 120.66,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 69.93,
+        "avg_first_bloods_per_round": 0.02,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 61,
+                "attack_kda": 0.5,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 120.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.93,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

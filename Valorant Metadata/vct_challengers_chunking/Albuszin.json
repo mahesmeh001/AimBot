@@ -1,0 +1,78 @@
+{
+    "handle": "Albuszin",
+    "date": "2024-05-27T13:09:55",
+    "status": "active",
+    "first_name": "Phuc Thien",
+    "last_name": "Tran",
+    "home_team_name": "Team LOFI",
+    "home_team_acronym": "LOFI",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 255,
+        "attack_kda": 1.15,
+        "defense_kda": 1.38,
+        "avg_kills_per_round": 0.65,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 186.58,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 100.14,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 111,
+                "attack_kda": 1.11,
+                "defense_kda": 1.16,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 180.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.14,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 64,
+                "attack_kda": 0.95,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 173.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.98,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.47,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 177.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.43,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Fade": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.17,
+                "defense_kda": 2.33,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 229.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.57,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.02
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "handle": "Kaizen1",
+    "date": "2024-01-24T12:23:05",
+    "status": "active",
+    "first_name": "Chogyal",
+    "last_name": "Bhutia",
+    "home_team_name": "TRR",
+    "home_team_acronym": "TRR",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 621,
+        "attack_kda": 1.02,
+        "defense_kda": 1.15,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 203.45,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 106.13,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.25
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 145,
+                "attack_kda": 1.22,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 202.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.43,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.28
+            },
+            "Jett": {
+                "total_rounds_played": 476,
+                "attack_kda": 0.97,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 203.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.13,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.25
+            }
+        }
+    }
+}

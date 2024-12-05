@@ -1,0 +1,92 @@
+{
+    "handle": "Impecunity",
+    "date": "2024-07-09T16:13:25",
+    "status": "active",
+    "first_name": "Randy Yap Jin Hong",
+    "last_name": "Yap ",
+    "home_team_name": "NEXGA",
+    "home_team_acronym": "NXGA",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 166,
+        "attack_kda": 0.97,
+        "defense_kda": 1.17,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 173.91,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.37,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.0,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 185.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.35,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Raze": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.33,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 164.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.59,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.55,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 165.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.37,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Cypher": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.88,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 117.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.47,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.5,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 202.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.78,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

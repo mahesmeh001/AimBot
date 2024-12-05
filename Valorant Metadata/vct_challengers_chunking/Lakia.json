@@ -1,0 +1,90 @@
+{
+    "handle": "Lakia",
+    "date": "2024-04-10T09:00:54",
+    "status": "active",
+    "first_name": "Kim",
+    "last_name": "Jong-min",
+    "home_team_name": "Gen.G Esports",
+    "home_team_acronym": "GEN",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1106,
+        "attack_kda": 1.79,
+        "defense_kda": 1.53,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 207.1,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.72,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 594,
+                "attack_kda": 1.79,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 218.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.93,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Fade": {
+                "total_rounds_played": 298,
+                "attack_kda": 2.03,
+                "defense_kda": 1.76,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 205.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.22,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Skye": {
+                "total_rounds_played": 106,
+                "attack_kda": 1.43,
+                "defense_kda": 0.81,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 163.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.34,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "KAY/O": {
+                "total_rounds_played": 35,
+                "attack_kda": 1.28,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 149.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.94,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.2
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 73,
+                "attack_kda": 1.77,
+                "defense_kda": 1.37,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 213.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.25,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

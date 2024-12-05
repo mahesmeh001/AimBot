@@ -1,0 +1,90 @@
+{
+    "handle": "Papichulo3",
+    "date": "2024-01-24T18:51:54",
+    "status": "active",
+    "first_name": "Jerome",
+    "last_name": "Literal",
+    "home_team_name": "NAOS Esports",
+    "home_team_acronym": "NAOS",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 977,
+        "attack_kda": 1.96,
+        "defense_kda": 2.04,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.43,
+        "avg_combat_score_per_round": 217.28,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.81,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 457,
+                "attack_kda": 2.05,
+                "defense_kda": 1.98,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 219.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.52,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 259,
+                "attack_kda": 1.89,
+                "defense_kda": 2.16,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 217.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.36,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Astra": {
+                "total_rounds_played": 20,
+                "attack_kda": 3.6,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 215.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.09,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Brimstone": {
+                "total_rounds_played": 142,
+                "attack_kda": 1.96,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 224.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.73,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.43,
+                "defense_kda": 2.04,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 198.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.77,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

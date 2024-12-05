@@ -1,0 +1,68 @@
+{
+    "handle": "whoscxta",
+    "date": "2023-02-17T19:08:35",
+    "status": "active",
+    "first_name": "Catalina",
+    "last_name": "L\u00f3pez",
+    "home_team_name": "Movistar Optix",
+    "home_team_acronym": "MOX",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 227,
+        "attack_kda": 1.57,
+        "defense_kda": 1.72,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 249.24,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 130.2,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.0,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 198.21,
+                "avg_revives_per_round": 0.16,
+                "avg_damage_dealt_per_round": 97.52,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 104,
+                "attack_kda": 1.94,
+                "defense_kda": 2.06,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 255.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.97,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 104,
+                "attack_kda": 1.41,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 252.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.4,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

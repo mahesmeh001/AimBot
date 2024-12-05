@@ -1,0 +1,104 @@
+{
+    "handle": "oonzmlp",
+    "date": "2024-02-15T14:16:14",
+    "status": "active",
+    "first_name": "Sangbeom",
+    "last_name": "Shin",
+    "home_team_name": "Maru Gaming",
+    "home_team_acronym": "MARU",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 347,
+        "attack_kda": 1.44,
+        "defense_kda": 1.23,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 200.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 103.15,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 95,
+                "attack_kda": 1.06,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 208.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.05,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Astra": {
+                "total_rounds_played": 81,
+                "attack_kda": 1.59,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 192.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.64,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Harbor": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.15,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 175.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.86,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Brimstone": {
+                "total_rounds_played": 52,
+                "attack_kda": 2.35,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 193.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.1,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 16,
+                "attack_kda": 2.33,
+                "defense_kda": 0.45,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 149.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.27,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.52,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 232.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.56,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.16
+            }
+        }
+    }
+}

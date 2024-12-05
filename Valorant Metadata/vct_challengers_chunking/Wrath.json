@@ -1,0 +1,92 @@
+{
+    "handle": "Wrath",
+    "date": "2024-02-13T18:21:15",
+    "status": "active",
+    "first_name": "Dzul",
+    "last_name": "Hilmie",
+    "home_team_name": "Blitz Esports",
+    "home_team_acronym": "BZE",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 281,
+        "attack_kda": 1.16,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 174.86,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 96.59,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 52,
+                "attack_kda": 1.16,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 170.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.99,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sova": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.56,
+                "defense_kda": 0.94,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 181.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.43,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Breach": {
+                "total_rounds_played": 99,
+                "attack_kda": 1.0,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 175.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.39,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.91,
+                "defense_kda": 0.18,
+                "avg_kills_per_round": 0.22,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 84.61,
+                "avg_revives_per_round": 0.09,
+                "avg_damage_dealt_per_round": 55.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.3,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 206.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.39,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

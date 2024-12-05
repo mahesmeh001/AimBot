@@ -1,0 +1,78 @@
+{
+    "handle": "consu",
+    "date": "2023-02-17T18:50:21",
+    "status": "active",
+    "first_name": "Consuelo",
+    "last_name": "Rivas",
+    "home_team_name": "KR\u00dc Esports",
+    "home_team_acronym": "KRU",
+    "home_league_name": "game_changers_latam",
+    "region": "LATAM",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 98,
+        "attack_kda": 1.88,
+        "defense_kda": 0.98,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 196.03,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 105.15,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.44,
+                "defense_kda": 1.05,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 158.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.34,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Viper": {
+                "total_rounds_played": 24,
+                "attack_kda": 3.67,
+                "defense_kda": 1.17,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 253.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.7,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.25,
+                "defense_kda": 0.55,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 179.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.6,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sage": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.17,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 210.2,
+                "avg_revives_per_round": 0.05,
+                "avg_damage_dealt_per_round": 107.26,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.3
+            }
+        }
+    }
+}

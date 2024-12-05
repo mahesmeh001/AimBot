@@ -1,0 +1,40 @@
+{
+    "handle": "YuChEn",
+    "date": "2024-06-20T10:44:24",
+    "status": "active",
+    "first_name": "Cai",
+    "last_name": "He",
+    "home_team_name": "DRAGON RANGER GAMING",
+    "home_team_acronym": "DRG",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 59,
+        "attack_kda": 1.33,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 190.64,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.37,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.33,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 190.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.37,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

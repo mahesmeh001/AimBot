@@ -1,0 +1,78 @@
+{
+    "handle": "ALLR1GHTT",
+    "date": "2024-05-21T10:57:44",
+    "status": "active",
+    "first_name": "Thachatach ",
+    "last_name": "Lhappikultong",
+    "home_team_name": "XOXO-01",
+    "home_team_acronym": "XOXO",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 258,
+        "attack_kda": 0.99,
+        "defense_kda": 1.09,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.26,
+        "avg_combat_score_per_round": 158.97,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 85.52,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 157,
+                "attack_kda": 1.06,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 181.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.52,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Harbor": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.45,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.19,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 73.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 47.41,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.08,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 144.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.11,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Sova": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.0,
+                "defense_kda": 0.42,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 88.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 54.67,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "handle": "BcJ",
+    "date": "2024-01-09T21:12:48",
+    "status": "active",
+    "first_name": "Brendan",
+    "last_name": "Jensen",
+    "home_team_name": "Evil Geniuses",
+    "home_team_acronym": "EG",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 531,
+        "attack_kda": 1.44,
+        "defense_kda": 1.71,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.41,
+        "avg_combat_score_per_round": 194.62,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.76,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.56,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.59,
+                "avg_combat_score_per_round": 166.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.33,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 230,
+                "attack_kda": 1.43,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 197.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.88,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Astra": {
+                "total_rounds_played": 68,
+                "attack_kda": 0.94,
+                "defense_kda": 3.54,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.49,
+                "avg_combat_score_per_round": 183.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.88,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.28,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 179.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.98,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Fade": {
+                "total_rounds_played": 131,
+                "attack_kda": 2.02,
+                "defense_kda": 1.51,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 205.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.94,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Sova": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.33,
+                "defense_kda": 2.22,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 208.83,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.14,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

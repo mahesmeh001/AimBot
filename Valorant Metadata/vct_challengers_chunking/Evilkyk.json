@@ -1,0 +1,76 @@
+{
+    "handle": "Evilkyk",
+    "date": "2024-02-09T12:07:55",
+    "status": "active",
+    "first_name": "Arrais",
+    "last_name": "Kayke",
+    "home_team_name": "Galaxy Carrots",
+    "home_team_acronym": "GC",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1151,
+        "attack_kda": 1.28,
+        "defense_kda": 1.34,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 159.8,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 86.45,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 605,
+                "attack_kda": 1.21,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 171.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.09,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Fade": {
+                "total_rounds_played": 241,
+                "attack_kda": 1.32,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 147.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.98,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Skye": {
+                "total_rounds_played": 270,
+                "attack_kda": 1.43,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 149.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.04,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Gekko": {
+                "total_rounds_played": 35,
+                "attack_kda": 1.17,
+                "defense_kda": 0.53,
+                "avg_kills_per_round": 0.49,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 131.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.18,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

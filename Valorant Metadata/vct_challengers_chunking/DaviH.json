@@ -1,0 +1,90 @@
+{
+    "handle": "DaviH",
+    "date": "2024-01-05T10:05:50",
+    "status": "active",
+    "first_name": null,
+    "last_name": "SAW",
+    "home_team_name": "SAW",
+    "home_team_acronym": "SAW",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 729,
+        "attack_kda": 2.05,
+        "defense_kda": 2.61,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 228.91,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.88,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 278,
+                "attack_kda": 1.85,
+                "defense_kda": 2.83,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.34,
+                "avg_combat_score_per_round": 230.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.89,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Astra": {
+                "total_rounds_played": 273,
+                "attack_kda": 2.12,
+                "defense_kda": 2.26,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 222.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.05,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 145,
+                "attack_kda": 2.69,
+                "defense_kda": 2.9,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 240.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.59,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 17,
+                "attack_kda": 2.0,
+                "defense_kda": 4.75,
+                "avg_kills_per_round": 1.29,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 323.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.73,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Sova": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.88,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.38,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 117.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.29,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

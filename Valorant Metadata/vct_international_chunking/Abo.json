@@ -1,0 +1,94 @@
+{
+    "handle": "Abo",
+    "date": "2024-06-20T11:44:16",
+    "status": "active",
+    "first_name": "Bohao",
+    "last_name": "Han",
+    "home_team_name": "TITAN ESPORTS CLUB",
+    "home_team_acronym": "TEC",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 257,
+        "attack_kda": 1.3,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.82,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 223.84,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.45,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 107,
+                "attack_kda": 0.72,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 195.04,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.84,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.25
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 17,
+                "attack_kda": 3.2,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 1.29,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 341.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 172.62,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.38,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.88,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 229.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.53,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Cypher": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.25,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 255.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.71,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 23,
+                "attack_kda": 3.14,
+                "defense_kda": 0.45,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 221.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.67,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

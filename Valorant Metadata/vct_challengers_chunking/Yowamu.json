@@ -1,0 +1,52 @@
+{
+    "handle": "Yowamu",
+    "date": "2024-01-25T09:35:46",
+    "status": "active",
+    "first_name": "Ryohei",
+    "last_name": "Sato",
+    "home_team_name": "Northeption",
+    "home_team_acronym": "NRTH",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 418,
+        "attack_kda": 1.16,
+        "defense_kda": 1.27,
+        "avg_kills_per_round": 0.51,
+        "avg_assists_per_round": 0.34,
+        "avg_combat_score_per_round": 148.57,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 79.25,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 355,
+                "attack_kda": 1.16,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 144.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.69,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Viper": {
+                "total_rounds_played": 63,
+                "attack_kda": 1.16,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 171.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.29,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "handle": "Splash",
+    "date": "2024-07-09T16:13:25",
+    "status": "active",
+    "first_name": "Moses Christophe Jonathan",
+    "last_name": "Jonathan",
+    "home_team_name": "NEXGA",
+    "home_team_acronym": "NXGA",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 147,
+        "attack_kda": 1.43,
+        "defense_kda": 1.78,
+        "avg_kills_per_round": 0.97,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 276.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 141.41,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 45,
+                "attack_kda": 1.7,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 1.11,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 300.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.91,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.31,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 265.37,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 141.63,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

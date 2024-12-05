@@ -1,0 +1,78 @@
+{
+    "handle": "mike3",
+    "date": "2024-05-14T20:21:56",
+    "status": "active",
+    "first_name": "Michael",
+    "last_name": "James Rieger",
+    "home_team_name": "Blinn",
+    "home_team_acronym": "BLIN",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 537,
+        "attack_kda": 1.49,
+        "defense_kda": 1.41,
+        "avg_kills_per_round": 0.75,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 208.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 104.85,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 134,
+                "attack_kda": 1.93,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 235.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.5,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 200,
+                "attack_kda": 1.22,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 194.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.41,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.04
+            },
+            "Chamber": {
+                "total_rounds_played": 105,
+                "attack_kda": 1.61,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 195.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.08,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Killjoy": {
+                "total_rounds_played": 98,
+                "attack_kda": 1.28,
+                "defense_kda": 1.66,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 215.94,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.28,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

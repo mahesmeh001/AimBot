@@ -1,0 +1,52 @@
+{
+    "handle": "Invoke",
+    "date": "2023-04-26T09:53:58",
+    "status": "active",
+    "first_name": "Timothy",
+    "last_name": "Chua",
+    "home_team_name": "BIKINI BOTTOM PRATAHOUSE",
+    "home_team_acronym": "BBP",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 183,
+        "attack_kda": 0.91,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 207.21,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.66,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 135,
+                "attack_kda": 1.0,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 223.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.25,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 48,
+                "attack_kda": 0.7,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 161.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.12,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.21
+            }
+        }
+    }
+}

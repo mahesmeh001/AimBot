@@ -1,0 +1,76 @@
+{
+    "handle": "LuoK1ng",
+    "date": "2024-06-20T11:39:58",
+    "status": "active",
+    "first_name": "Zhanpeng",
+    "last_name": "Zhang",
+    "home_team_name": "TYLOO GAMING",
+    "home_team_acronym": "TYL",
+    "home_league_name": "vct_china",
+    "region": "CN",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 705,
+        "attack_kda": 1.66,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 190.54,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.9,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 85,
+                "attack_kda": 1.52,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 205.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.48,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Omen": {
+                "total_rounds_played": 566,
+                "attack_kda": 1.66,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 181.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.84,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Viper": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.31,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 263.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.86,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Astra": {
+                "total_rounds_played": 18,
+                "attack_kda": 2.86,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.61,
+                "avg_combat_score_per_round": 246.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.59,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

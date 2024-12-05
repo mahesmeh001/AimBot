@@ -1,0 +1,92 @@
+{
+    "handle": "Chloe ",
+    "date": "2023-10-20T05:32:46",
+    "status": "active",
+    "first_name": "ZHI-XUAN",
+    "last_name": "LIN",
+    "home_team_name": "Chosen Clique Gaming",
+    "home_team_acronym": "CCG",
+    "home_league_name": "game_changers_east_asia",
+    "region": "INTL",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 196,
+        "attack_kda": 1.9,
+        "defense_kda": 1.2,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 179.45,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 96.56,
+        "avg_first_bloods_per_round": 0.02,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 119,
+                "attack_kda": 2.11,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 179.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.91,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Viper": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.0,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 134.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.98,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Astra": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.33,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 202.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.8,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 19,
+                "attack_kda": 2.5,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.74,
+                "avg_combat_score_per_round": 173.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.04,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.29,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 205.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.88,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            }
+        }
+    }
+}

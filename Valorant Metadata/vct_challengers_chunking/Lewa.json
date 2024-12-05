@@ -1,0 +1,78 @@
+{
+    "handle": "Lewa",
+    "date": "2024-05-17T15:39:21",
+    "status": "active",
+    "first_name": "Marcelo Justino",
+    "last_name": "Xavier",
+    "home_team_name": "SAGAZ",
+    "home_team_acronym": "SGZ",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 391,
+        "attack_kda": 1.3,
+        "defense_kda": 1.22,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 194.92,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.63,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 135,
+                "attack_kda": 1.74,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 214.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.5,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Chamber": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.0,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 232.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.26,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Killjoy": {
+                "total_rounds_played": 89,
+                "attack_kda": 0.97,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 187.63,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.9,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 146,
+                "attack_kda": 1.23,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 176.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.34,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

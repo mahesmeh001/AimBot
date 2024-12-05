@@ -1,0 +1,54 @@
+{
+    "handle": "Jerry17",
+    "date": "2023-02-03T09:11:53",
+    "status": "active",
+    "first_name": "T\u00e2n Th\u00e0nh",
+    "last_name": "\u0110\u1ed7",
+    "home_team_name": "VICTORY",
+    "home_team_acronym": "VIC",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 35,
+        "attack_kda": 1.14,
+        "defense_kda": 0.87,
+        "avg_kills_per_round": 0.74,
+        "avg_assists_per_round": 0.09,
+        "avg_combat_score_per_round": 203.0,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 101.96,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.0,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.38,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 97.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 51.51,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.6,
+                "defense_kda": 0.83,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 291.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 144.44,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

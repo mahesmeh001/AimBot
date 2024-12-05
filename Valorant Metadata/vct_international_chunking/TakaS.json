@@ -1,0 +1,104 @@
+{
+    "handle": "TakaS",
+    "date": "2024-04-10T08:32:15",
+    "status": "active",
+    "first_name": "Jonathan",
+    "last_name": "Paupard",
+    "home_team_name": "Gentle Mates",
+    "home_team_acronym": "M8",
+    "home_league_name": "vct_emea",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 566,
+        "attack_kda": 1.04,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.22,
+        "avg_combat_score_per_round": 205.45,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.26,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 100,
+                "attack_kda": 1.05,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 237.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.12,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Yoru": {
+                "total_rounds_played": 198,
+                "attack_kda": 1.19,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 218.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.91,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Neon": {
+                "total_rounds_played": 133,
+                "attack_kda": 1.06,
+                "defense_kda": 1.39,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 198.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.51,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Jett": {
+                "total_rounds_played": 59,
+                "attack_kda": 0.69,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 155.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.59,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.29
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 35,
+                "attack_kda": 1.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 148.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.65,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.76,
+                "defense_kda": 2.89,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 208.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.01,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.24
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "handle": "HANN",
+    "date": "2024-05-21T10:20:53",
+    "status": "active",
+    "first_name": "Dongho",
+    "last_name": "Kim",
+    "home_team_name": "Vesta Esports Crew Daejeon",
+    "home_team_acronym": "VEC",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1331,
+        "attack_kda": 1.27,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.85,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 242.56,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 124.51,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 860,
+                "attack_kda": 1.23,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 247.01,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.45,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Neon": {
+                "total_rounds_played": 56,
+                "attack_kda": 1.32,
+                "defense_kda": 0.62,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 164.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.39,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Raze": {
+                "total_rounds_played": 228,
+                "attack_kda": 1.31,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 243.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.81,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Reyna": {
+                "total_rounds_played": 36,
+                "attack_kda": 1.27,
+                "defense_kda": 0.72,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 204.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.52,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.47,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.98,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 270.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 130.95,
+                "avg_first_bloods_per_round": 0.28,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.56,
+                "defense_kda": 2.2,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.57,
+                "avg_combat_score_per_round": 233.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.54,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

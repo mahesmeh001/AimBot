@@ -1,0 +1,92 @@
+{
+    "handle": "JoshF",
+    "date": "2024-01-24T18:48:30",
+    "status": "active",
+    "first_name": "Joshua Paul",
+    "last_name": "Flores",
+    "home_team_name": "ZOL Esports",
+    "home_team_acronym": "ZOL",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 243,
+        "attack_kda": 0.9,
+        "defense_kda": 1.14,
+        "avg_kills_per_round": 0.55,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 153.12,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 81.76,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 139,
+                "attack_kda": 0.84,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 159.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.16,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 47,
+                "attack_kda": 0.82,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 147.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.8,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 15,
+                "attack_kda": 0.0,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 147.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 70.95,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Viper": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.83,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 159.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.92,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Omen": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.0,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 117.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 57.85,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.17
+            }
+        }
+    }
+}

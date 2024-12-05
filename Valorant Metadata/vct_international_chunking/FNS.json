@@ -1,0 +1,78 @@
+{
+    "handle": "FNS",
+    "date": "2024-06-17T07:04:27",
+    "status": "active",
+    "first_name": "MAXIMILLION",
+    "last_name": "MAZANOV",
+    "home_team_name": "NRG",
+    "home_team_acronym": "NRG",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 215,
+        "attack_kda": 1.18,
+        "defense_kda": 0.99,
+        "avg_kills_per_round": 0.54,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 158.85,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 86.05,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Deadlock": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.67,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.2,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 69.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 40.84,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Cypher": {
+                "total_rounds_played": 151,
+                "attack_kda": 1.2,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 161.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 85.14,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Killjoy": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.62,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 227.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.69,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.0,
+                "defense_kda": 0.55,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 150.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.53,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "handle": "4kxxx",
+    "date": "2024-01-22T14:47:30",
+    "status": "active",
+    "first_name": "Jian hao",
+    "last_name": "Liao",
+    "home_team_name": "ROA Esport",
+    "home_team_acronym": "ROA",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 371,
+        "attack_kda": 1.26,
+        "defense_kda": 1.23,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 221.17,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.68,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 349,
+                "attack_kda": 1.21,
+                "defense_kda": 1.18,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 214.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.01,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Neon": {
+                "total_rounds_played": 22,
+                "attack_kda": 2.14,
+                "defense_kda": 2.12,
+                "avg_kills_per_round": 1.05,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 322.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 173.93,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

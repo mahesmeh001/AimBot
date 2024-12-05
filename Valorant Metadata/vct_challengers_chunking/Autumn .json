@@ -1,0 +1,54 @@
+{
+    "handle": "Autumn ",
+    "date": "2024-02-05T11:13:29",
+    "status": "active",
+    "first_name": "Kale",
+    "last_name": "Dunne",
+    "home_team_name": "Gods Reign",
+    "home_team_acronym": "GDR",
+    "home_league_name": "challengers_south_asia",
+    "region": "INTL",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 723,
+        "attack_kda": 1.28,
+        "defense_kda": 1.62,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.11,
+        "avg_combat_score_per_round": 235.19,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.55,
+        "avg_first_bloods_per_round": 0.23,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 703,
+                "attack_kda": 1.27,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 235.81,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.79,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.75,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 213.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.12,
+                "avg_first_bloods_per_round": 0.4,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

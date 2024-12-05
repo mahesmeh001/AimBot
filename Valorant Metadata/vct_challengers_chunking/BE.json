@@ -1,0 +1,90 @@
+{
+    "handle": "BE",
+    "date": "2024-05-22T13:18:00",
+    "status": "active",
+    "first_name": "Bat-Enkh",
+    "last_name": "Tsedendamba",
+    "home_team_name": "Team Kobolds",
+    "home_team_acronym": "KBLD",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 593,
+        "attack_kda": 1.32,
+        "defense_kda": 1.11,
+        "avg_kills_per_round": 0.6,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 164.79,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.31,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 132,
+                "attack_kda": 1.28,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 181.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.85,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Viper": {
+                "total_rounds_played": 26,
+                "attack_kda": 0.7,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 134.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.12,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 104,
+                "attack_kda": 0.91,
+                "defense_kda": 0.93,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 144.19,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.58,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Skye": {
+                "total_rounds_played": 287,
+                "attack_kda": 1.66,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 171.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.86,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Gekko": {
+                "total_rounds_played": 44,
+                "attack_kda": 1.1,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 140.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.83,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "Inf",
+    "date": "2024-02-13T18:11:35",
+    "status": "active",
+    "first_name": "Venneth Tay",
+    "last_name": "Kai Yi",
+    "home_team_name": "Ninjas in Germany",
+    "home_team_acronym": "NG",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 165,
+        "attack_kda": 0.73,
+        "defense_kda": 1.12,
+        "avg_kills_per_round": 0.5,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 149.88,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.32,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 68,
+                "attack_kda": 0.76,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 163.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.7,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Cypher": {
+                "total_rounds_played": 58,
+                "attack_kda": 0.72,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 140.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.21,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.57,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 110.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.52,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Skye": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.8,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 178.59,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.31,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

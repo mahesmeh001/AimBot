@@ -1,0 +1,64 @@
+{
+    "handle": "Aace",
+    "date": "2024-05-16T09:09:12",
+    "status": "active",
+    "first_name": "Sota",
+    "last_name": "Ito",
+    "home_team_name": "RIDDLE ORDER",
+    "home_team_acronym": "RID",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 448,
+        "attack_kda": 1.56,
+        "defense_kda": 1.65,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 208.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 107.4,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 242,
+                "attack_kda": 1.34,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 195.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.0,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 168,
+                "attack_kda": 1.91,
+                "defense_kda": 2.22,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 243.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.77,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.5,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.42,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 131.21,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.76,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

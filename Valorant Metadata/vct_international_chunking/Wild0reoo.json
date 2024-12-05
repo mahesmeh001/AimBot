@@ -1,0 +1,78 @@
+{
+    "handle": "Wild0reoo",
+    "date": "2024-05-28T10:26:37",
+    "status": "active",
+    "first_name": "Brheyanne Christ",
+    "last_name": "Reyes",
+    "home_team_name": "Team Secret",
+    "home_team_acronym": "TSC",
+    "home_league_name": "champions",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 295,
+        "attack_kda": 1.42,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 198.59,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.41,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 71,
+                "attack_kda": 1.43,
+                "defense_kda": 1.32,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 208.39,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.04,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Cypher": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.11,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 176.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.84,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.08
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 111,
+                "attack_kda": 1.52,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 208.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.86,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Gekko": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.78,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 204.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 139.22,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

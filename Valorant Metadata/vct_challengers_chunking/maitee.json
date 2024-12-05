@@ -1,0 +1,104 @@
+{
+    "handle": "maitee",
+    "date": "2023-03-17T10:32:09",
+    "status": "active",
+    "first_name": "Teerachot",
+    "last_name": "Kittimankong",
+    "home_team_name": "CRIT Esports",
+    "home_team_acronym": "CRIT",
+    "home_league_name": "challengers_sea_th",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 404,
+        "attack_kda": 1.28,
+        "defense_kda": 1.29,
+        "avg_kills_per_round": 0.61,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 175.26,
+        "avg_revives_per_round": 0.02,
+        "avg_damage_dealt_per_round": 95.36,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 164,
+                "attack_kda": 1.04,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 167.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.49,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.03
+            },
+            "Skye": {
+                "total_rounds_played": 72,
+                "attack_kda": 1.37,
+                "defense_kda": 2.22,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 216.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.78,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "KAY/O": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.43,
+                "defense_kda": 2.67,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 129.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 63.77,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.69,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 174.18,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 92.18,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.56,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.48,
+                "avg_combat_score_per_round": 159.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.65,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Astra": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.29,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 166.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 79.21,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

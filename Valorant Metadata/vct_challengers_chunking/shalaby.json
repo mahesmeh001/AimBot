@@ -1,0 +1,76 @@
+{
+    "handle": "shalaby",
+    "date": "2024-03-25T12:28:54",
+    "status": "active",
+    "first_name": "Mohamed",
+    "last_name": "Shalaby",
+    "home_team_name": "Outplayed",
+    "home_team_acronym": "OP",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 270,
+        "attack_kda": 1.06,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 194.39,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.66,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.22
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 189,
+                "attack_kda": 1.01,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 206.16,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.41,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Phoenix": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.82,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 122.58,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.67,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.29
+            },
+            "Jett": {
+                "total_rounds_played": 44,
+                "attack_kda": 0.94,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 160.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.97,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Neon": {
+                "total_rounds_played": 13,
+                "attack_kda": 2.29,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 269.92,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 139.93,
+                "avg_first_bloods_per_round": 0.31,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

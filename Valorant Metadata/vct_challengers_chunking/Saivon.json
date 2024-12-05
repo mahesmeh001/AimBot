@@ -1,0 +1,52 @@
+{
+    "handle": "Saivon",
+    "date": "2023-01-16T14:09:31",
+    "status": "active",
+    "first_name": "Matthew ",
+    "last_name": "Susanto",
+    "home_team_name": "HeroZero",
+    "home_team_acronym": "HZE",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 142,
+        "attack_kda": 0.81,
+        "defense_kda": 0.67,
+        "avg_kills_per_round": 0.53,
+        "avg_assists_per_round": 0.13,
+        "avg_combat_score_per_round": 156.51,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 89.62,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.05
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 108,
+                "attack_kda": 0.8,
+                "defense_kda": 0.73,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 154.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.93,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "KAY/O": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.85,
+                "defense_kda": 0.44,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 164.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.99,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

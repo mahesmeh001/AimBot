@@ -1,0 +1,102 @@
+{
+    "handle": "SFVV",
+    "date": "2024-05-22T12:56:31",
+    "status": "active",
+    "first_name": "Sun-Fan",
+    "last_name": "Wang ",
+    "home_team_name": "ROA Esport",
+    "home_team_acronym": "ROA",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 230,
+        "attack_kda": 1.52,
+        "defense_kda": 1.94,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.45,
+        "avg_combat_score_per_round": 216.99,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.62,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 68,
+                "attack_kda": 2.14,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.97,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 271.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 138.49,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.57,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.42,
+                "avg_combat_score_per_round": 157.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.95,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.96,
+                "defense_kda": 1.88,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 209.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.05,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "KAY/O": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.94,
+                "defense_kda": 1.92,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.7,
+                "avg_combat_score_per_round": 194.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.3,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Skye": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.2,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 225.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.8,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Breach": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.86,
+                "defense_kda": 2.43,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.58,
+                "avg_combat_score_per_round": 170.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.27,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

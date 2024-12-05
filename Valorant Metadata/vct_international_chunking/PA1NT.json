@@ -1,0 +1,52 @@
+{
+    "handle": "PA1NT",
+    "date": "2024-06-21T23:50:00",
+    "status": "active",
+    "first_name": "Amarri",
+    "last_name": "Lee Andre Peak",
+    "home_team_name": "MIBR",
+    "home_team_acronym": "MIBR",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 42,
+        "attack_kda": 0.71,
+        "defense_kda": 1.13,
+        "avg_kills_per_round": 0.48,
+        "avg_assists_per_round": 0.29,
+        "avg_combat_score_per_round": 141.43,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 81.97,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.58,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 133.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.05,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "ISO": {
+                "total_rounds_played": 22,
+                "attack_kda": 0.89,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 148.23,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.26,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.18
+            }
+        }
+    }
+}

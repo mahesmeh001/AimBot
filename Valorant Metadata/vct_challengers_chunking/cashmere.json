@@ -1,0 +1,80 @@
+{
+    "handle": "cashmere",
+    "date": "2024-01-29T01:13:49",
+    "status": "active",
+    "first_name": "Sendi",
+    "last_name": "Santos",
+    "home_team_name": "The Hero Deta",
+    "home_team_acronym": "THE",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 395,
+        "attack_kda": 1.74,
+        "defense_kda": 1.35,
+        "avg_kills_per_round": 0.66,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 189.33,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 99.28,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.04
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 189,
+                "attack_kda": 1.94,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 180.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.25,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 42,
+                "attack_kda": 1.06,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 200.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.9,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 87,
+                "attack_kda": 1.69,
+                "defense_kda": 1.36,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 178.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.91,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 77,
+                "attack_kda": 1.8,
+                "defense_kda": 2.17,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 217.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.45,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.03
+            }
+        }
+    }
+}

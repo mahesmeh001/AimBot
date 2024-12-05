@@ -1,0 +1,52 @@
+{
+    "handle": "Iceyyy",
+    "date": "2024-05-12T15:46:55",
+    "status": "active",
+    "first_name": "Lionel",
+    "last_name": "Hao",
+    "home_team_name": "DIS Esports",
+    "home_team_acronym": "DIS",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 139,
+        "attack_kda": 1.38,
+        "defense_kda": 1.0,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 227.24,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.54,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 78,
+                "attack_kda": 1.59,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 251.78,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 137.24,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Jett": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.05,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 195.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.34,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.26
+            }
+        }
+    }
+}

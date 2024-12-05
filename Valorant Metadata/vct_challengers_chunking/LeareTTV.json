@@ -1,0 +1,90 @@
+{
+    "handle": "LeareTTV",
+    "date": "2024-05-21T11:38:48",
+    "status": "active",
+    "first_name": "Fletcher",
+    "last_name": "Brigden-Knight",
+    "home_team_name": "Impulse GW",
+    "home_team_acronym": "IGW",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 601,
+        "attack_kda": 1.32,
+        "defense_kda": 1.86,
+        "avg_kills_per_round": 1.0,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 279.65,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 138.22,
+        "avg_first_bloods_per_round": 0.23,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 465,
+                "attack_kda": 1.27,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 276.34,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 135.95,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Phoenix": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.7,
+                "defense_kda": 2.27,
+                "avg_kills_per_round": 1.18,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 345.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 167.89,
+                "avg_first_bloods_per_round": 0.32,
+                "avg_first_deaths_per_round": 0.25
+            },
+            "Raze": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.67,
+                "defense_kda": 1.96,
+                "avg_kills_per_round": 1.1,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 311.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 160.36,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Neon": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.0,
+                "defense_kda": 1.86,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 252.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.89,
+                "avg_first_bloods_per_round": 0.3,
+                "avg_first_deaths_per_round": 0.3
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 34,
+                "attack_kda": 1.58,
+                "defense_kda": 2.1,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 240.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.37,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

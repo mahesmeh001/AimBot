@@ -1,0 +1,78 @@
+{
+    "handle": "Sevy",
+    "date": "2024-02-12T07:45:57",
+    "status": "active",
+    "first_name": "Yves Benlor",
+    "last_name": "Villarta",
+    "home_team_name": "AIM PH",
+    "home_team_acronym": "AIMP",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 308,
+        "attack_kda": 1.06,
+        "defense_kda": 0.98,
+        "avg_kills_per_round": 0.53,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 154.62,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 81.94,
+        "avg_first_bloods_per_round": 0.03,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 220,
+                "attack_kda": 1.24,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 156.2,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.58,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 31,
+                "attack_kda": 0.6,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.39,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 129.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 40,
+                "attack_kda": 0.8,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 169.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.8,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 144.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.27,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

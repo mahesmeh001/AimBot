@@ -1,0 +1,104 @@
+{
+    "handle": "sixelaoen",
+    "date": "2024-01-29T01:17:42",
+    "status": "active",
+    "first_name": "Darren ",
+    "last_name": "Neoalexis Wiryadinata",
+    "home_team_name": "5 Clown",
+    "home_team_acronym": "CLWN",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 282,
+        "attack_kda": 0.88,
+        "defense_kda": 1.06,
+        "avg_kills_per_round": 0.53,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 156.96,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 82.93,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.13,
+                "defense_kda": 1.24,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 177.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.22,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Killjoy": {
+                "total_rounds_played": 37,
+                "attack_kda": 0.61,
+                "defense_kda": 0.42,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 108.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.16,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.03
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 73,
+                "attack_kda": 1.14,
+                "defense_kda": 1.08,
+                "avg_kills_per_round": 0.48,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 159.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 86.46,
+                "avg_first_bloods_per_round": 0.01,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Gekko": {
+                "total_rounds_played": 33,
+                "attack_kda": 0.33,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 145.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 71.63,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 36,
+                "attack_kda": 0.7,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 199.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.29,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Harbor": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.36,
+                "defense_kda": 0.6,
+                "avg_kills_per_round": 0.32,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 90.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 47.21,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "KnightVoice",
+    "date": "2023-01-16T16:03:34",
+    "status": "active",
+    "first_name": "Hubert",
+    "last_name": "Lorenc",
+    "home_team_name": "HMBLE",
+    "home_team_acronym": "HMB",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 593,
+        "attack_kda": 1.32,
+        "defense_kda": 1.48,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 181.77,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.86,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 293,
+                "attack_kda": 1.35,
+                "defense_kda": 1.46,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 173.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 88.43,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Sova": {
+                "total_rounds_played": 234,
+                "attack_kda": 1.39,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 195.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.55,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Gekko": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.27,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 137.18,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.45,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.4,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 125.65,
+                "avg_revives_per_round": 0.06,
+                "avg_damage_dealt_per_round": 58.94,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Killjoy": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.83,
+                "defense_kda": 1.78,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 248.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.67,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

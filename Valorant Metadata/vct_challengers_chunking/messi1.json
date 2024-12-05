@@ -1,0 +1,52 @@
+{
+    "handle": "messi1",
+    "date": "2024-02-07T07:19:37",
+    "status": "active",
+    "first_name": "Gia Luc",
+    "last_name": "Ngo",
+    "home_team_name": "Dominus Esports",
+    "home_team_acronym": "DOMS",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 86,
+        "attack_kda": 1.27,
+        "defense_kda": 1.26,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 202.29,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 118.21,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 62,
+                "attack_kda": 1.41,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 223.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.29,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Reyna": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.88,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 147.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.83,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

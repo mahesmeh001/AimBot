@@ -1,0 +1,52 @@
+{
+    "handle": "ayman",
+    "date": "2024-02-13T18:21:15",
+    "status": "active",
+    "first_name": "Raja",
+    "last_name": "Ayman",
+    "home_team_name": "Blitz Esports",
+    "home_team_acronym": "BZE",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 135,
+        "attack_kda": 0.97,
+        "defense_kda": 1.36,
+        "avg_kills_per_round": 0.72,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 209.77,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 110.69,
+        "avg_first_bloods_per_round": 0.13,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.06,
+                "defense_kda": 1.48,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 231.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.39,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Raze": {
+                "total_rounds_played": 33,
+                "attack_kda": 0.76,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 142.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.69,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.45
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "Tisora",
+    "date": "2024-05-17T15:39:21",
+    "status": "active",
+    "first_name": "Kau\u00e3",
+    "last_name": "Martins",
+    "home_team_name": "SAGAZ",
+    "home_team_acronym": "SGZ",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1599,
+        "attack_kda": 1.13,
+        "defense_kda": 1.43,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 231.12,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 121.47,
+        "avg_first_bloods_per_round": 0.19,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 922,
+                "attack_kda": 1.16,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 235.48,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.39,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Raze": {
+                "total_rounds_played": 584,
+                "attack_kda": 1.16,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 230.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.61,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Neon": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.33,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 207.28,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 129.83,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Yoru": {
+                "total_rounds_played": 45,
+                "attack_kda": 0.78,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 176.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.51,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 30,
+                "attack_kda": 0.6,
+                "defense_kda": 2.14,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 208.3,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.49,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

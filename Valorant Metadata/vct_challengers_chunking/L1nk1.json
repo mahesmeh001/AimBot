@@ -1,0 +1,52 @@
+{
+    "handle": "L1nk1",
+    "date": "2024-02-22T08:26:47",
+    "status": "archived",
+    "first_name": "zhi jin ",
+    "last_name": "Lin ",
+    "home_team_name": "yuanyoyin",
+    "home_team_acronym": "YYY",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 56,
+        "attack_kda": 0.42,
+        "defense_kda": 0.96,
+        "avg_kills_per_round": 0.48,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 150.91,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 83.79,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.36,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.33,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 111.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.82,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Cypher": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.6,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 240.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.14,
+                "avg_first_bloods_per_round": 0.29,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

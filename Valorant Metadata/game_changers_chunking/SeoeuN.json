@@ -1,0 +1,52 @@
+{
+    "handle": "SeoeuN",
+    "date": "2024-07-08T03:08:46",
+    "status": "active",
+    "first_name": "Seoeun",
+    "last_name": "Jung",
+    "home_team_name": "DRX Changers",
+    "home_team_acronym": "DRX",
+    "home_league_name": "game_changers_jpn",
+    "region": "JP",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 216,
+        "attack_kda": 1.19,
+        "defense_kda": 1.87,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 193.86,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 96.43,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 190,
+                "attack_kda": 1.11,
+                "defense_kda": 1.91,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 194.15,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.27,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Viper": {
+                "total_rounds_played": 26,
+                "attack_kda": 1.78,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.46,
+                "avg_combat_score_per_round": 191.69,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.14,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

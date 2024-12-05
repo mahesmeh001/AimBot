@@ -1,0 +1,102 @@
+{
+    "handle": "Kessariya",
+    "date": "2023-03-27T10:23:48",
+    "status": "active",
+    "first_name": "Cho Ming",
+    "last_name": "Liu",
+    "home_team_name": "UTT Esports",
+    "home_team_acronym": "UTT",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 522,
+        "attack_kda": 1.04,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 222.64,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.68,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.19
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 257,
+                "attack_kda": 0.92,
+                "defense_kda": 1.52,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 222.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.14,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Neon": {
+                "total_rounds_played": 108,
+                "attack_kda": 1.14,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 237.75,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.05,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 81,
+                "attack_kda": 1.28,
+                "defense_kda": 1.29,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 229.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.42,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Yoru": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.79,
+                "defense_kda": 0.9,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 151.49,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.63,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Phoenix": {
+                "total_rounds_played": 16,
+                "attack_kda": 1.3,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 1.12,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 318.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 156.76,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 21,
+                "attack_kda": 1.62,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 172.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.71,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

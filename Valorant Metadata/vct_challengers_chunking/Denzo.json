@@ -1,0 +1,102 @@
+{
+    "handle": "Denzo",
+    "date": "2023-01-17T07:40:18",
+    "status": "active",
+    "first_name": "Denniz",
+    "last_name": "\u00d6zden",
+    "home_team_name": "HMBLE",
+    "home_team_acronym": "HMB",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 615,
+        "attack_kda": 1.18,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 233.05,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 121.74,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Yoru": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.64,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.55,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 174.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.72,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Jett": {
+                "total_rounds_played": 403,
+                "attack_kda": 1.11,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.16,
+                "avg_combat_score_per_round": 235.14,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.35,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 69,
+                "attack_kda": 1.18,
+                "defense_kda": 1.15,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 242.72,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 128.98,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Phoenix": {
+                "total_rounds_played": 37,
+                "attack_kda": 1.57,
+                "defense_kda": 1.83,
+                "avg_kills_per_round": 0.95,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 276.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.78,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Neon": {
+                "total_rounds_played": 65,
+                "attack_kda": 1.24,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 210.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 106.29,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.14
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 21,
+                "attack_kda": 3.25,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 210.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.07,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

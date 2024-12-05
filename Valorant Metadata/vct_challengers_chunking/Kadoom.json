@@ -1,0 +1,102 @@
+{
+    "handle": "Kadoom",
+    "date": "2022-08-03T05:56:08",
+    "status": "active",
+    "first_name": "Kantapong ",
+    "last_name": "Kingthong",
+    "home_team_name": "Made In Thailand",
+    "home_team_acronym": "MITH",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1955,
+        "attack_kda": 1.33,
+        "defense_kda": 1.66,
+        "avg_kills_per_round": 0.9,
+        "avg_assists_per_round": 0.21,
+        "avg_combat_score_per_round": 260.56,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 135.32,
+        "avg_first_bloods_per_round": 0.22,
+        "avg_first_deaths_per_round": 0.18
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 819,
+                "attack_kda": 1.42,
+                "defense_kda": 1.7,
+                "avg_kills_per_round": 0.96,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 276.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 140.57,
+                "avg_first_bloods_per_round": 0.24,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Raze": {
+                "total_rounds_played": 848,
+                "attack_kda": 1.26,
+                "defense_kda": 1.56,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 249.9,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.74,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Phoenix": {
+                "total_rounds_played": 57,
+                "attack_kda": 1.12,
+                "defense_kda": 2.55,
+                "avg_kills_per_round": 1.12,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 305.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 146.76,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Neon": {
+                "total_rounds_played": 192,
+                "attack_kda": 1.44,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.78,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 239.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 127.84,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Reyna": {
+                "total_rounds_played": 23,
+                "attack_kda": 0.1,
+                "defense_kda": 2.29,
+                "avg_kills_per_round": 0.65,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 169.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.27,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.26
+            }
+        },
+        "Controller": {
+            "Brimstone": {
+                "total_rounds_played": 16,
+                "attack_kda": 2.33,
+                "defense_kda": 4.0,
+                "avg_kills_per_round": 1.06,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 251.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 126.69,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

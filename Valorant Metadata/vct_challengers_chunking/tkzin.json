@@ -1,0 +1,104 @@
+{
+    "handle": "tkzin",
+    "date": "2024-05-10T09:01:56",
+    "status": "active",
+    "first_name": "Enzo",
+    "last_name": "Guimar\u00e3es",
+    "home_team_name": "Furious Gaming",
+    "home_team_acronym": "FG",
+    "home_league_name": "challengers_latam_s",
+    "region": "LAS",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 317,
+        "attack_kda": 1.32,
+        "defense_kda": 0.86,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.24,
+        "avg_combat_score_per_round": 172.79,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 87.07,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.15
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 101,
+                "attack_kda": 1.44,
+                "defense_kda": 0.82,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 211.65,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 103.15,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Jett": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.32,
+                "defense_kda": 1.27,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 218.07,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.08,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 51,
+                "attack_kda": 1.39,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.53,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 154.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 75.87,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "KAY/O": {
+                "total_rounds_played": 65,
+                "attack_kda": 1.19,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 129.09,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 66.55,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Sova": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.14,
+                "defense_kda": 0.89,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 123.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.29,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 30,
+                "attack_kda": 1.2,
+                "defense_kda": 0.44,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 138.1,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 76.74,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.23
+            }
+        }
+    }
+}

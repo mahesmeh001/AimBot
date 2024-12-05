@@ -1,0 +1,90 @@
+{
+    "handle": "Ptf0x",
+    "date": "2024-01-05T10:40:13",
+    "status": "active",
+    "first_name": null,
+    "last_name": "PTH",
+    "home_team_name": "FTW Le\u00e7a FC",
+    "home_team_acronym": "FXL",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 540,
+        "attack_kda": 1.09,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.58,
+        "avg_assists_per_round": 0.31,
+        "avg_combat_score_per_round": 173.47,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.76,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 217,
+                "attack_kda": 1.43,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 180.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.91,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.08
+            },
+            "Viper": {
+                "total_rounds_played": 206,
+                "attack_kda": 0.96,
+                "defense_kda": 1.34,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 174.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.88,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Astra": {
+                "total_rounds_played": 20,
+                "attack_kda": 1.17,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 181.45,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.37,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.67,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 158.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.24,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.35
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 80,
+                "attack_kda": 0.62,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.51,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 154.51,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.96,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

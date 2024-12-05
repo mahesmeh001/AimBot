@@ -1,0 +1,40 @@
+{
+    "handle": "Lizchaaan",
+    "date": "2023-08-28T08:03:19",
+    "status": "active",
+    "first_name": "Liza Mier",
+    "last_name": "Custorio",
+    "home_team_name": "NYX Kyosei",
+    "home_team_acronym": "NYX",
+    "home_league_name": "game_changers_sea",
+    "region": "SEA",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 21,
+        "attack_kda": 2.2,
+        "defense_kda": 1.0,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.19,
+        "avg_combat_score_per_round": 222.67,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 114.73,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Sova": {
+                "total_rounds_played": 21,
+                "attack_kda": 2.2,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 222.67,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.73,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

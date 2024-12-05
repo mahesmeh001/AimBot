@@ -1,0 +1,52 @@
+{
+    "handle": "SSeeS",
+    "date": "2024-04-10T08:58:39",
+    "status": "active",
+    "first_name": "Okimura",
+    "last_name": "Tomonori",
+    "home_team_name": "DetonatioN FocusMe",
+    "home_team_acronym": "DFM",
+    "home_league_name": "vct_pacific",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 609,
+        "attack_kda": 1.2,
+        "defense_kda": 1.42,
+        "avg_kills_per_round": 0.57,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 159.37,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 79.84,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 134,
+                "attack_kda": 0.81,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.44,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 130.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 74.76,
+                "avg_first_bloods_per_round": 0.03,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Omen": {
+                "total_rounds_played": 475,
+                "attack_kda": 1.32,
+                "defense_kda": 1.47,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 167.38,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.27,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

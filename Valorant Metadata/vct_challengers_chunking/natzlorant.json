@@ -1,0 +1,76 @@
+{
+    "handle": "natzlorant",
+    "date": "2023-03-23T09:03:45",
+    "status": "active",
+    "first_name": "Jonathan ",
+    "last_name": "Adiputra",
+    "home_team_name": "ALTER EGO",
+    "home_team_acronym": "AE",
+    "home_league_name": "challengers_apac",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 473,
+        "attack_kda": 1.51,
+        "defense_kda": 1.44,
+        "avg_kills_per_round": 0.7,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 204.71,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 105.59,
+        "avg_first_bloods_per_round": 0.11,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Harbor": {
+                "total_rounds_played": 103,
+                "attack_kda": 1.36,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.86,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 249.56,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 125.44,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Omen": {
+                "total_rounds_played": 196,
+                "attack_kda": 1.55,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 186.11,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 93.58,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Brimstone": {
+                "total_rounds_played": 66,
+                "attack_kda": 1.45,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 185.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.63,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Astra": {
+                "total_rounds_played": 108,
+                "attack_kda": 1.69,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.45,
+                "avg_combat_score_per_round": 207.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.12,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "handle": "xenom",
+    "date": "2024-05-17T15:05:53",
+    "status": "active",
+    "first_name": "Eduardo",
+    "last_name": "Soeiro",
+    "home_team_name": "TropiCaos",
+    "home_team_acronym": "CAOS",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1307,
+        "attack_kda": 1.52,
+        "defense_kda": 1.5,
+        "avg_kills_per_round": 0.79,
+        "avg_assists_per_round": 0.25,
+        "avg_combat_score_per_round": 216.94,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 111.66,
+        "avg_first_bloods_per_round": 0.12,
+        "avg_first_deaths_per_round": 0.11
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 186,
+                "attack_kda": 1.4,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 219.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.6,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.22
+            },
+            "Neon": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.58,
+                "defense_kda": 0.0,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 128.93,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.44,
+                "avg_first_bloods_per_round": 0.14,
+                "avg_first_deaths_per_round": 0.36
+            },
+            "Jett": {
+                "total_rounds_played": 327,
+                "attack_kda": 1.15,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 217.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 109.86,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 80,
+                "attack_kda": 0.96,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 169.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.36,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 619,
+                "attack_kda": 1.81,
+                "defense_kda": 1.9,
+                "avg_kills_per_round": 0.82,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 222.31,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.34,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Brimstone": {
+                "total_rounds_played": 81,
+                "attack_kda": 2.46,
+                "defense_kda": 1.07,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.32,
+                "avg_combat_score_per_round": 228.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.47,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

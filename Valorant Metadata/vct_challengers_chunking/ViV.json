@@ -1,0 +1,76 @@
+{
+    "handle": "ViV",
+    "date": "2023-01-30T10:48:21",
+    "status": "active",
+    "first_name": "Vi\u1ec7t",
+    "last_name": "Ho\u00e0ng",
+    "home_team_name": "Team Big BAAM",
+    "home_team_acronym": "BAAM",
+    "home_league_name": "challengers_sea_vn",
+    "region": "VN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 557,
+        "attack_kda": 1.47,
+        "defense_kda": 1.6,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.49,
+        "avg_combat_score_per_round": 176.63,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 93.87,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 201,
+                "attack_kda": 1.51,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.63,
+                "avg_combat_score_per_round": 175.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.48,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Skye": {
+                "total_rounds_played": 215,
+                "attack_kda": 1.47,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.41,
+                "avg_combat_score_per_round": 198.95,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.9,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Breach": {
+                "total_rounds_played": 58,
+                "attack_kda": 1.71,
+                "defense_kda": 1.26,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 151.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 81.59,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Sova": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.2,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.45,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 138.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 80.2,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.13
+            }
+        }
+    }
+}

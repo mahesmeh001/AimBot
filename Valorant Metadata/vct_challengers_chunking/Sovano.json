@@ -1,0 +1,78 @@
+{
+    "handle": "Sovano",
+    "date": "2024-06-03T11:31:23",
+    "status": "active",
+    "first_name": "Alvin Daniel",
+    "last_name": "Oronce",
+    "home_team_name": "Rank El Cuties",
+    "home_team_acronym": "QT",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 262,
+        "attack_kda": 1.18,
+        "defense_kda": 1.47,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.16,
+        "avg_combat_score_per_round": 242.79,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 123.45,
+        "avg_first_bloods_per_round": 0.21,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 81,
+                "attack_kda": 1.33,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 1.01,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 281.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 136.68,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Raze": {
+                "total_rounds_played": 118,
+                "attack_kda": 0.93,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.75,
+                "avg_assists_per_round": 0.14,
+                "avg_combat_score_per_round": 213.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 114.82,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "ISO": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.56,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.83,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 245.08,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.73,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.17
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.42,
+                "defense_kda": 2.13,
+                "avg_kills_per_round": 0.9,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 249.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 121.87,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

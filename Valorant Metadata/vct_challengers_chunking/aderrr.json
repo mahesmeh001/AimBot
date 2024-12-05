@@ -1,0 +1,90 @@
+{
+    "handle": "aderrr",
+    "date": "2024-05-12T15:46:55",
+    "status": "active",
+    "first_name": "Rahman",
+    "last_name": "Suraji",
+    "home_team_name": "DIS Esports",
+    "home_team_acronym": "DIS",
+    "home_league_name": "challengers_sea_id",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 311,
+        "attack_kda": 1.26,
+        "defense_kda": 1.05,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 189.88,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 95.64,
+        "avg_first_bloods_per_round": 0.08,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 150,
+                "attack_kda": 1.16,
+                "defense_kda": 1.06,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 174.91,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 84.99,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Brimstone": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.0,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.36,
+                "avg_assists_per_round": 0.36,
+                "avg_combat_score_per_round": 145.36,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.5,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 44,
+                "attack_kda": 2.36,
+                "defense_kda": 0.95,
+                "avg_kills_per_round": 0.93,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 263.05,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 132.82,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.02
+            },
+            "Cypher": {
+                "total_rounds_played": 79,
+                "attack_kda": 1.32,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 197.33,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 100.6,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Sage": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.7,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 150.79,
+                "avg_revives_per_round": 0.08,
+                "avg_damage_dealt_per_round": 81.31,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

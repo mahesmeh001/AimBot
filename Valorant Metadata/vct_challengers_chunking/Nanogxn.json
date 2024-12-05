@@ -1,0 +1,80 @@
+{
+    "handle": "Nanogxn",
+    "date": "2024-03-06T11:06:59",
+    "status": "active",
+    "first_name": "Agit",
+    "last_name": "Akbas",
+    "home_team_name": "Vx300 Gaming",
+    "home_team_acronym": "VX3",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 161,
+        "attack_kda": 0.59,
+        "defense_kda": 1.03,
+        "avg_kills_per_round": 0.47,
+        "avg_assists_per_round": 0.18,
+        "avg_combat_score_per_round": 127.53,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 65.67,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 72,
+                "attack_kda": 0.85,
+                "defense_kda": 0.88,
+                "avg_kills_per_round": 0.47,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 134.68,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 67.08,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 13,
+                "attack_kda": 0.08,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.08,
+                "avg_assists_per_round": 0.08,
+                "avg_combat_score_per_round": 47.54,
+                "avg_revives_per_round": 0.08,
+                "avg_damage_dealt_per_round": 36.03,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Killjoy": {
+                "total_rounds_played": 56,
+                "attack_kda": 0.32,
+                "defense_kda": 0.87,
+                "avg_kills_per_round": 0.43,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 112.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 59.68,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.0,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 195.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.65,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "handle": "bnj",
+    "date": "2023-04-18T11:13:04",
+    "status": "active",
+    "first_name": "Benjamin",
+    "last_name": "Rabinovich",
+    "home_team_name": "Gillette InFinity Esports",
+    "home_team_acronym": "INF",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 232,
+        "attack_kda": 1.66,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.67,
+        "avg_assists_per_round": 0.48,
+        "avg_combat_score_per_round": 193.09,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 97.05,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 46,
+                "attack_kda": 1.59,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.39,
+                "avg_combat_score_per_round": 187.76,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.64,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Omen": {
+                "total_rounds_played": 102,
+                "attack_kda": 1.68,
+                "defense_kda": 1.8,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.61,
+                "avg_combat_score_per_round": 186.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.97,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            },
+            "Viper": {
+                "total_rounds_played": 18,
+                "attack_kda": 1.0,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.06,
+                "avg_combat_score_per_round": 156.44,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.64,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.47,
+                "defense_kda": 1.69,
+                "avg_kills_per_round": 0.7,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 196.79,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 92.12,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Sova": {
+                "total_rounds_played": 23,
+                "attack_kda": 2.71,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 254.74,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 124.46,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.0
+            }
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "handle": "Tacolilla",
+    "date": "2024-02-12T11:15:47",
+    "status": "active",
+    "first_name": "Vicente",
+    "last_name": "Vicente",
+    "home_team_name": "FUSION",
+    "home_team_acronym": "FSN",
+    "home_league_name": "challengers_latam",
+    "region": "LATAM",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 213,
+        "attack_kda": 1.34,
+        "defense_kda": 1.94,
+        "avg_kills_per_round": 0.8,
+        "avg_assists_per_round": 0.28,
+        "avg_combat_score_per_round": 225.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.96,
+        "avg_first_bloods_per_round": 0.15,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 48,
+                "attack_kda": 0.7,
+                "defense_kda": 2.6,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 175.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.92,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 46,
+                "attack_kda": 2.0,
+                "defense_kda": 1.82,
+                "avg_kills_per_round": 1.13,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 301.46,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 143.87,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Raze": {
+                "total_rounds_played": 80,
+                "attack_kda": 1.6,
+                "defense_kda": 1.67,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 228.8,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.82,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.09
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 39,
+                "attack_kda": 1.13,
+                "defense_kda": 2.08,
+                "avg_kills_per_round": 0.64,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 190.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 96.12,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.08
+            }
+        }
+    }
+}

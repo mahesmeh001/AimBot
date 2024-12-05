@@ -1,0 +1,102 @@
+{
+    "handle": "pANcada",
+    "date": "2024-06-17T07:01:57",
+    "status": "active",
+    "first_name": "Bryan Vinicius",
+    "last_name": "Luna da Silva",
+    "home_team_name": "Sentinels",
+    "home_team_acronym": "SEN",
+    "home_league_name": "vct_americas",
+    "region": "INTL",
+    "tournament": "vct-international",
+    "career_statistics": {
+        "total_rounds_played": 1293,
+        "attack_kda": 1.41,
+        "defense_kda": 1.64,
+        "avg_kills_per_round": 0.69,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 194.06,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.13,
+        "avg_first_bloods_per_round": 0.06,
+        "avg_first_deaths_per_round": 0.06
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 85,
+                "attack_kda": 1.29,
+                "defense_kda": 1.22,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 159.98,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.83,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Viper": {
+                "total_rounds_played": 223,
+                "attack_kda": 1.55,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.73,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 206.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 108.57,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Omen": {
+                "total_rounds_played": 453,
+                "attack_kda": 1.58,
+                "defense_kda": 1.93,
+                "avg_kills_per_round": 0.74,
+                "avg_assists_per_round": 0.38,
+                "avg_combat_score_per_round": 199.41,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 99.66,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Brimstone": {
+                "total_rounds_played": 153,
+                "attack_kda": 1.67,
+                "defense_kda": 1.81,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 202.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.41,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 330,
+                "attack_kda": 1.13,
+                "defense_kda": 1.28,
+                "avg_kills_per_round": 0.62,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 179.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 104.61,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sage": {
+                "total_rounds_played": 49,
+                "attack_kda": 0.67,
+                "defense_kda": 2.69,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 218.12,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 113.04,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

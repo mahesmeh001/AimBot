@@ -1,0 +1,94 @@
+{
+    "handle": "Reii",
+    "date": "2024-05-10T08:57:14",
+    "status": "active",
+    "first_name": "Juan Carlos",
+    "last_name": "Rangel",
+    "home_team_name": "LAZER",
+    "home_team_acronym": "LZR",
+    "home_league_name": "challengers_latam_n",
+    "region": "LAN",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 235,
+        "attack_kda": 0.98,
+        "defense_kda": 1.15,
+        "avg_kills_per_round": 0.68,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 205.6,
+        "avg_revives_per_round": 0.01,
+        "avg_damage_dealt_per_round": 111.52,
+        "avg_first_bloods_per_round": 0.16,
+        "avg_first_deaths_per_round": 0.17
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 117,
+                "attack_kda": 0.93,
+                "defense_kda": 1.21,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 214.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.42,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.2
+            },
+            "Raze": {
+                "total_rounds_played": 41,
+                "attack_kda": 0.78,
+                "defense_kda": 1.07,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 206.85,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.24,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.22
+            }
+        },
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.91,
+                "defense_kda": 1.0,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 185.17,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.58,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.0,
+                "defense_kda": 2.0,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.31,
+                "avg_combat_score_per_round": 268.25,
+                "avg_revives_per_round": 0.12,
+                "avg_damage_dealt_per_round": 139.93,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Gekko": {
+                "total_rounds_played": 43,
+                "attack_kda": 1.85,
+                "defense_kda": 0.75,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 164.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.94,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.09
+            }
+        }
+    }
+}

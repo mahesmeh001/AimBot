@@ -1,0 +1,40 @@
+{
+    "handle": "B0uncy",
+    "date": "2024-06-12T07:38:10",
+    "status": "active",
+    "first_name": "Joia",
+    "last_name": "Helsper",
+    "home_team_name": "LONETEAM",
+    "home_team_acronym": "LONE",
+    "home_league_name": "challengers_italy",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 20,
+        "attack_kda": 0.33,
+        "defense_kda": 0.7,
+        "avg_kills_per_round": 0.4,
+        "avg_assists_per_round": 0.05,
+        "avg_combat_score_per_round": 121.5,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 73.17,
+        "avg_first_bloods_per_round": 0.05,
+        "avg_first_deaths_per_round": 0.3
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.33,
+                "defense_kda": 0.7,
+                "avg_kills_per_round": 0.4,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 121.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 73.17,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.3
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "handle": "Mamba",
+    "date": "2023-01-11T07:17:50",
+    "status": "active",
+    "first_name": "li",
+    "last_name": "jun jie",
+    "home_team_name": "AxX",
+    "home_team_acronym": "AXX",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 340,
+        "attack_kda": 1.23,
+        "defense_kda": 1.37,
+        "avg_kills_per_round": 0.81,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 229.93,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 117.26,
+        "avg_first_bloods_per_round": 0.14,
+        "avg_first_deaths_per_round": 0.13
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.59,
+                "defense_kda": 1.41,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 231.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.49,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 84,
+                "attack_kda": 1.31,
+                "defense_kda": 1.57,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 275.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 142.54,
+                "avg_first_bloods_per_round": 0.23,
+                "avg_first_deaths_per_round": 0.12
+            },
+            "Phoenix": {
+                "total_rounds_played": 111,
+                "attack_kda": 1.34,
+                "defense_kda": 1.38,
+                "avg_kills_per_round": 0.8,
+                "avg_assists_per_round": 0.25,
+                "avg_combat_score_per_round": 229.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.49,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Raze": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.55,
+                "defense_kda": 1.13,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.07,
+                "avg_combat_score_per_round": 172.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.89,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Sentinel": {
+            "Cypher": {
+                "total_rounds_played": 18,
+                "attack_kda": 0.9,
+                "defense_kda": 0.33,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.11,
+                "avg_combat_score_per_round": 147.06,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 77.85,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "handle": "z2w",
+    "date": "2024-02-22T08:27:39",
+    "status": "active",
+    "first_name": "Zhong-Wei",
+    "last_name": "Zheng",
+    "home_team_name": "yuanyoyin",
+    "home_team_acronym": "YYY",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 175,
+        "attack_kda": 1.33,
+        "defense_kda": 0.86,
+        "avg_kills_per_round": 0.71,
+        "avg_assists_per_round": 0.17,
+        "avg_combat_score_per_round": 211.85,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.78,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.09
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 61,
+                "attack_kda": 1.57,
+                "defense_kda": 0.79,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 232.89,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.14,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Cypher": {
+                "total_rounds_played": 22,
+                "attack_kda": 1.0,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.59,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 194.55,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 110.6,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.3,
+                "defense_kda": 0.78,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 213.54,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 112.26,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Raze": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.12,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.54,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 169.42,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 105.14,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.25
+            }
+        }
+    }
+}

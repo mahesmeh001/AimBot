@@ -1,0 +1,80 @@
+{
+    "handle": "RealB",
+    "date": "2023-02-19T11:12:49",
+    "status": "active",
+    "first_name": "V\u0169 Ng\u1ecdc \u0110\u1ee9c ",
+    "last_name": "Hi\u1ebfu",
+    "home_team_name": "EGO",
+    "home_team_acronym": "EGO",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 146,
+        "attack_kda": 1.19,
+        "defense_kda": 1.31,
+        "avg_kills_per_round": 0.73,
+        "avg_assists_per_round": 0.27,
+        "avg_combat_score_per_round": 211.72,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 112.78,
+        "avg_first_bloods_per_round": 0.09,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 80,
+                "attack_kda": 1.25,
+                "defense_kda": 1.11,
+                "avg_kills_per_round": 0.72,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 211.66,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.9,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.06
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.09,
+                "defense_kda": 1.6,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 216.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.63,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Breach": {
+                "total_rounds_played": 24,
+                "attack_kda": 0.7,
+                "defense_kda": 2.5,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 160.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 83.69,
+                "avg_first_bloods_per_round": 0.08,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.67,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.91,
+                "avg_assists_per_round": 0.09,
+                "avg_combat_score_per_round": 261.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 133.59,
+                "avg_first_bloods_per_round": 0.13,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

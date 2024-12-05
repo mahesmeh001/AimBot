@@ -1,0 +1,104 @@
+{
+    "handle": "Governor",
+    "date": "2024-01-31T11:04:43",
+    "status": "active",
+    "first_name": "Peter",
+    "last_name": "No",
+    "home_team_name": "Turtle Troops",
+    "home_team_acronym": "TTR",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 536,
+        "attack_kda": 1.25,
+        "defense_kda": 1.41,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 219.75,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 116.18,
+        "avg_first_bloods_per_round": 0.2,
+        "avg_first_deaths_per_round": 0.16
+    },
+    "player_statistics_per_agent": {
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 39,
+                "attack_kda": 0.58,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.69,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 191.77,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.35,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.13
+            }
+        },
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 300,
+                "attack_kda": 1.25,
+                "defense_kda": 1.49,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 222.86,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 113.14,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.16
+            },
+            "Neon": {
+                "total_rounds_played": 83,
+                "attack_kda": 1.69,
+                "defense_kda": 1.55,
+                "avg_kills_per_round": 0.92,
+                "avg_assists_per_round": 0.22,
+                "avg_combat_score_per_round": 256.61,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 139.96,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.18
+            },
+            "Raze": {
+                "total_rounds_played": 59,
+                "attack_kda": 1.14,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 228.02,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 123.61,
+                "avg_first_bloods_per_round": 0.22,
+                "avg_first_deaths_per_round": 0.15
+            }
+        },
+        "Initiator": {
+            "KAY/O": {
+                "total_rounds_played": 34,
+                "attack_kda": 0.91,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.35,
+                "avg_assists_per_round": 0.44,
+                "avg_combat_score_per_round": 128.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.88,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.26
+            },
+            "Breach": {
+                "total_rounds_played": 21,
+                "attack_kda": 2.0,
+                "defense_kda": 1.3,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.43,
+                "avg_combat_score_per_round": 206.52,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 102.01,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

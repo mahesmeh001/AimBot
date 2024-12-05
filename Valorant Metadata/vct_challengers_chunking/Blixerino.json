@@ -1,0 +1,64 @@
+{
+    "handle": "Blixerino",
+    "date": "2023-01-24T08:14:54",
+    "status": "active",
+    "first_name": "Belci\u00f1a",
+    "last_name": "Hans Blix",
+    "home_team_name": "Puggers",
+    "home_team_acronym": "PUG",
+    "home_league_name": "challengers_sea_ph",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 268,
+        "attack_kda": 1.19,
+        "defense_kda": 1.21,
+        "avg_kills_per_round": 0.64,
+        "avg_assists_per_round": 0.3,
+        "avg_combat_score_per_round": 182.59,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 95.17,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.07
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Astra": {
+                "total_rounds_played": 139,
+                "attack_kda": 1.1,
+                "defense_kda": 1.23,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 180.53,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 95.0,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Viper": {
+                "total_rounds_played": 106,
+                "attack_kda": 1.22,
+                "defense_kda": 1.09,
+                "avg_kills_per_round": 0.67,
+                "avg_assists_per_round": 0.3,
+                "avg_combat_score_per_round": 189.35,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 98.17,
+                "avg_first_bloods_per_round": 0.04,
+                "avg_first_deaths_per_round": 0.07
+            },
+            "Omen": {
+                "total_rounds_played": 23,
+                "attack_kda": 1.57,
+                "defense_kda": 1.75,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 163.96,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 82.33,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.04
+            }
+        }
+    }
+}

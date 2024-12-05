@@ -1,0 +1,64 @@
+{
+    "handle": "nekopanchi",
+    "date": "2024-07-08T03:05:09",
+    "status": "active",
+    "first_name": "Kasumi",
+    "last_name": "Yoshida",
+    "home_team_name": "Meteor",
+    "home_team_acronym": "MTR",
+    "home_league_name": "game_changers_jpn",
+    "region": "JP",
+    "tournament": "game-changers",
+    "career_statistics": {
+        "total_rounds_played": 111,
+        "attack_kda": 1.11,
+        "defense_kda": 1.94,
+        "avg_kills_per_round": 0.62,
+        "avg_assists_per_round": 0.36,
+        "avg_combat_score_per_round": 177.18,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 91.65,
+        "avg_first_bloods_per_round": 0.07,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Viper": {
+                "total_rounds_played": 17,
+                "attack_kda": 1.0,
+                "defense_kda": 5.0,
+                "avg_kills_per_round": 0.94,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 234.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 111.61,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Omen": {
+                "total_rounds_played": 64,
+                "attack_kda": 1.15,
+                "defense_kda": 1.79,
+                "avg_kills_per_round": 0.56,
+                "avg_assists_per_round": 0.47,
+                "avg_combat_score_per_round": 166.03,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.45,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Astra": {
+                "total_rounds_played": 30,
+                "attack_kda": 1.08,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.27,
+                "avg_combat_score_per_round": 168.6,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 89.3,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.07
+            }
+        }
+    }
+}

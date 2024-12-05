@@ -1,0 +1,104 @@
+{
+    "handle": "Marin3",
+    "date": "2023-01-19T12:32:36",
+    "status": "active",
+    "first_name": "Akira",
+    "last_name": "kato",
+    "home_team_name": "Crest Gaming",
+    "home_team_acronym": "CGV",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 780,
+        "attack_kda": 1.05,
+        "defense_kda": 1.24,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.2,
+        "avg_combat_score_per_round": 185.3,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 102.01,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.12
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 91,
+                "attack_kda": 1.59,
+                "defense_kda": 1.35,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.4,
+                "avg_combat_score_per_round": 193.62,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.34,
+                "avg_first_bloods_per_round": 0.09,
+                "avg_first_deaths_per_round": 0.1
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 589,
+                "attack_kda": 1.06,
+                "defense_kda": 1.31,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 192.82,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 107.0,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.11
+            },
+            "Cypher": {
+                "total_rounds_played": 35,
+                "attack_kda": 0.7,
+                "defense_kda": 0.36,
+                "avg_kills_per_round": 0.34,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 118.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 69.4,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Chamber": {
+                "total_rounds_played": 16,
+                "attack_kda": 0.5,
+                "defense_kda": 1.25,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 165.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 97.22,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.25
+            }
+        },
+        "Duelist": {
+            "Neon": {
+                "total_rounds_played": 28,
+                "attack_kda": 1.0,
+                "defense_kda": 0.92,
+                "avg_kills_per_round": 0.5,
+                "avg_assists_per_round": 0.21,
+                "avg_combat_score_per_round": 156.71,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 90.83,
+                "avg_first_bloods_per_round": 0.11,
+                "avg_first_deaths_per_round": 0.21
+            },
+            "Raze": {
+                "total_rounds_played": 21,
+                "attack_kda": 0.45,
+                "defense_kda": 0.67,
+                "avg_kills_per_round": 0.24,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 102.29,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.35,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.29
+            }
+        }
+    }
+}

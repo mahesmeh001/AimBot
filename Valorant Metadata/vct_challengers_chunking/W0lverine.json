@@ -1,0 +1,106 @@
+{
+    "handle": "W0lverine",
+    "date": "2024-01-30T13:42:51",
+    "status": "active",
+    "first_name": "Hyeon Thae",
+    "last_name": "Jo",
+    "home_team_name": "Northeption",
+    "home_team_acronym": "NRTH",
+    "home_league_name": "challengers_jpn",
+    "region": "JP",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 772,
+        "attack_kda": 1.03,
+        "defense_kda": 1.32,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 219.89,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 113.32,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.2
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Raze": {
+                "total_rounds_played": 193,
+                "attack_kda": 1.03,
+                "defense_kda": 1.2,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.18,
+                "avg_combat_score_per_round": 225.13,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.98,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.24
+            },
+            "Jett": {
+                "total_rounds_played": 483,
+                "attack_kda": 1.08,
+                "defense_kda": 1.42,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.12,
+                "avg_combat_score_per_round": 229.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 116.79,
+                "avg_first_bloods_per_round": 0.19,
+                "avg_first_deaths_per_round": 0.19
+            },
+            "Yoru": {
+                "total_rounds_played": 43,
+                "attack_kda": 0.68,
+                "defense_kda": 1.5,
+                "avg_kills_per_round": 0.63,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 179.7,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 87.0,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.26
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 19,
+                "attack_kda": 1.44,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.0,
+                "avg_combat_score_per_round": 194.47,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 101.47,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.11
+            }
+        },
+        "Initiator": {
+            "Fade": {
+                "total_rounds_played": 14,
+                "attack_kda": 0.58,
+                "defense_kda": 0.5,
+                "avg_kills_per_round": 0.29,
+                "avg_assists_per_round": 0.29,
+                "avg_combat_score_per_round": 84.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 37.14,
+                "avg_first_bloods_per_round": 0.07,
+                "avg_first_deaths_per_round": 0.0
+            }
+        },
+        "null": {
+            "null": {
+                "total_rounds_played": 20,
+                "attack_kda": 0.75,
+                "defense_kda": 0.91,
+                "avg_kills_per_round": 0.6,
+                "avg_assists_per_round": 0.2,
+                "avg_combat_score_per_round": 152.15,
+                "avg_revives_per_round": 0.15,
+                "avg_damage_dealt_per_round": 125.04,
+                "avg_first_bloods_per_round": 0.05,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

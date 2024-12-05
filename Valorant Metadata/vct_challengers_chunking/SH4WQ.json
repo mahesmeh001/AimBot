@@ -1,0 +1,78 @@
+{
+    "handle": "SH4WQ",
+    "date": "2024-05-21T11:41:47",
+    "status": "active",
+    "first_name": "Lucas",
+    "last_name": "Bourrez",
+    "home_team_name": "GTZ Esports",
+    "home_team_acronym": "GTZ",
+    "home_league_name": "challengers_portugal",
+    "region": "EMEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 115,
+        "attack_kda": 1.07,
+        "defense_kda": 1.35,
+        "avg_kills_per_round": 0.63,
+        "avg_assists_per_round": 0.37,
+        "avg_combat_score_per_round": 177.69,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 84.63,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.03
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Breach": {
+                "total_rounds_played": 38,
+                "attack_kda": 1.0,
+                "defense_kda": 1.53,
+                "avg_kills_per_round": 0.61,
+                "avg_assists_per_round": 0.5,
+                "avg_combat_score_per_round": 158.24,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 68.0,
+                "avg_first_bloods_per_round": 0.0,
+                "avg_first_deaths_per_round": 0.0
+            },
+            "Skye": {
+                "total_rounds_played": 41,
+                "attack_kda": 1.7,
+                "defense_kda": 1.19,
+                "avg_kills_per_round": 0.66,
+                "avg_assists_per_round": 0.37,
+                "avg_combat_score_per_round": 188.27,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 91.5,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.05
+            }
+        },
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 19,
+                "attack_kda": 0.57,
+                "defense_kda": 1.89,
+                "avg_kills_per_round": 0.84,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 246.26,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.79,
+                "avg_first_bloods_per_round": 0.26,
+                "avg_first_deaths_per_round": 0.05
+            },
+            "Harbor": {
+                "total_rounds_played": 17,
+                "attack_kda": 0.91,
+                "defense_kda": 0.25,
+                "avg_kills_per_round": 0.41,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 119.0,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 62.61,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.06
+            }
+        }
+    }
+}

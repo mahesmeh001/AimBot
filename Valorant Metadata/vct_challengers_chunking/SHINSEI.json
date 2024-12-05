@@ -1,0 +1,78 @@
+{
+    "handle": "SHINSEI",
+    "date": "2024-06-04T08:39:53",
+    "status": "active",
+    "first_name": "Zhong",
+    "last_name": "Kang",
+    "home_team_name": "Kizuna Esports",
+    "home_team_acronym": "KZ",
+    "home_league_name": "challengers_sea_sg_and_my",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 734,
+        "attack_kda": 1.05,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.86,
+        "avg_assists_per_round": 0.15,
+        "avg_combat_score_per_round": 245.13,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 121.66,
+        "avg_first_bloods_per_round": 0.25,
+        "avg_first_deaths_per_round": 0.21
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 624,
+                "attack_kda": 1.07,
+                "defense_kda": 1.45,
+                "avg_kills_per_round": 0.87,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 245.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 120.88,
+                "avg_first_bloods_per_round": 0.27,
+                "avg_first_deaths_per_round": 0.23
+            },
+            "Raze": {
+                "total_rounds_played": 66,
+                "attack_kda": 0.5,
+                "defense_kda": 2.15,
+                "avg_kills_per_round": 0.68,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 216.64,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.17,
+                "avg_first_bloods_per_round": 0.17,
+                "avg_first_deaths_per_round": 0.17
+            },
+            "Phoenix": {
+                "total_rounds_played": 24,
+                "attack_kda": 1.78,
+                "defense_kda": 2.12,
+                "avg_kills_per_round": 1.04,
+                "avg_assists_per_round": 0.33,
+                "avg_combat_score_per_round": 305.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 153.91,
+                "avg_first_bloods_per_round": 0.12,
+                "avg_first_deaths_per_round": 0.12
+            }
+        },
+        "Sentinel": {
+            "Killjoy": {
+                "total_rounds_played": 20,
+                "attack_kda": 2.25,
+                "defense_kda": 1.33,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.05,
+                "avg_combat_score_per_round": 244.5,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.9,
+                "avg_first_bloods_per_round": 0.2,
+                "avg_first_deaths_per_round": 0.05
+            }
+        }
+    }
+}

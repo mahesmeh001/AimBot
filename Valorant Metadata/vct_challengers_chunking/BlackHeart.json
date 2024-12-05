@@ -1,0 +1,78 @@
+{
+    "handle": "BlackHeart",
+    "date": "2023-04-11T07:11:52",
+    "status": "active",
+    "first_name": "Hasan",
+    "last_name": "Hammad",
+    "home_team_name": "MAD Lions",
+    "home_team_acronym": "MAD",
+    "home_league_name": "challengers_na",
+    "region": "NA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 288,
+        "attack_kda": 1.68,
+        "defense_kda": 1.02,
+        "avg_kills_per_round": 0.59,
+        "avg_assists_per_round": 0.39,
+        "avg_combat_score_per_round": 169.01,
+        "avg_revives_per_round": 0.02,
+        "avg_damage_dealt_per_round": 86.64,
+        "avg_first_bloods_per_round": 0.04,
+        "avg_first_deaths_per_round": 0.08
+    },
+    "player_statistics_per_agent": {
+        "Initiator": {
+            "Skye": {
+                "total_rounds_played": 81,
+                "attack_kda": 2.57,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.58,
+                "avg_assists_per_round": 0.54,
+                "avg_combat_score_per_round": 162.12,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 78.91,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.06
+            },
+            "Sova": {
+                "total_rounds_played": 89,
+                "attack_kda": 1.34,
+                "defense_kda": 0.86,
+                "avg_kills_per_round": 0.57,
+                "avg_assists_per_round": 0.28,
+                "avg_combat_score_per_round": 172.99,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 94.36,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.1
+            },
+            "Breach": {
+                "total_rounds_played": 50,
+                "attack_kda": 1.37,
+                "defense_kda": 1.1,
+                "avg_kills_per_round": 0.46,
+                "avg_assists_per_round": 0.52,
+                "avg_combat_score_per_round": 134.84,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 65.66,
+                "avg_first_bloods_per_round": 0.02,
+                "avg_first_deaths_per_round": 0.04
+            }
+        },
+        "Sentinel": {
+            "Sage": {
+                "total_rounds_played": 68,
+                "attack_kda": 1.48,
+                "defense_kda": 1.12,
+                "avg_kills_per_round": 0.71,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 197.15,
+                "avg_revives_per_round": 0.1,
+                "avg_damage_dealt_per_round": 101.14,
+                "avg_first_bloods_per_round": 0.06,
+                "avg_first_deaths_per_round": 0.12
+            }
+        }
+    }
+}

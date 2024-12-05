@@ -1,0 +1,40 @@
+{
+    "handle": "X1aoFeng",
+    "date": "2024-01-22T14:47:30",
+    "status": "active",
+    "first_name": "cheng feng",
+    "last_name": "XIE",
+    "home_team_name": "ROA Esport",
+    "home_team_acronym": "ROA",
+    "home_league_name": "challengers_sea_hk_and_tw",
+    "region": "SEA",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 31,
+        "attack_kda": 1.46,
+        "defense_kda": 1.07,
+        "avg_kills_per_round": 0.77,
+        "avg_assists_per_round": 0.35,
+        "avg_combat_score_per_round": 225.87,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 115.19,
+        "avg_first_bloods_per_round": 0.1,
+        "avg_first_deaths_per_round": 0.1
+    },
+    "player_statistics_per_agent": {
+        "Controller": {
+            "Omen": {
+                "total_rounds_played": 31,
+                "attack_kda": 1.46,
+                "defense_kda": 1.07,
+                "avg_kills_per_round": 0.77,
+                "avg_assists_per_round": 0.35,
+                "avg_combat_score_per_round": 225.87,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 115.19,
+                "avg_first_bloods_per_round": 0.1,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}

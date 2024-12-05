@@ -1,0 +1,64 @@
+{
+    "handle": "JaebiN",
+    "date": "2024-02-15T14:07:32",
+    "status": "active",
+    "first_name": "JAEBIN",
+    "last_name": "LEE",
+    "home_team_name": "SLT Seongnam",
+    "home_team_acronym": "SLT",
+    "home_league_name": "challengers_kr",
+    "region": "KR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1722,
+        "attack_kda": 1.19,
+        "defense_kda": 1.52,
+        "avg_kills_per_round": 0.78,
+        "avg_assists_per_round": 0.23,
+        "avg_combat_score_per_round": 229.44,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 126.11,
+        "avg_first_bloods_per_round": 0.17,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 698,
+                "attack_kda": 1.11,
+                "defense_kda": 1.44,
+                "avg_kills_per_round": 0.76,
+                "avg_assists_per_round": 0.19,
+                "avg_combat_score_per_round": 220.97,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 119.15,
+                "avg_first_bloods_per_round": 0.18,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Raze": {
+                "total_rounds_played": 953,
+                "attack_kda": 1.22,
+                "defense_kda": 1.61,
+                "avg_kills_per_round": 0.79,
+                "avg_assists_per_round": 0.26,
+                "avg_combat_score_per_round": 234.32,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 131.75,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.15
+            },
+            "Neon": {
+                "total_rounds_played": 71,
+                "attack_kda": 1.74,
+                "defense_kda": 1.14,
+                "avg_kills_per_round": 0.89,
+                "avg_assists_per_round": 0.24,
+                "avg_combat_score_per_round": 247.25,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 118.95,
+                "avg_first_bloods_per_round": 0.15,
+                "avg_first_deaths_per_round": 0.15
+            }
+        }
+    }
+}

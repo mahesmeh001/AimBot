@@ -1,0 +1,78 @@
+{
+    "handle": "Sato",
+    "date": "2024-02-09T12:07:55",
+    "status": "active",
+    "first_name": "Eduardo Kenzo",
+    "last_name": "Nagahama Sato",
+    "home_team_name": "Galorys",
+    "home_team_acronym": "GLRS",
+    "home_league_name": "challengers_br",
+    "region": "BR",
+    "tournament": "vct-challengers",
+    "career_statistics": {
+        "total_rounds_played": 1287,
+        "attack_kda": 1.48,
+        "defense_kda": 1.45,
+        "avg_kills_per_round": 0.9,
+        "avg_assists_per_round": 0.14,
+        "avg_combat_score_per_round": 254.35,
+        "avg_revives_per_round": 0.0,
+        "avg_damage_dealt_per_round": 130.35,
+        "avg_first_bloods_per_round": 0.18,
+        "avg_first_deaths_per_round": 0.14
+    },
+    "player_statistics_per_agent": {
+        "Duelist": {
+            "Jett": {
+                "total_rounds_played": 833,
+                "attack_kda": 1.4,
+                "defense_kda": 1.43,
+                "avg_kills_per_round": 0.85,
+                "avg_assists_per_round": 0.13,
+                "avg_combat_score_per_round": 239.22,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 122.36,
+                "avg_first_bloods_per_round": 0.16,
+                "avg_first_deaths_per_round": 0.14
+            },
+            "Raze": {
+                "total_rounds_played": 320,
+                "attack_kda": 1.74,
+                "defense_kda": 1.4,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.15,
+                "avg_combat_score_per_round": 289.43,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 148.49,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.13
+            },
+            "Neon": {
+                "total_rounds_played": 86,
+                "attack_kda": 1.36,
+                "defense_kda": 1.71,
+                "avg_kills_per_round": 1.0,
+                "avg_assists_per_round": 0.23,
+                "avg_combat_score_per_round": 285.73,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 147.31,
+                "avg_first_bloods_per_round": 0.21,
+                "avg_first_deaths_per_round": 0.21
+            }
+        },
+        "Sentinel": {
+            "Chamber": {
+                "total_rounds_played": 48,
+                "attack_kda": 1.62,
+                "defense_kda": 1.62,
+                "avg_kills_per_round": 0.81,
+                "avg_assists_per_round": 0.17,
+                "avg_combat_score_per_round": 226.88,
+                "avg_revives_per_round": 0.0,
+                "avg_damage_dealt_per_round": 117.72,
+                "avg_first_bloods_per_round": 0.25,
+                "avg_first_deaths_per_round": 0.1
+            }
+        }
+    }
+}
