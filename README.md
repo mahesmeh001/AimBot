@@ -1,5 +1,3 @@
-# NLP Project
-
 ## Folder Breakdown
 
 ### **ETL**
